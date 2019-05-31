@@ -1,0 +1,277 @@
+{
+    "Gods": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "ID": {
+                        "S": "1"
+                    },
+                    "Name": {
+                        "S": "achilles"
+                    },
+                    "Description": {
+                        "S": "Hero of the Trojan War"
+                    },
+                    "Pantheon": {
+                        "S": "Greek"
+                    },
+                    "Class": {
+                        "S": "Warrior"
+                    },
+                    "Picture": {
+                        "S": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/6/66/SkinArt_Achilles_Default.jpg/250px-SkinArt_Achilles_Default.jpg?version=82632ebe20d25b2eaf91e05811145214"
+                    },
+                    "Type": {
+                        "S": "Melee,Physical"
+                    },
+                    "Favor": {
+                        "S": "5,500"
+                    },
+                    "Gems": {
+                        "S": "200"
+                    },
+                    "Release Date": {
+                        "S": "February 27, 2018"
+                    },
+                    "Difficulty": {
+                        "S": "Average"
+                    },
+                    "Lore": {
+                        "S": "King Agamemnon brought his fury to bear against gilded Troy, for Prince Paris had stolen his Helen, his wife, whose beauty rivaled that of Athena and Aphrodite. To famed Achilles, invincible warrior, the king gave command of a thousand ships.Across stormy seas and salted beach, soldiers sieged the city. Arrow and stone, blade and barb bounced from Achilles' skin. Bathed as a babe in the River Styx by his Nereid mother, his hide was hardened, imperviously made. Through every charge, every death defying battle, Achilles was at the fore. Troy hung poised to crumble.Until Agamemnon gave sleight to the mighty myrmidon. In grave offense, Achilles pulled his forces from the field. Hector, boldest, bravest, eldest of the Trojan princes seized the chance to push the Greeks to the sea. Water's reflection mirrored scorching sails as Hector fired their ships. All seemed lost until Achilles rose to meet him. Fierce and fast the two titans fought, but Hector's spear felled Achilles fair. Though Patroclus, it was, in the armor of Achilles, not Achilles who lay dead.Wrathful at the loss of his faithful friend, Achilles donned armor newly made and challenged Hector alone. Spear and blade and amor rang, but Achilles could not be harmed. Hector, prince of Troy, died in battle that day.Paris, brother lost, tearful eyed, let arrow loose, guided by divine envy. For some were Gods that could not suffer Achilles to survive. Straight and true the arrow flew and harpooned Achilles' heel, where his mother held him when submerged. The wound was deep, his weakness found, Achilles met his end.A decade hence, from Hades' depths, Achilles has been drawn. Armored now, upon the heel, revenge his only aim. For envious Gods stole from him his glory and his life. Now they tremble at the wrath of the man that cannot be harmed."
+                    },
+                    "Abilities": {
+                        "L": [
+                            {
+                                "M": {
+                                    "ID": {
+                                        "S": "1"
+                                    },
+                                    "Name": {
+                                        "S": "Gift of the Gods"
+                                    },
+                                    "Slot": {
+                                        "S": "Passive"
+                                    },
+                                    "URL": {
+                                        "S": "https://smiteapi.adammackle.com/ability/1"
+                                    }
+                                }
+                            },
+                            {
+                                "M": {
+                                    "ID": {
+                                        "S": "2"
+                                    },
+                                    "Name": {
+                                        "S": "Shield of Achilles"
+                                    },
+                                    "Slot": {
+                                        "S": "1st Ability"
+                                    },
+                                    "URL": {
+                                        "S": "https://smiteapi.adammackle.com/ability/2"
+                                    }
+                                }
+                            },
+                            {
+                                "M": {
+                                    "ID": {
+                                        "S": "3"
+                                    },
+                                    "Name": {
+                                        "S": "Radiant Glory"
+                                    },
+                                    "Slot": {
+                                        "S": "2nd Ability"
+                                    },
+                                    "URL": {
+                                        "S": "https://smiteapi.adammackle.com/ability/3"
+                                    }
+                                }
+                            },
+                            {
+                                "M": {
+                                    "ID": {
+                                        "S": "4"
+                                    },
+                                    "Name": {
+                                        "S": "Combat Dodge"
+                                    },
+                                    "Slot": {
+                                        "S": "3rd Ability"
+                                    },
+                                    "URL": {
+                                        "S": "https://smiteapi.adammackle.com/ability/4"
+                                    }
+                                }
+                            },
+                            {
+                                "M": {
+                                    "ID": {
+                                        "S": "5"
+                                    },
+                                    "Name": {
+                                        "S": "Fatal Strike"
+                                    },
+                                    "Slot": {
+                                        "S": "Ultimate"
+                                    },
+                                    "URL": {
+                                        "S": "https://smiteapi.adammackle.com/ability/5"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "Stats": {
+                        "L": [
+                            {
+                                "M": {
+                                    "ID": {
+                                        "S": "1"
+                                    },
+                                    "Name": {
+                                        "S": "Health"
+                                    },
+                                    "Base": {
+                                        "S": "475 (+85)"
+                                    }
+                                }
+                            },
+                            {
+                                "M": {
+                                    "ID": {
+                                        "S": "2"
+                                    },
+                                    "Name": {
+                                        "S": "Mana"
+                                    },
+                                    "Base": {
+                                        "S": "205 (+35)"
+                                    }
+                                }
+                            },
+                            {
+                                "M": {
+                                    "ID": {
+                                        "S": "3"
+                                    },
+                                    "Name": {
+                                        "S": "Move Speed"
+                                    },
+                                    "Base": {
+                                        "S": "370 (+0)"
+                                    }
+                                }
+                            },
+                            {
+                                "M": {
+                                    "ID": {
+                                        "S": "4"
+                                    },
+                                    "Name": {
+                                        "S": "Range"
+                                    },
+                                    "Base": {
+                                        "S": "16 (+0)"
+                                    }
+                                }
+                            },
+                            {
+                                "M": {
+                                    "ID": {
+                                        "S": "5"
+                                    },
+                                    "Name": {
+                                        "S": "Attack Per Second"
+                                    },
+                                    "Base": {
+                                        "S": "0.95 (+1.25%)"
+                                    }
+                                }
+                            },
+                            {
+                                "M": {
+                                    "ID": {
+                                        "S": "6"
+                                    },
+                                    "Name": {
+                                        "S": "Basic Attack Damage"
+                                    },
+                                    "Base": {
+                                        "S": "38 (+ 2)+ 100% of Physical Power"
+                                    }
+                                }
+                            },
+                            {
+                                "M": {
+                                    "ID": {
+                                        "S": "7"
+                                    },
+                                    "Name": {
+                                        "S": "Progression"
+                                    },
+                                    "Base": {
+                                        "S": "None"
+                                    }
+                                }
+                            },
+                            {
+                                "M": {
+                                    "ID": {
+                                        "S": "8"
+                                    },
+                                    "Name": {
+                                        "S": "Magical Protection"
+                                    },
+                                    "Base": {
+                                        "S": "30 (+0.9)"
+                                    }
+                                }
+                            },
+                            {
+                                "M": {
+                                    "ID": {
+                                        "S": "9"
+                                    },
+                                    "Name": {
+                                        "S": "Physical Protection"
+                                    },
+                                    "Base": {
+                                        "S": "17 (+3)"
+                                    }
+                                }
+                            },
+                            {
+                                "M": {
+                                    "ID": {
+                                        "S": "10"
+                                    },
+                                    "Name": {
+                                        "S": "HP5"
+                                    },
+                                    "Base": {
+                                        "S": "9 (+0.75)"
+                                    }
+                                }
+                            },
+                            {
+                                "M": {
+                                    "ID": {
+                                        "S": "11"
+                                    },
+                                    "Name": {
+                                        "S": "MP5"
+                                    },
+                                    "Base": {
+                                        "S": "4.7 (+0.39)"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

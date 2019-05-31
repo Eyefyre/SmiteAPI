@@ -1,0 +1,46 @@
+{
+    "Gods": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "ID": {
+                        "S": ""
+                    },
+                    "Name": {
+                        "S": ""
+                    },
+                    "Description": {
+                        "S": ""
+                    },
+                    "Slot": {
+                        "S": ""
+                    },
+                    "God ID": {
+                        "S": ""
+                    },
+                    "Damage": {
+                        "S": ""
+                    },
+                    "Ability Type": {
+                        "S": ""
+                    },
+                    "Cooldown": {
+                        "S": ""
+                    },
+                    "Picture": {
+                        "S": ""
+                    },
+                    "Healing": {
+                        "S": ""
+                    },
+                    "Notes": {
+                        "S": ""
+                    },
+                    "Cost": {
+                        "S": ""
+                    }
+                }
+            }
+        }
+    ]
+}
