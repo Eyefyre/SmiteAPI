@@ -22,7 +22,7 @@ URLArray.sort()
 for URL in URLArray:
     GodID+= 1
     if GodID != 1:
-        AbilityID += 5
+        AbilityID+=5
     response = requests.get(URL, timeout=5)
     content = BeautifulSoup(response.content, "html.parser")
     GodInfo = content.find('table', attrs={"class": "infobox"}).find_all("tr")
@@ -93,6 +93,6 @@ for URL in URLArray:
         StatID+=1
         GodObject["Gods"][0]["PutRequest"]["Item"]["Stats"]["L"].append({"M":{"ID":{"S":str(StatID)},"Name":{"S":GodHeadings[y].strip()},"Base":{"S":GodText[y].strip()},}},)
     for z in range(len(AbilityNames)):
-        GodObject["Gods"][0]["PutRequest"]["Item"]["Abilities"]["L"].append({"M":{"ID":{"S":str((AbilityID + z)+1)},"Name":{"S":AbilityNames[z].strip()},"Slot":{"S":AbilitySlots[z].strip()},"URL":{"S":APIAbilityURL + str(AbilityID)},}},)
+        GodObject["Gods"][0]["PutRequest"]["Item"]["Abilities"]["L"].append({"M":{"ID":{"S":str((AbilityID + (z+1)))},"Name":{"S":AbilityNames[z].strip()},"Slot":{"S":AbilitySlots[z].strip()},"URL":{"S":APIAbilityURL + str((AbilityID + (z+1)))},}},)
     with open(ScriptPath + GodHeadings[0].strip() + '.json', 'w') as outfile:
         json.dump(GodObject, outfile)
