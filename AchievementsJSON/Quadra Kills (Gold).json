@@ -1,0 +1,1 @@
+{"Achievements": [{"PutRequest": {"Item": {"ID": {"S": "120"}, "Name": {"S": "Quadra Kills (Gold)"}, "Picture": {"S": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/4/40/Achievement_Kills_QuadraKills_Gold.png/96px-Achievement_Kills_QuadraKills_Gold.png?version=f66ef2c19e3ba1006e770457a1c7d831"}, "Description": {"S": "10 Quadra Kills."}, "Category": {"S": "Kills"}}}}]}

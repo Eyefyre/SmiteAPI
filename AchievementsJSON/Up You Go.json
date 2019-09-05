@@ -1,0 +1,1 @@
+{"Achievements": [{"PutRequest": {"Item": {"ID": {"S": "382"}, "Name": {"S": "Up You Go"}, "Picture": {"S": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/9/93/Achievement_Combat_UpYouGo.png/96px-Achievement_Combat_UpYouGo.png?version=3e888c3544b369096dcbb2c5bf26fabc"}, "Description": {"S": "Knockup 15 enemy gods."}, "Category": {"S": "Combat"}}}}]}

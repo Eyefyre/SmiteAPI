@@ -1,0 +1,1 @@
+{"Achievements": [{"PutRequest": {"Item": {"ID": {"S": "128"}, "Name": {"S": "Sprees (Bronze)"}, "Picture": {"S": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/2/21/Achievement_Kills_Sprees_Bronze.png/96px-Achievement_Kills_Sprees_Bronze.png?version=19e571eef7cb2cdeca436093b58bf0a0"}, "Description": {"S": "10 Killing Sprees."}, "Category": {"S": "Kills"}}}}]}

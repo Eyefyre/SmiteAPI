@@ -1,0 +1,1 @@
+{"Achievements": [{"PutRequest": {"Item": {"ID": {"S": "50"}, "Name": {"S": "God Mastery (100)"}, "Picture": {"S": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/8/8c/Achievement_Lifetime_GodMastery10.png/96px-Achievement_Lifetime_GodMastery10.png?version=93ebdd310bb385ee90e22eb5a770abf2"}, "Description": {"S": "100 Gods Mastered."}, "Category": {"S": "Lifetime"}}}}]}
