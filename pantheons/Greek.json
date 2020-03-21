@@ -1,0 +1,89 @@
+{
+	"id": 5,
+	"name": "Greek",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/7/7f/NewUI_Pantheon_Greek.png/32px-NewUI_Pantheon_Greek.png?version=61f1706b8e7e1dc2ed45e1da466e9fa8",
+	"banner": "https://gamepedia.cursecdn.com/smite_gamepedia/2/20/Flag_greek_full.png?version=079d06d228dad93392886b3e1597e618",
+	"lore": "The ancient Greeks did not believe that the gods created the universe but rather that the universe created the gods. Long before the creation of the gods, heaven and earth had already been formed. Heaven and earth were referred to as the parents and their children, the Titans. The Elder gods, also called the Titans, were known to have super strength and enormous size. The most powerful of the Titans was Cronus, who was the ruler of his kin. One day, however, his son Zeus, a mere god, dethroned Cronus and made himself ruler of all gods. He and the other gods, Poseidon, Hades, Hestia, Hera, Ares, Athena, Apollo, Aphrodite, Hermes, Artemis, and Hephaestus, were the 12 great Olympians. Immortal and invincible, they watched mortal men from their abode on Mt. Olympus, the highest mountain in Greece. It is said that the entrance of Olympus is a great gate made up of clouds. It is a peaceful paradise where there are stretches of cloudless skies, endless sunshine, and where the sound of Apollo's lyre can be heard playing.",
+	"gods": [
+		{
+			"name": "Achilles",
+			"url": null
+		},
+		{
+			"name": "Aphrodite",
+			"url": null
+		},
+		{
+			"name": "Apollo",
+			"url": null
+		},
+		{
+			"name": "Arachne",
+			"url": null
+		},
+		{
+			"name": "Ares",
+			"url": null
+		},
+		{
+			"name": "Artemis",
+			"url": null
+		},
+		{
+			"name": "Athena",
+			"url": null
+		},
+		{
+			"name": "Cerberus",
+			"url": null
+		},
+		{
+			"name": "Chiron",
+			"url": null
+		},
+		{
+			"name": "Chronos",
+			"url": null
+		},
+		{
+			"name": "Hades",
+			"url": null
+		},
+		{
+			"name": "Hera",
+			"url": null
+		},
+		{
+			"name": "Medusa",
+			"url": null
+		},
+		{
+			"name": "Nemesis",
+			"url": null
+		},
+		{
+			"name": "Nike",
+			"url": null
+		},
+		{
+			"name": "Persephone",
+			"url": null
+		},
+		{
+			"name": "Poseidon",
+			"url": null
+		},
+		{
+			"name": "Scylla",
+			"url": null
+		},
+		{
+			"name": "Thanatos",
+			"url": null
+		},
+		{
+			"name": "Zeus",
+			"url": null
+		}
+	]
+}

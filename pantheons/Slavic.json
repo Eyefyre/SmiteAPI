@@ -1,0 +1,17 @@
+{
+	"id": 12,
+	"name": "Slavic",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/1/1b/NewUI_Pantheon_Slavic.png/32px-NewUI_Pantheon_Slavic.png?version=4b38d1d700133360cb0ffe19fdbf24fd",
+	"banner": "https://gamepedia.cursecdn.com/smite_gamepedia/6/6c/Flag_slavic_full.png?version=881f76f0dbcf513d4fe926676f2832fd",
+	"lore": "Slavic folk belief holds that the world organises itself according to an oppositional and yet complementary cosmic duality through which the supreme God, Rod, expresses itself, represented by Belobog (\"White God\") and Chernobog (\"Black God\"), collectively representing heavenly-masculine and earthly-feminine deities, or waxing light and waning light gods, respectively. All bright male gods, especially those whose name has the attributive suffix -vit, \"lord\", are epithets, denoting aspects or phases in the year of the masculine radiating force, personified by Perun (the \"Thunder\" and \"Oak\"). Veles, as the etymology of his name highlights, is instead the god of poetic inspiration and sight. The underpinning Mokosh (\"Moist\"), the great goddess of the earth, has always been the focus of a strong popular devotion, and is still worshipped by many Slavs, chiefly Russians.",
+	"gods": [
+		{
+			"name": "Baba Yaga",
+			"url": null
+		},
+		{
+			"name": "Chernobog",
+			"url": null
+		}
+	]
+}

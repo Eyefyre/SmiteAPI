@@ -1,0 +1,13 @@
+{
+	"id": 10,
+	"name": "Polynesian",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/3/37/NewUI_Pantheon_Polynesian.png/32px-NewUI_Pantheon_Polynesian.png?version=7e533ca70debbcabbbd4c94eb9368254",
+	"banner": "https://gamepedia.cursecdn.com/smite_gamepedia/1/13/Flag_polynesian_full.png?version=77fb92c92dd947e70ed8ea7890ac6b2b",
+	"lore": "The Polynesians were masters of navigation and other seafaring skills, and their religion and myths strongly reflected the importance of nature and the sea. Polynesians believed that all things in nature, including humans, contained a sacred and supernatural power called mana. Mana could be good or evil, and individuals, animals, and objects contained varying amounts of mana. The Polynesians' religion included many gods, local deities as well as the great gods of their pantheon. The people felt a close personal connection to their deities and to various heroes, demigods, and tricksters of their mythology. The most popular character was Maui, a hero-trickster well known throughout Polynesia.",
+	"gods": [
+		{
+			"name": "Pele",
+			"url": null
+		}
+	]
+}

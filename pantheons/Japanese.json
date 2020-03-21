@@ -1,0 +1,37 @@
+{
+	"id": 7,
+	"name": "Japanese",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/1/10/NewUI_Pantheon_Japanese.png/32px-NewUI_Pantheon_Japanese.png?version=d6868f35e5f37da5404721fdeaf5ea30",
+	"banner": "https://gamepedia.cursecdn.com/smite_gamepedia/b/b7/Flag_japanese_full.png?version=8559c21730afdff82836eb30e5d792c8",
+	"lore": "Japan, land of the rising sun; their pantheon consists of many gods and goddesses, more commonly known as \"Kami\", or \"highly placed being.\" The rank of Kami was bestowed on natural objects and beings such as mountains, rivers, animals, as well as esteemed ancestors. While Kami appear in many forms and usually have human qualities, they are powerful beings who control aspects of nature. Of the two types of Kami, the heavenly Kami are superior than their earthly counterparts and only reside in heaven, hence, they must use messengers to keep them up to date on earth and in the underworld. The main myths that accompany these religious traditions are that of the creation of the world, the founding of the Japanese Islands, and those of magical creatures, humans, and deities.",
+	"gods": [
+		{
+			"name": "Amaterasu",
+			"url": null
+		},
+		{
+			"name": "Hachiman",
+			"url": null
+		},
+		{
+			"name": "Izanami",
+			"url": null
+		},
+		{
+			"name": "Kuzenbo",
+			"url": null
+		},
+		{
+			"name": "Raijin",
+			"url": null
+		},
+		{
+			"name": "Susano",
+			"url": null
+		},
+		{
+			"name": "Tsukuyomi",
+			"url": null
+		}
+	]
+}

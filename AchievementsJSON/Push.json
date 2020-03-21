@@ -1,1 +1,0 @@
-{"Achievements": [{"PutRequest": {"Item": {"ID": {"S": "310"}, "Name": {"S": "Push"}, "Picture": {"S": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/4/49/Achievement_Combat_Push.png/96px-Achievement_Combat_Push.png?version=bb9a179417b143f238ea5c3518411283"}, "Description": {"S": "Push 10 minions into the enemy portal in Arena."}, "Category": {"S": "Combat"}}}}]}

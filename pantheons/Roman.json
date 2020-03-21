@@ -1,0 +1,53 @@
+{
+	"id": 11,
+	"name": "Roman",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/1/18/NewUI_Pantheon_Roman.png/32px-NewUI_Pantheon_Roman.png?version=dddd6cfa3472fce1451b07cc89e8fbcf",
+	"banner": "https://gamepedia.cursecdn.com/smite_gamepedia/3/31/Flag_roman_full.png?version=05e4c579d97b3a7115027e5530692090",
+	"lore": "In ancient Rome, people believed that gods were actively involved in their everyday lives. The three supreme deities, known as the Capitoline Triad, were Jupiter (the supreme deity), Minerva (his daughter), and Juno (his wife). Other gods such as Mars, Mercury, Venus, and Cupid, also played major roles and represented different aspects of life, such as war, love, music, and beauty. The Romans held festivals for and brought offerings to their gods, such as Pax the goddess of peace. They believed that gods lived everywhere - in trees, in animals, by the side of the road, in a flower, in a stream, and in your house. Almost everything in Rome was driven by a spirit of some sort within it.",
+	"gods": [
+		{
+			"name": "Bacchus",
+			"url": null
+		},
+		{
+			"name": "Bellona",
+			"url": null
+		},
+		{
+			"name": "Cupid",
+			"url": null
+		},
+		{
+			"name": "Discordia",
+			"url": null
+		},
+		{
+			"name": "Hercules",
+			"url": null
+		},
+		{
+			"name": "Janus",
+			"url": null
+		},
+		{
+			"name": "Mercury",
+			"url": null
+		},
+		{
+			"name": "Nox",
+			"url": null
+		},
+		{
+			"name": "Sylvanus",
+			"url": null
+		},
+		{
+			"name": "Terra",
+			"url": null
+		},
+		{
+			"name": "Vulcan",
+			"url": null
+		}
+	]
+}

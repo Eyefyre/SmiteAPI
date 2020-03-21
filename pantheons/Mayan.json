@@ -1,0 +1,45 @@
+{
+	"id": 8,
+	"name": "Mayan",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/e/e9/NewUI_Pantheon_Mayan.png/32px-NewUI_Pantheon_Mayan.png?version=bd855f02bff658262befcfae8a996427",
+	"banner": "https://gamepedia.cursecdn.com/smite_gamepedia/c/cf/Flag_mayan_full.png?version=e98e1bb5104cca6805e78e33ced23d26",
+	"lore": "The primary purpose of the ancient Maya was to give a sense of order and control to life, that was their world view. What created their world view was the mere fact that their primary crop was corn and they had to manage the wet and dry seasons which would predict the timing of the corn cycle. In the Popol Vuh, which is the Mayan creation story, the creation of the earth and the first human beings focus on the establishment of corn and on the creator deities. The important creator deities consisted of Huracan and Itzamna. In the Popol Vuh, Hun Hunahpu loses a ballgame against the gods of the underworld and they decapitate him. However, his sons the Hero Twins, Hunahpu and Xbalanque, defeat the gods of the underworld and restore the world to its former glory. The ancient Maya worshipped the gods in order to keep the crop cycle going, they also performed sacrificial rituals for the gods in order to make sure their demands would come to fruition.",
+	"gods": [
+		{
+			"name": "Ah Muzen Cab",
+			"url": null
+		},
+		{
+			"name": "Ah Puch",
+			"url": null
+		},
+		{
+			"name": "Awilix",
+			"url": null
+		},
+		{
+			"name": "Cabrakan",
+			"url": null
+		},
+		{
+			"name": "Camazotz",
+			"url": null
+		},
+		{
+			"name": "Chaac",
+			"url": null
+		},
+		{
+			"name": "Hun Batz",
+			"url": null
+		},
+		{
+			"name": "Kukulkan",
+			"url": null
+		},
+		{
+			"name": "Xbalanque",
+			"url": null
+		}
+	]
+}

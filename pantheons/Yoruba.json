@@ -1,0 +1,17 @@
+{
+	"id": 14,
+	"name": "Yoruba",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/4/49/NewUI_Pantheon_Yoruba.png/32px-NewUI_Pantheon_Yoruba.png?version=47998d56939d83200e6fdc5d902da3d5",
+	"banner": "https://gamepedia.cursecdn.com/smite_gamepedia/6/6f/Flag_yoruba_full.png?version=2de31b64dd402d5e183458a7ac8b43fc",
+	"lore": "According to Kola Abimbola, the Yoruba have evolved a robust cosmology. In brief, it holds that all human beings possess what is known as \"Ayanmo\" (destiny, fate) and are expected to eventually become one in spirit with Olodumare (Olorun, the divine creator and source of all energy). Life and death are said to be cycles of existence in a series of physical bodies while one's spirit evolves toward transcendence. This evolution is said to be most evident amongst the Orishas, the divine viziers of Olorun. An Orisha is an entity that possesses the capability of reflecting some of the manifestations of Olodumare. Orishas are revered for having control over specific elements by nature, thus being better referred to as the divinities or Imole. Even so, there are those of their number that are more akin to ancient heroes and/or sages. These are best addressed as Dema Deities. Yoruba Orishas are often described as intermediaries between humankind and the supernatural.",
+	"gods": [
+		{
+			"name": "Olorun",
+			"url": null
+		},
+		{
+			"name": "Yemoja",
+			"url": null
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"id": 1,
+	"name": "Arthurian",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/f/ff/NewUI_Pantheon_Arthurian.png/32px-NewUI_Pantheon_Arthurian.png?version=5a9a5f1fb4020f11a880e8223cd47564",
+	"banner": "https://gamepedia.cursecdn.com/smite_gamepedia/f/f5/Flag_arthurian_full.png?version=ab50cd2298cc895ef5a0c8d9c271eb8c",
+	"lore": "Arthurian legend, part of the body of stories and medieval romances known as the matter of Britain, centers on the legendary King Arthur. Medieval writers, especially the French, variously treated stories of Arthur's birth, the adventures of his knights, and the adulterous love between his knight Sir Lancelot and his queen, Guinevere. This last situation and the quest for the Holy Grail brought about the dissolution of the knightly fellowship, the death of Arthur, and the destruction of his kingdom. Stories about Arthur and his court had been popular in Wales before the 11th century; European fame came through Geoffrey of Monmouth's Historia regum Britanniae, celebrating a glorious and triumphant king who defeated a Roman army in eastern France but was mortally wounded in battle during a rebellion at home led by his nephew Mordred. Later writers, notably Wace of Jersey and Lawamon, filled out certain details, especially in connection with Arthur's knightly fellowship (the Knights of the Round Table).",
+	"gods": [
+		{
+			"name": "King Arthur",
+			"url": null
+		},
+		{
+			"name": "Merlin",
+			"url": null
+		}
+	]
+}

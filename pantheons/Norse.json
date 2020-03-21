@@ -1,0 +1,69 @@
+{
+	"id": 9,
+	"name": "Norse",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/2/2a/NewUI_Pantheon_Norse.png/32px-NewUI_Pantheon_Norse.png?version=ffdc97aad91dc0986d22544ca8d9daaf",
+	"banner": "https://gamepedia.cursecdn.com/smite_gamepedia/7/7a/Flag_norse_full.png?version=eab20fcf9c7885b8e4d2b93558fbb86e",
+	"lore": "In Norse Mythology, the gods and the earth were created at the death of Ymir, the primordial deity and ice-giant. Before he was slain, the cow Audhumla, who was created with the same materials as Ymir, started to lick the salt off an ice block which in turn created the god Buri, who then immediately produced a son of his own, Borr. While Ymir fell asleep after drinking the cow's milk, he too bore a son and a daughter out of his armpits and a six headed frost giant grew out of his feet. It was not too long before the frost giants and the gods did not get along with each other; the forces of good and evil were at war. One day Borr married the giantess Bestla, who gave them three mighty sons: Odin, Vili, and Ve. The trio decided to join their father, Borr, at defeating the frost giants, which they succeeded by killing the mighty Ymir. Thus, out of Ymir's flesh the Midgard or the earth was created, of his blood the sea, of his bones the hills, and of his hairs the trees. With his skull the heavens were born and with the scattering of his brain the clouds. Odin, the sky-father, and his sons Loki and Thor, ruled the city of Asgard, home of the gods. Here they defended the advances of the evil frost-giants of Jotun-heim. Aesir, as the Norse gods were called, were full of courage and heroism.",
+	"gods": [
+		{
+			"name": "Fafnir",
+			"url": null
+		},
+		{
+			"name": "Fenrir",
+			"url": null
+		},
+		{
+			"name": "Freya",
+			"url": null
+		},
+		{
+			"name": "Heimdallr",
+			"url": null
+		},
+		{
+			"name": "Hel",
+			"url": null
+		},
+		{
+			"name": "Jormungandr",
+			"url": null
+		},
+		{
+			"name": "Loki",
+			"url": null
+		},
+		{
+			"name": "Odin",
+			"url": null
+		},
+		{
+			"name": "Ratatoskr",
+			"url": null
+		},
+		{
+			"name": "Skadi",
+			"url": null
+		},
+		{
+			"name": "Sol",
+			"url": null
+		},
+		{
+			"name": "Thor",
+			"url": null
+		},
+		{
+			"name": "Tyr",
+			"url": null
+		},
+		{
+			"name": "Ullr",
+			"url": null
+		},
+		{
+			"name": "Ymir",
+			"url": null
+		}
+	]
+}

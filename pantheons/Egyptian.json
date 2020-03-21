@@ -1,0 +1,65 @@
+{
+	"id": 4,
+	"name": "Egyptian",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/2/27/NewUI_Pantheon_Egyptian.png/32px-NewUI_Pantheon_Egyptian.png?version=5260c9595856d0ab2187a7631c5b01c1",
+	"banner": "https://gamepedia.cursecdn.com/smite_gamepedia/1/1d/Flag_egyptian_full.png?version=11649174bf23a313f464322f2da2342a",
+	"lore": "In ancient Egypt, people paid great importance to mythology, rituals and belief. A vital part in everyday life was the belief in the afterlife. The burial process had to do with mummification and ritualistic spells guided the deceased into the underworld. Egyptians were polytheistic and believed in many gods and goddesses, whose purpose was to bring peace and harmony to Upper and Lower Egypt. There were gods and goddesses who took part in creating the world, such as Atum and Khepri. Moreover, some gods, like Hapi the god of the Nile, brought the flood every year, some such as Horus offered protection, and some like Anubis and Osiris took care of people after death. There were other minor gods as well, representing animals and plants. Lastly, they had local gods who were associated with towns. For the Egyptians, in order for life to continue peacefully and harmoniously, one must worship the gods.",
+	"gods": [
+		{
+			"name": "Anhur",
+			"url": null
+		},
+		{
+			"name": "Anubis",
+			"url": null
+		},
+		{
+			"name": "Bastet",
+			"url": null
+		},
+		{
+			"name": "Geb",
+			"url": null
+		},
+		{
+			"name": "Horus",
+			"url": null
+		},
+		{
+			"name": "Isis",
+			"url": null
+		},
+		{
+			"name": "Khepri",
+			"url": null
+		},
+		{
+			"name": "Neith",
+			"url": null
+		},
+		{
+			"name": "Osiris",
+			"url": null
+		},
+		{
+			"name": "Ra",
+			"url": null
+		},
+		{
+			"name": "Serqet",
+			"url": null
+		},
+		{
+			"name": "Set",
+			"url": null
+		},
+		{
+			"name": "Sobek",
+			"url": null
+		},
+		{
+			"name": "Thoth",
+			"url": null
+		}
+	]
+}

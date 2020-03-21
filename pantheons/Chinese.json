@@ -1,0 +1,65 @@
+{
+	"id": 3,
+	"name": "Chinese",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/0/0e/NewUI_Pantheon_Chinese.png/32px-NewUI_Pantheon_Chinese.png?version=7a8e8938f1e6d11aca0a03705ad1f406",
+	"banner": "https://gamepedia.cursecdn.com/smite_gamepedia/c/c8/Flag_chinese_full.png?version=6626d68f3fd03a91dfb9aee7521d5635",
+	"lore": "The creation of the universe and the world began with the mighty god Pangu. Awoken by the discord from the formation of the universe, he swung his axe to break through the chaos. The exposed lighter matter of the chaos ascended and became the sky while the darker matter sunk and became the earth. Pangu stood in between the two layers and pushed up the sky. Once the earth and sky have reached its limit, Pangu created the world by sacrificing himself to form the world. Wind and Cloud was created from his breath; his voice became thunder; the sun was formed from his left eye and the moon from his right; his hair transformed into the stars and sky; his blood turned into the lakes and rivers, his bones became minerals, the rain came from his sweat, and the fur on his body transformed into forests and fields. As for mankind, it is said that Nu Wa dipped a rope in clay and when she flicked the rope a human arose from each globule that landed on earth. The world was divided into three realms consisting of the heavens, the earth, and the underworld. The Jade Emperor is the supreme ruler of the heavens and is the main authorization in the heavenly court. The heavenly court encompasses all the gods worshiped in China.",
+	"gods": [
+		{
+			"name": "Ao Kuang",
+			"url": null
+		},
+		{
+			"name": "Chang'e",
+			"url": null
+		},
+		{
+			"name": "Da Ji",
+			"url": null
+		},
+		{
+			"name": "Erlang Shen",
+			"url": null
+		},
+		{
+			"name": "Guan Yu",
+			"url": null
+		},
+		{
+			"name": "He Bo",
+			"url": null
+		},
+		{
+			"name": "Hou Yi",
+			"url": null
+		},
+		{
+			"name": "Jing Wei",
+			"url": null
+		},
+		{
+			"name": "Mulan",
+			"url": null
+		},
+		{
+			"name": "Ne Zha",
+			"url": null
+		},
+		{
+			"name": "Nu Wa",
+			"url": null
+		},
+		{
+			"name": "Sun Wukong",
+			"url": null
+		},
+		{
+			"name": "Xing Tian",
+			"url": null
+		},
+		{
+			"name": "Zhong Kui",
+			"url": null
+		}
+	]
+}

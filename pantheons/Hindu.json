@@ -1,0 +1,41 @@
+{
+	"id": 6,
+	"name": "Hindu",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/f/f8/NewUI_Pantheon_Hindu.png/32px-NewUI_Pantheon_Hindu.png?version=876eca4b9f1e0327d2875df86552cf28",
+	"banner": "https://gamepedia.cursecdn.com/smite_gamepedia/4/48/Flag_hindu_full.png?version=52cf554967c513b3ef7110f60a57dd7a",
+	"lore": "The Hindus believe that this is not the first universe. They believe in rebirth, meaning that there will be countless more universes. These universes are created by Lord Brahma, known as the Creator, maintained by Lord Vishnu the Sustainer and destroyed by Lord Shiva. Lord Shiva is called the Destroyer and Re-creator, as with each destroyed universe another must be recreated. Once a universe is destroyed, nothing remains but an endless ocean. On a great swimming snake Ananta, is Lord Vishnu. Growing out of Lord Vishnu's navel is a lotus flower and out of this sprouts his servant, Lord Brahma, the creator of all things. Brahma divided his own body in two. Out of one, Brahma shaped man; out of the other, woman. The man was called Manu, and he was wise; the woman Shatarupa, and she was mysterious. Today, Hindus consistently worship their creator god Brahman, who is known as the supreme deity. There are countless gods in the Hindu pantheon, all known for their unique traits and mystic abilities.",
+	"gods": [
+		{
+			"name": "Agni",
+			"url": null
+		},
+		{
+			"name": "Bakasura",
+			"url": null
+		},
+		{
+			"name": "Ganesha",
+			"url": null
+		},
+		{
+			"name": "Kali",
+			"url": null
+		},
+		{
+			"name": "Kumbhakarna",
+			"url": null
+		},
+		{
+			"name": "Rama",
+			"url": null
+		},
+		{
+			"name": "Ravana",
+			"url": null
+		},
+		{
+			"name": "Vamana",
+			"url": null
+		}
+	]
+}

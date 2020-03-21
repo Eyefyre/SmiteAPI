@@ -1,0 +1,25 @@
+{
+	"id": 2,
+	"name": "Celtic",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/a/a7/NewUI_Pantheon_Celtic.png/32px-NewUI_Pantheon_Celtic.png?version=93befea3d28c312ea49bd63b01f091e8",
+	"banner": "https://gamepedia.cursecdn.com/smite_gamepedia/e/e3/Flag_celtic_full.png?version=25e0e6496d0657f15effca5bb4c59403",
+	"lore": "The Celts worshiped a variety of gods who appeared in their tales. Most were all-powerful local deities rather than gods with specialized roles. Each tribe had its own god, who protected and provided for the welfare of that tribe. Some of them had similar characteristics. For example, Dagda, the god of life and death in Ireland—known as the good god—resembled Esus, the \"master\" god of Gaul. Some deities had more clearly defined roles. Among these were Lug, or Lugus, a sun god associated with arts and skills, war and healing, and the horned god Cernunnos, who was god of animals and fertility. The Celts also had a large number of important female deities. These included The Morrigan, the \"Phantom Queen\"—actually three goddesses, Anu, Macha, Badb, who appeared as ravens during battle. Another important deity was Brigit, goddess of learning, healing, and metalworking. Epona, the horse goddess, was associated with fertility, water, and death.",
+	"gods": [
+		{
+			"name": "Artio",
+			"url": null
+		},
+		{
+			"name": "Cernunnos",
+			"url": null
+		},
+		{
+			"name": "Cu Chulainn",
+			"url": null
+		},
+		{
+			"name": "The Morrigan",
+			"url": null
+		}
+	]
+}
