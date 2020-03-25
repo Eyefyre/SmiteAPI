@@ -1,0 +1,8 @@
+{
+    "id":10,
+    "name":"Chalice Of The Oracle",
+    "picture":"https://gamepedia.cursecdn.com/smite_gamepedia/thumb/f/f6/Container_ChaliceoftheOracle.png/64px-Container_ChaliceoftheOracle.png?version=c0423ad74e60070bec44d085ad3d674e",
+    "cost":400,
+    "effect":"This consumable places a ward that allows you to see normal enemy movements with 45 units. It does respect line of sight and can't see through walls or stealth. It remains for 3 minutes or until killed. Comes with 2 uses that are refilled if you enter the Fountain, sells for 0 gold.",
+    "carry_limit":1
+}

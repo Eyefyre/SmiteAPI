@@ -1,0 +1,30 @@
+{
+    "id": 12,
+    "name": "Evolved Mage's Blessing",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/e/e6/MagesBlessing_T1_Upgraded.png/64px-MagesBlessing_T1_Upgraded.png?version=69cb17a74bfeb4e408d3f3f03c470b45",
+    "item_types": [
+        "Starter",
+        "Offensive",
+        "Utility"
+    ],
+	"item_tier": 0,
+	"total_cost": 700,
+    "cost": 0,
+    "passives": [
+        "Kill or Assist Lane Minions or Enemy gods to gain stacks. Lane Minions are worth 1 Stack and Enemy gods are worth 5 Stacks."
+    ],
+    "stat_changes": [
+        "+10 Bonus Ability Damage",
+        "+10 Physical Power",
+        "+20 Magical Power",
+        "+2 MP5 Per 10% Missing Mana",
+        "+10% Cooldown Reduction"
+    ],
+    "previous_tiers": [
+        {
+            "name": "Mage's Blessing",
+            "url": "https://smiteapi.adammackle.com/passives/11"
+        }
+    ],
+    "next_tiers": []
+}

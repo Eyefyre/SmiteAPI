@@ -1,0 +1,26 @@
+{
+	"id": 46,
+	"name": "Mace",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/8/8d/Mace_T1.png?version=8e9a83c81974e8706f9e984c3ed38720",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 1,
+	"cost": 650,
+	"total_cost": 650,
+	"passives": [],
+	"stat_changes": [
+		"+15 Physical Power"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Heavy Mace",
+			"url": "https://smiteapi.adammackle.com/passives/93"
+		},
+		{
+			"name": "Warrior's Bane",
+			"url": "https://smiteapi.adammackle.com/passives/91"
+		}
+	]
+}

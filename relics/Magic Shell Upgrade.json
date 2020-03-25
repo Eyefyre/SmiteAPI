@@ -1,0 +1,13 @@
+{
+    "id": 16,
+    "name": "Magic Shell Upgrade",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/9/9a/Shell_UpgradedRelic.png/64px-Shell_UpgradedRelic.png?version=aa34f3c89e7fb47bb635a188168ca664",
+    "cost": 500,
+    "cooldown": 150,
+    "effect": "Using this item applies a shield to himself and allies within 35 units for 100 Health + 12 Health per God Level for 3 seconds. Additionally, all allies receive 2 stacks of Block, absorbing the next 2 Basic Attacks.",
+    "next_tier": null,
+    "previous_tier": {
+        "name": "Magic Shell",
+        "url": "https://smiteapi.adammackle.com/relics/15"
+    }
+}

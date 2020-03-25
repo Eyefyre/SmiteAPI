@@ -1,0 +1,26 @@
+{
+	"id": 123,
+	"name": "Sovereignty",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/3/37/Sovereignty_T3.png?version=be01c7a67ee39b956d33aa01ef8573a1",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 700,
+	"total_cost": 2100,
+	"passives": [
+		"Allied gods within 70 units have their Physical Protections increased by 15 and their HP5 increased by 35."
+	],
+	"stat_changes": [
+		"+250 Health",
+		"+45 Physical Protection"
+	],
+	"previous_tiers": [
+		{
+			"name": "Steel Mail",
+			"url": "https://smiteapi.adammackle.com/passives/83"
+		}
+	],
+	"next_tiers": []
+}

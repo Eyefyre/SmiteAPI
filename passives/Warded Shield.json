@@ -1,0 +1,37 @@
+{
+	"id": 85,
+	"name": "Warded Shield",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/0/0b/WardedShield_T2.png?version=95675cfbd37930df017475d5c2b36fdf",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 2,
+	"cost": 750,
+	"total_cost": 1400,
+	"passives": [],
+	"stat_changes": [
+		"+15 Physical Power",
+		"+35 Magical Protection"
+	],
+	"previous_tiers": [
+		{
+			"name": "Enchanted Buckler",
+			"url": "https://smiteapi.adammackle.com/passives/34"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Caduceus Shield",
+			"url": "https://smiteapi.adammackle.com/passives/171"
+		},
+		{
+			"name": "Ancile",
+			"url": "https://smiteapi.adammackle.com/passives/125"
+		},
+		{
+			"name": "Runic Shield",
+			"url": "https://smiteapi.adammackle.com/passives/129"
+		}
+	]
+}

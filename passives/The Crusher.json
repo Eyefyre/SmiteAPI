@@ -1,0 +1,26 @@
+{
+	"id": 164,
+	"name": "The Crusher",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/5/5f/TheCrusher_T3.png?version=73719ee94b4fc5e3397f32a785c7ca98",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 850,
+	"total_cost": 2400,
+	"passives": [
+		"Enemies hit by your damaging Abilities take an additional 20 Physical Damage + 15% of your Physical Power over 2s."
+	],
+	"stat_changes": [
+		"+30 Physical Power",
+		"+20% Attack Speed",
+		"+15 Physical Penetration"
+	],
+	"previous_tiers": [
+		{
+			"name": "Heavy Mace",
+			"url": "https://smiteapi.adammackle.com/passives/93"
+		}
+	],
+	"next_tiers": []
+}

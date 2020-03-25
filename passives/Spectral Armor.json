@@ -1,0 +1,28 @@
+{
+	"id": 124,
+	"name": "Spectral Armor",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/6/6f/SpectralArmor_T3.png?version=30c141946fa78351a2d30e724d43e3a7",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1050,
+	"total_cost": 2100,
+	"passives": [
+		"Critical Strikes only deal 50% bonus damage to you instead of 100%."
+	],
+	"stat_changes": [
+		"+65 Physical Protection",
+		"+200 Health",
+		"+300 Mana",
+		"+10 MP5"
+	],
+	"previous_tiers": [
+		{
+			"name": "Silver Breastplate",
+			"url": "https://smiteapi.adammackle.com/passives/52"
+		}
+	],
+	"next_tiers": []
+}

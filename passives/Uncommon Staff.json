@@ -1,0 +1,32 @@
+{
+	"id": 43,
+	"name": "Uncommon Staff",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/7/7c/UncommonStaff_T1.png?version=9610040b6570c67721cceb042c808802",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 1,
+	"cost": 650,
+	"total_cost": 650,
+	"passives": [],
+	"stat_changes": [
+		"+15 Magical Power",
+		"+75 Health"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Fortified Scepter",
+			"url": "https://smiteapi.adammackle.com/passives/74"
+		},
+		{
+			"name": "Rod of Healing",
+			"url": "https://smiteapi.adammackle.com/passives/88"
+		},
+		{
+			"name": "Sorcerer's Staff",
+			"url": "https://smiteapi.adammackle.com/passives/76"
+		}
+	]
+}

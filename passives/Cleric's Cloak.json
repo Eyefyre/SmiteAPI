@@ -1,0 +1,29 @@
+{
+	"id": 55,
+	"name": "Cleric's Cloak",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/7/71/MagisCloak_T2.png?version=7619674a1b2e50c12b1fa620a6176c67",
+	"item_types": [
+		"Defensive"
+	],
+	"item_tier": 2,
+	"cost": 500,
+	"total_cost": 1150,
+	"passives": [],
+	"stat_changes": [
+		"+10 Physical Protection",
+		"+10 Magical Protection",
+		"+200 Health"
+	],
+	"previous_tiers": [
+		{
+			"name": "Cloak",
+			"url": "https://smiteapi.adammackle.com/passives/32"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Magi's Cloak",
+			"url": "https://smiteapi.adammackle.com/passives/128"
+		}
+	]
+}

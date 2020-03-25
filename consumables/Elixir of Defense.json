@@ -1,0 +1,8 @@
+{
+    "id":14,
+    "name":"Elixir Of Defense",
+    "picture":"https://gamepedia.cursecdn.com/smite_gamepedia/thumb/2/29/ElixirofDefense_T3.png/64px-ElixirofDefense_T3.png?version=723528a3cc69fc7cff697eb47c30cdbf",
+    "cost":3000,
+    "effect":"This consumable increases your Magical and Physical Protections by 50 and decreases damage taken from Structures by 25% for 6 minutes. This effect persists through death.",
+    "carry_limit":5
+}

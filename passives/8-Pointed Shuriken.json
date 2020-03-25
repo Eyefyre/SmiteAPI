@@ -1,0 +1,33 @@
+{
+	"id": 86,
+	"name": "8-Pointed Shuriken",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/6/63/8-PointedShuriken_T2.png?version=eff09b8b506ba40f7a3645abdf44306b",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 2,
+	"cost": 850,
+	"total_cost": 1500,
+	"passives": [],
+	"stat_changes": [
+		"+15 Physical Power",
+		"+10% Attack Speed",
+		"+10% Critical Strike Chance"
+	],
+	"previous_tiers": [
+		{
+			"name": "Shuriken",
+			"url": "https://smiteapi.adammackle.com/passives/40"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Poisoned Star",
+			"url": "https://smiteapi.adammackle.com/passives/174"
+		},
+		{
+			"name": "Wind Demon",
+			"url": "https://smiteapi.adammackle.com/passives/178"
+		}
+	]
+}

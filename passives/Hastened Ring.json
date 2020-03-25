@@ -1,0 +1,27 @@
+{
+	"id": 197,
+	"name": "Hastened Ring",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/9/90/HastenedRing_T3.png?version=c6d1f70ea4f05db9ca3c3f92e4bf6ebb",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1600,
+	"total_cost": 2700,
+	"passives": [
+		"Hitting an enemy God with a Basic Attack grants Haste for 6s, causing you to be immune from Basic Attack Movement Penalty. (Internal Cooldown 25s)"
+	],
+	"stat_changes": [
+		"+50 Magical Power",
+		"+25% Attack Speed",
+		"+7% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Enchanted Ring",
+			"url": "https://smiteapi.adammackle.com/passives/59"
+		}
+	],
+	"next_tiers": []
+}

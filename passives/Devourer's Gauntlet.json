@@ -1,0 +1,25 @@
+{
+	"id": 145,
+	"name": "Devourer's Gauntlet",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/d/d7/DevourersGauntlet_T3.png?version=96e8ad6b5dbaa0744993a2ab51fa3542",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 900,
+	"total_cost": 2300,
+	"passives": [
+		"Killing an enemy god or minion gives you stacks of +.5 Physical Power and +.2% Physical Lifesteal. you receive 5 stacks for a god kill and 1 stack for a minion kill. Stacks up to 70 times."
+	],
+	"stat_changes": [
+		"+30 Physical Power",
+		"+10% Physical Lifesteal"
+	],
+	"previous_tiers": [
+		{
+			"name": "Cursed Gauntlet",
+			"url": "https://smiteapi.adammackle.com/passives/78"
+		}
+	],
+	"next_tiers": []
+}

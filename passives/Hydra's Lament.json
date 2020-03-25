@@ -1,0 +1,27 @@
+{
+	"id": 127,
+	"name": "Hydra's Lament",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/3/34/HydrasLament_T3.png?version=8de04bba7433902d829573a9c521cc92",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 950,
+	"total_cost": 2150,
+	"passives": [
+		"For 8s after using an ability, your next Basic Attack will deal an additional 40% damage.",
+		"This item grants 2.5 MP5 per 10% of your missing Mana."
+	],
+	"stat_changes": [
+		"+40 Physical Power",
+		"+10% Cooldown Reduction",
+		"+10 MP5"
+	],
+	"previous_tiers": [
+		{
+			"name": "Hydra's Star",
+			"url": "https://smiteapi.adammackle.com/passives/62"
+		}
+	],
+	"next_tiers": []
+}

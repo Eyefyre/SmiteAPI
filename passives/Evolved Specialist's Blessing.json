@@ -1,0 +1,29 @@
+{
+    "id": 14,
+    "name": "Evolved Specialist's Blessing",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/c/c4/SpecialistsBlessing_T1_Upgraded.png/64px-SpecialistsBlessing_T1_Upgraded.png?version=1fbe2462c0e95dd3ef170e0ffbe93de5",
+    "item_types": [
+        "Starter",
+        "Defensive",
+        "Utility"
+    ],
+	"item_tier": 0,
+	"total_cost": 700,
+    "cost": 0,
+    "passives": [
+        "Damage enemies or Heal allies to gain stacks. Each time an enemy is damaged or an ally god is healed by your abilities, gain 1 stack. Each ability can only trigger 3 stacks."
+    ],
+    "stat_changes": [
+        "+10 HP5",
+        "+20 MP5",
+        "+10% Cooldown Reduction",
+        "+10% Movement Speed"
+    ],
+    "previous_tiers": [
+        {
+            "name": "Specialist's Blessing",
+            "url": "https://smiteapi.adammackle.com/passives/13"
+        }
+    ],
+    "next_tiers": []
+}

@@ -1,0 +1,8 @@
+{
+    "id":8,
+    "name":"Hand Of The Gods",
+    "picture":"https://gamepedia.cursecdn.com/smite_gamepedia/thumb/c/cc/HandoftheGods_Consumable.png/64px-HandoftheGods_Consumable.png?version=8e94174779bdc23d56414dea692c9312",
+    "cost":100,
+    "effect":"This consumable deals 150 True damage to Jungle Monsters around you. This only affects Monsters on your side of the Jungle.",
+    "carry_limit":1
+}

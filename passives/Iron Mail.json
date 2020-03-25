@@ -1,0 +1,23 @@
+{
+	"id": 36,
+	"name": "Iron Mail",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/e/e6/IronMail_T1.png?version=7658dddffd399fd3808343244e17275c",
+	"item_types": [
+		"Defensive"
+	],
+	"item_tier": 1,
+	"cost": 650,
+	"total_cost": 650,
+	"passives": [],
+	"stat_changes": [
+		"+75 Health",
+		"+10 Physical Protection"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Steel Mail",
+			"url": "https://smiteapi.adammackle.com/passives/83"
+		}
+	]
+}

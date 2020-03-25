@@ -1,0 +1,30 @@
+{
+	"id": 98,
+	"name": "Knight's Shield",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/7/7c/KnightsShield_T2.png?version=bff3a03555fe24f7abf35908554f11d2",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 700,
+	"total_cost": 1600,
+	"passives": [],
+	"stat_changes": [
+		"+25 Physical Protection",
+		"+25 Magical Protection",
+		"+10% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Gem of Fate",
+			"url": "https://smiteapi.adammackle.com/passives/47"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Pridwen",
+			"url": "https://smiteapi.adammackle.com/passives/162"
+		}
+	]
+}

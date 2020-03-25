@@ -1,0 +1,23 @@
+{
+	"id": 40,
+	"name": "Shuriken",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/4/43/Shuriken_T1.png?version=6f77bdfd1a05aac8bcbaa1ed9bd1afb6",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 1,
+	"cost": 650,
+	"total_cost": 650,
+	"passives": [],
+	"stat_changes": [
+		"+10 Physical Power",
+		"+5% Attack Speed"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "8-Pointed Shuriken",
+			"url": "https://smiteapi.adammackle.com/passives/86"
+		}
+	]
+}

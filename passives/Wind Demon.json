@@ -1,0 +1,27 @@
+{
+	"id": 178,
+	"name": "Wind Demon",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/4/4b/WindDemon_T3.png?version=9b34611d0ee09df3b705163d0d55f923",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1000,
+	"total_cost": 2500,
+	"passives": [
+		"Your Critical Hits increase your Attack Speed and Movement Speed by 20% for 5s."
+	],
+	"stat_changes": [
+		"+30 Physical Power",
+		"+15% Attack Speed",
+		"+20% Critical Strike Chance"
+	],
+	"previous_tiers": [
+		{
+			"name": "8-Pointed Shuriken",
+			"url": "https://smiteapi.adammackle.com/passives/86"
+		}
+	],
+	"next_tiers": []
+}

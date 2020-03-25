@@ -1,0 +1,33 @@
+{
+	"id": 75,
+	"name": "Heavy Hammer",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/0/05/HeavyHammer_T2.png?version=a97828cfc3531d71533ce7c8f427675b",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 2,
+	"cost": 700,
+	"total_cost": 1350,
+	"passives": [],
+	"stat_changes": [
+		"+20 Physical Power",
+		"+150 Health"
+	],
+	"previous_tiers": [
+		{
+			"name": "Cudgel",
+			"url": "https://smiteapi.adammackle.com/passives/33"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Runeforged Hammer",
+			"url": "https://smiteapi.adammackle.com/passives/154"
+		},
+		{
+			"name": "Frostbound Hammer",
+			"url": "https://smiteapi.adammackle.com/passives/147"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"id": 136,
+	"name": "Shogun's Kusari",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/3/3c/ShogunsKusari_T3.png?version=47da9b2b4de3da8cceb8f78df5825d69",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 950,
+	"total_cost": 2200,
+	"passives": [
+		"Allied gods within 70 units have their Attack Speed increased by 25%."
+	],
+	"stat_changes": [
+		"+60 Magical Protection",
+		"+20 MP5",
+		"+10% Cooldown Reduction",
+		"+20% Crowd Control Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Spellbound Kusari",
+			"url": "https://smiteapi.adammackle.com/passives/70"
+		}
+	],
+	"next_tiers": []
+}

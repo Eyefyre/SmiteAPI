@@ -1,0 +1,27 @@
+{
+	"id": 162,
+	"name": "Pridwen",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/1/17/Pridwen_T3.png?version=1f251f8e8ebe48e83f1c8c653d603458",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 800,
+	"total_cost": 2400,
+	"passives": [
+		"When your Ultimate ability has finished casting, you gain a Shield equal to your Protections for 5s. When destroyed, by timing out or being depleted, it explodes and deals Magical damage equal to 50% of the Shield’s inital Health and slows targets by 25% for 3s. This can only occur once every 45 seconds."
+	],
+	"stat_changes": [
+		"+30 Physical Protection",
+		"+30 Magical Protection",
+		"+20% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Knight's Shield",
+			"url": "https://smiteapi.adammackle.com/passives/98"
+		}
+	],
+	"next_tiers": []
+}

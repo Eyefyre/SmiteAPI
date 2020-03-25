@@ -1,0 +1,26 @@
+{
+	"id": 160,
+	"name": "Jotunn's Wrath",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/f/fd/JotunnsWrath_T3.png?version=9ebfa9080c6f38571755fed4b4d77626",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 800,
+	"total_cost": 2350,
+	"passives": [],
+	"stat_changes": [
+		"+40 Physical Power",
+		"+150 Mana",
+		"+10 Physical Penetration",
+		"+20% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Heavy Mace",
+			"url": "https://smiteapi.adammackle.com/passives/93"
+		}
+	],
+	"next_tiers": []
+}

@@ -1,0 +1,26 @@
+{
+	"id": 37,
+	"name": "Magic Focus",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/6/62/MagicalFocus_T1.png?version=e04eca42b584688cbcdcddb2899844c6",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 1,
+	"cost": 650,
+	"total_cost": 650,
+	"passives": [],
+	"stat_changes": [
+		"+25 Magical Power"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Spell Focus",
+			"url": "https://smiteapi.adammackle.com/passives/90"
+		},
+		{
+			"name": "Enchanted Spear",
+			"url": "https://smiteapi.adammackle.com/passives/80"
+		}
+	]
+}

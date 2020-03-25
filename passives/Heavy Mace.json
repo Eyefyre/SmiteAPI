@@ -1,0 +1,36 @@
+{
+	"id": 93,
+	"name": "Heavy Mace",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/c/c8/HeavyMace_T2.png?version=71e0ec1edc969a5e947039f964afb5e9",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 2,
+	"cost": 900,
+	"total_cost": 1550,
+	"passives": [],
+	"stat_changes": [
+		"+25 Physical Power",
+		"+10 Physical Penetration"
+	],
+	"previous_tiers": [
+		{
+			"name": "Mace",
+			"url": "https://smiteapi.adammackle.com/passives/46"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "The Crusher",
+			"url": "https://smiteapi.adammackle.com/passives/164"
+		},
+		{
+			"name": "Brawler's Beat Stick",
+			"url": "https://smiteapi.adammackle.com/passives/158"
+		},
+		{
+			"name": "Jotunn's Wrath",
+			"url": "https://smiteapi.adammackle.com/passives/160"
+		}
+	]
+}

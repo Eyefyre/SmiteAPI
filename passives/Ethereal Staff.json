@@ -1,0 +1,27 @@
+{
+	"id": 184,
+	"name": "Ethereal Staff",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/4/4b/EtherealStaff_T3.png?version=3337a693378ee9bc694fece27165a059",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 3,
+	"cost": 1250,
+	"total_cost": 2600,
+	"passives": [
+		"Whenever you damage an enemy god with an ability you steal 8% maximum mana as well as 6% maximum health from the target. The Stats remain stolen for 45s and targets affected can have multiple Buffs and Debuffs at once. This can only occur once every 15 seconds."
+	],
+	"stat_changes": [
+		"+90 Magical Power",
+		"+200 Health",
+		"+20% Crowd Control Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Fortified Scepter",
+			"url": "https://smiteapi.adammackle.com/passives/74"
+		}
+	],
+	"next_tiers": []
+}

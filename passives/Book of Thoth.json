@@ -1,0 +1,27 @@
+{
+	"id": 192,
+	"name": "Book Of Thoth",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/2/2c/BookofThoth_T3.png?version=c37abf3fa0d26c2c8f0f2c92d2825169",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1300,
+	"total_cost": 2650,
+	"passives": [
+		"You permanently gain 10 Mana per Stack, and receive 5 Stacks for a god kill and 1 Stack for a minion kill (max. 75 Stacks). 6% of your Mana is converted to Magical Power. At 75 stacks this item Evolves, gaining 3% extra Mana to Power conversion."
+	],
+	"stat_changes": [
+		"+80 Magical Power",
+		"+250 Mana",
+		"+15 MP5"
+	],
+	"previous_tiers": [
+		{
+			"name": "Book of Souls",
+			"url": "https://smiteapi.adammackle.com/passives/73"
+		}
+	],
+	"next_tiers": []
+}

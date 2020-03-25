@@ -1,0 +1,29 @@
+{
+	"id": 104,
+	"name": "Reinforced Greaves",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/c/c5/P_ReinforcedGreaves.png?version=728dbc91d45a429785bca6826ebdb5fa",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 650,
+	"total_cost": 1550,
+	"passives": [
+		"Every time you are damaged by a god you gain a stack that provides 3 Physical and Magical Protections. Stacks up to 7 times, Lasts 6s"
+	],
+	"stat_changes": [
+		"+10 Physical Power",
+		"+100 Health",
+		"+20% Crowd Control Reduction",
+		"+18% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Combat Boots",
+			"url": "https://smiteapi.adammackle.com/passives/49"
+		}
+	],
+	"next_tiers": []
+}

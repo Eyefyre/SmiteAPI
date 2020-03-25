@@ -1,0 +1,27 @@
+{
+	"id": 114,
+	"name": "Emperor's Armor",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/7/78/EmperorsArmor_T3.png?version=e4fb464cef370098ebff90f0873aac95",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 600,
+	"total_cost": 2000,
+	"passives": [
+		"Damageable enemy structures within 55 units have their Attack Speed decreased by 30%.",
+		"Damageable allied structures within 55 units have their Attack Speed increased by 40%."
+	],
+	"stat_changes": [
+		"+250 Health",
+		"+40 Physical Protection"
+	],
+	"previous_tiers": [
+		{
+			"name": "Steel Mail",
+			"url": "https://smiteapi.adammackle.com/passives/83"
+		}
+	],
+	"next_tiers": []
+}

@@ -1,0 +1,27 @@
+{
+	"id": 193,
+	"name": "Malice",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/4/44/Malice_T3.png?version=d6389a73df0f3a7a77c2520a5570b3f5",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1150,
+	"total_cost": 2650,
+	"passives": [
+		"Successfully Hitting an Enemy with a Critical Strike will subtract 3s from all of your abilities currently on Cooldown, except your Ultimate ability. This effect can only happen once every 5s."
+	],
+	"stat_changes": [
+		"+40 Physical Power",
+		"+25% Critical Strike Chance",
+		"+10% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Short Sword",
+			"url": "https://smiteapi.adammackle.com/passives/89"
+		}
+	],
+	"next_tiers": []
+}

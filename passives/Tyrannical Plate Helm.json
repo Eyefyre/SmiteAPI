@@ -1,0 +1,29 @@
+{
+	"id": 190,
+	"name": "Tyrannical Plate Helm",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/b/b1/TyrannicalPlateHelm_T3.png?version=a8ecb00a795d0968e323c5948f63187e",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1000,
+	"total_cost": 2600,
+	"passives": [
+		"If there are ally minions around you they gain 10% Health and 20% Attack Speed. Whenever an ally minion dies around you, you gain 5 power per stack, max 6 stacks for 15 seconds."
+	],
+	"stat_changes": [
+		"+70 Magical Power",
+		"+40 Physical Protection",
+		"+100 Health",
+		"+20% Crowd Control Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Dynasty Plate Helm",
+			"url": "https://smiteapi.adammackle.com/passives/96"
+		}
+	],
+	"next_tiers": []
+}

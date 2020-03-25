@@ -1,0 +1,28 @@
+{
+	"id": 165,
+	"name": "Hide Of The Urchin",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/7/7a/HideoftheUrchin_T3.png?version=49fef758a97abd40157170e23dfb3d9f",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 900,
+	"total_cost": 2450,
+	"passives": [
+		"You gain +3 Magical Protection and +3 Physical Protection for each god kill or assist. At 7 stacks this item Evolves, providing a Health Shield that gains stacks every 2s. Shield only stacks if you have not taken or dealt damage in the last 5s. Each stack provides 10% of 100 Health +5 Per Level."
+	],
+	"stat_changes": [
+		"+30 Physical Protection",
+		"+30 Magical Protection",
+		"+250 Health",
+		"+250 Mana"
+	],
+	"previous_tiers": [
+		{
+			"name": "Armored Cloak",
+			"url": "https://smiteapi.adammackle.com/passives/92"
+		}
+	],
+	"next_tiers": []
+}

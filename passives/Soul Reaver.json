@@ -1,0 +1,27 @@
+{
+	"id": 203,
+	"name": "Soul Reaver",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/5/51/SoulReaver_T3.png?version=263a195edce1962e06a43a9a2e1ad785",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1500,
+	"total_cost": 2850,
+	"passives": [
+		"Your abilities deal an additional 2% of the targets maximum Health as Magical Damage. If the target has over 2000 Health, your ability bonus damage scales up. This effect reaches a maximum of 7% Maximum Health damage at 2750 Health. Subsequent hits on the same target do half the bonus damage for the next 3s."
+	],
+	"stat_changes": [
+		"+110 Magical Power",
+		"+300 Mana",
+		"+10% Magical Penetration"
+	],
+	"previous_tiers": [
+		{
+			"name": "Book Of Souls",
+			"url": "https://smiteapi.adammackle.com/passives/73"
+		}
+	],
+	"next_tiers": []
+}

@@ -1,0 +1,27 @@
+{
+	"id": 134,
+	"name": "Golden Blade",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/e/e8/GoldenBlade_T3.png?version=8e29317932329856c9381ad9dcb7d748",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 900,
+	"total_cost": 2200,
+	"passives": [
+		"All Basic Attacks will also hit enemies within a 15 unit radius of the target for 50% of the damage to Gods, 75% damage to Minions and Jungle Camps."
+	],
+	"stat_changes": [
+		"+30 Physical Power",
+		"+15% Attack Speed",
+		"+10% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Thousand Fold Blade",
+			"url": "https://smiteapi.adammackle.com/passives/72"
+		}
+	],
+	"next_tiers": []
+}

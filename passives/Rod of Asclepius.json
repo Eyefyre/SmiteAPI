@@ -1,0 +1,28 @@
+{
+	"id": 186,
+	"name": "Rod Of Asclepius",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/f/f0/RodofAscelpius_T3.png?version=d5aa79a8c55376a054e17b8326e798f6",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1100,
+	"total_cost": 2600,
+	"passives": [
+		"Allied gods within 70 units have their Healing increased by 10%. If you have taken or dealt damage in the last 5s, their Healing is increased by an additional 15%."
+	],
+	"stat_changes": [
+		"+90 Magical Power",
+		"+200 Health",
+		"+7% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Rod of Healing",
+			"url": "https://smiteapi.adammackle.com/passives/88"
+		}
+	],
+	"next_tiers": []
+}

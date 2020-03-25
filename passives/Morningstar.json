@@ -1,0 +1,27 @@
+{
+	"id": 30,
+	"name": "Morningstar",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/7/73/MorningStar_T1.png?version=ce5554c3c4a0559c1336d711307cc481",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 1,
+	"cost": 600,
+	"total_cost": 600,
+	"passives": [],
+	"stat_changes": [
+		"+10 Physical Power",
+		"+5 MP5"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Charged Morningstar",
+			"url": "https://smiteapi.adammackle.com/passives/58"
+		},
+		{
+			"name": "Hydra's Star",
+			"url": "https://smiteapi.adammackle.com/passives/62"
+		}
+	]
+}

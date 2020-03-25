@@ -1,0 +1,29 @@
+{
+	"id": 56,
+	"name": "Tower Shield",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/8/80/TowerShield_T2.png?version=575be4299aa083b919f27d366e09a407",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 2,
+	"cost": 500,
+	"total_cost": 1150,
+	"passives": [],
+	"stat_changes": [
+		"+20 Physical Power",
+		"+15 Physical Protection"
+	],
+	"next_tiers": [
+		{
+			"name": "Shifter's Shield",
+			"url": "https://smiteapi.adammackle.com/passives/163"
+		}
+	],
+	"previous_tiers": [
+		{
+			"name": "Round Shield",
+			"url": "https://smiteapi.adammackle.com/passives/38"
+		}
+	]
+}

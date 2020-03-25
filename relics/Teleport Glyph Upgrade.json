@@ -1,0 +1,13 @@
+{
+    "id": 28,
+    "name": "Teleport Glyph Upgrade",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/a/a2/TeleportGlyph_UpgradedRelic.png/64px-TeleportGlyph_UpgradedRelic.png?version=5d9f7588dae1e29e8dcaae2658604964",
+    "cost": 500,
+    "cooldown": 200,
+    "effect": "Using this item allows you to teleport to any allied tower or ward while Rooted in place. This effect is not interrupted by damage but is interrupted by hard Crowd Control.",
+    "next_tier": null,
+    "previous_tier": {
+        "name": "Teleport Glyph",
+        "url": "https://smiteapi.adammackle.com/relics/27"
+    }
+}

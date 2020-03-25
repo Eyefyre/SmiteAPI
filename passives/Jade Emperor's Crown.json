@@ -1,0 +1,27 @@
+{
+	"id": 119,
+	"name": "Jade Emperor's Crown",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/f/f0/JadeEmperorsCrown_T3.png?version=25b10a4599e00906bfe10688dd5bc4ae",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 3,
+	"cost": 900,
+	"total_cost": 2100,
+	"passives": [
+		"Enemy gods within 55 units have their Physical Power reduced by 30."
+	],
+	"stat_changes": [
+		"+20 Magical Power",
+		"+60 Physical Protection",
+		"+150 Health"
+	],
+	"previous_tiers": [
+		{
+			"name": "Jade Mountain Helm",
+			"url": "https://smiteapi.adammackle.com/passives/63"
+		}
+	],
+	"next_tiers": []
+}

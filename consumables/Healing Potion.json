@@ -1,0 +1,8 @@
+{
+    "id":1,
+    "name":"Healing Potion",
+    "picture":"https://gamepedia.cursecdn.com/smite_gamepedia/thumb/d/d2/HealthPotion.png/64px-HealthPotion.png?version=9134aa328bf2b8b65376151c9955f3a1",
+    "cost":50,
+    "effect":"This consumable heals 250 Health over 25 seconds.",
+    "carry_limit":5
+}

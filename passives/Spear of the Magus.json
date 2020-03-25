@@ -1,0 +1,25 @@
+{
+	"id": 168,
+	"name": "Spear Of The Magus",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/6/6f/SpearoftheMagus_T3.png?version=a30d07008659cbb9180fa4bf212b0731",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 1050,
+	"total_cost": 2450,
+	"passives": [
+		"Subsequent hits of the same ability deal 6% increased damage, stacking 6 times."
+	],
+	"stat_changes": [
+		"+75 Magical Power",
+		"+10 Magical Penetration"
+	],
+	"previous_tiers": [
+		{
+			"name": "Enchanted Spear",
+			"url": "https://smiteapi.adammackle.com/passives/80"
+		}
+	],
+	"next_tiers": []
+}

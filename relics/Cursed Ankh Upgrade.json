@@ -1,0 +1,13 @@
+{
+    "id": 10,
+    "name": "Cursed Ankh Upgrade",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/f/f0/CursedAnkh_UpgradedRelic.png/64px-CursedAnkh_UpgradedRelic.png?version=13ea67cf4e067b9e36abcf4654c614f3",
+    "cost": 500,
+    "cooldown": 120,
+    "effect": "Using this item reduces the Healing received by all enemy gods within 55 by 50% for 10s. Enemies that are healed while affected by this curse take 20% more damage from all sources for the duration of the curse.",
+    "next_tier": null,
+    "previous_tier": {
+        "name": "Cursed Ankh",
+        "url": "https://smiteapi.adammackle.com/relics/9"
+    }
+}

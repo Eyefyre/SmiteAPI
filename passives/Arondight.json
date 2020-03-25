@@ -1,0 +1,26 @@
+{
+	"id": 181,
+	"name": "Arondight",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/e/e9/Arondight_T3.png?version=f56466d9ddb343cfcc3ec110193b7e7e",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1000,
+	"total_cost": 2600,
+	"passives": [
+		"When your Ultimate ability has finished casting, reveal all enemies within 120 units for 8s. While moving towards revealed enemies gain 30% Movement Speed. When first striking a revealed enemy they take an additional 40 + 30% of your Physical Power. This can only occur once every 45 seconds."
+	],
+	"stat_changes": [
+		"+75 Physical Power",
+		"+10% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Honed Edge",
+			"url": "https://smiteapi.adammackle.com/passives/97"
+		}
+	],
+	"next_tiers": []
+}

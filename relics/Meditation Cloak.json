@@ -1,0 +1,13 @@
+{
+    "id": 17,
+    "name": "Meditation Cloak",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/a/a6/Meditation_Relic.png/64px-Meditation_Relic.png?version=14bc32afe19be0db9ecc15bcc01497ab",
+    "cost": 0,
+    "cooldown": 120,
+    "effect": "Using this item restores 75 Health + 12 Health per level and 30% Mana to all Allied gods within 35 units.",
+    "next_tier": {
+        "name": "Meditation Cloak Upgrade",
+        "url": "https://smiteapi.adammackle.com/relics/18"
+    },
+    "previous_tier": null
+}

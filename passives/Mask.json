@@ -1,0 +1,32 @@
+{
+	"id": 19,
+	"name": "Mask",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/7/71/Mask_T1.png?version=1924edfecee849843be97d367bd170cb",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 1,
+	"cost": 500,
+	"total_cost": 500,
+	"passives": [],
+	"stat_changes": [
+		"+50 Health",
+		"+50 Mana"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Protector's Mask",
+			"url": "https://smiteapi.adammackle.com/passives/65"
+		},
+		{
+			"name": "Messenger's Mask",
+			"url": "https://smiteapi.adammackle.com/passives/64"
+		},
+		{
+			"name": "Fighter's Mask",
+			"url": "https://smiteapi.adammackle.com/passives/60"
+		}
+	]
+}

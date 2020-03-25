@@ -1,0 +1,26 @@
+{
+	"id": 137,
+	"name": "Silverbranch Bow",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/7/78/SilverbranchBow_T3.png?version=d7c3fe9deb4592217152ef4b3b2ff870",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 1000,
+	"total_cost": 2200,
+	"passives": [
+		"For each 0.02 Attack Speed you go over cap you gain 1.5 Physical Power."
+	],
+	"stat_changes": [
+		"+35% Attack Speed",
+		"+30 Physical Power",
+		"+10 Physical Penetration"
+	],
+	"previous_tiers": [
+		{
+			"name": "Hunter's Bow",
+			"url": "https://smiteapi.adammackle.com/passives/61"
+		}
+	],
+	"next_tiers": []
+}

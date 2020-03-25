@@ -1,0 +1,26 @@
+{
+    "id": 3,
+    "name": "Attacker's Blessing",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/4/4c/AttackersBlessing_T1.png/64px-AttackersBlessing_T1.png?version=5c16e1ade2a79595627cfff66d43cf67",
+    "item_types": [
+        "Starter",
+        "Offensive"
+    ],
+	"item_tier": 0,
+	"total_cost": 700,
+    "cost": 700,
+    "passives": [
+        "Damage lane minions and Enemy gods to gain stacks. Dealing 100 damage to Lane Minions provide 1 Stack and Dealing 100 damage to Enemy gods provide 3 Stacks. At 100 Stacks Attacker's Blessing Evolves, gaining 10 Penetration."
+    ],
+    "stat_changes": [
+        "+20 Physical Power",
+        "+25 Magical Power"
+    ],
+    "previous_tiers": [],
+    "next_tiers": [
+        {
+            "name": "Evolved Attacker's Blessing",
+            "url": "https://smiteapi.adammackle.com/passives/4"
+        }
+    ]
+}

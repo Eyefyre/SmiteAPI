@@ -1,0 +1,29 @@
+{
+	"id": 171,
+	"name": "Caduceus Shield",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/2/25/CaduceusShield_T3.png?version=635e32c3098833334ebee55bd0226e7d",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1100,
+	"total_cost": 2500,
+	"passives": [
+		"Allied gods within 70 units have their Healing from abilities increased by 10%. If you have taken or dealt damage in the last 5s, their Healing is increased by an additional 15%. This does not stack with similar Auras."
+	],
+	"stat_changes": [
+		"+30 Physical Power",
+		"+35 Physical Protection",
+		"+35 Magical Protection",
+		"+100 Health"
+	],
+	"previous_tiers": [
+		{
+			"name": "Warded Shield",
+			"url": "https://smiteapi.adammackle.com/passives/85"
+		}
+	],
+	"next_tiers": []
+}

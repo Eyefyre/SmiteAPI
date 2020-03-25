@@ -1,0 +1,29 @@
+{
+	"id": 156,
+	"name": "Soul Gem",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/b/b9/SoulGem_T3.png?version=4cd3f5c21dbe06efed036a922ed1c04a",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1200,
+	"total_cost": 2300,
+	"passives": [
+		"On successful hit of an Ability you gain 1 stack. At 4 Stacks your next Ability that damages an enemy God will deal bonus damage equal to 30% of your Magical power to each god hit, and will heal yourself and allies within 20 units for 40% of your Magical Power and will consume the 4 stacks."
+	],
+	"stat_changes": [
+		"+80 Magical Power",
+		"+150 Health",
+		"+12% Magical Lifesteal",
+		"+10% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Enchanted Trinket",
+			"url": "https://smiteapi.adammackle.com/passives/53"
+		}
+	],
+	"next_tiers": []
+}

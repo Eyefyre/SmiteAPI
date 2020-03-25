@@ -1,0 +1,26 @@
+{
+	"id": 103,
+	"name": "Ninja Tabi",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/8/85/P_NinjaTabi.png?version=b84d6a8d8f8db4d0a4a8839acc750fce",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 650,
+	"total_cost": 1550,
+	"passives": [],
+	"stat_changes": [
+		"+20 Physical Power",
+		"+100 Mana",
+		"+25% Attack Speed",
+		"+18% Movement Speed."
+	],
+	"previous_tiers": [
+		{
+			"name": "Combat Boots",
+			"url": "https://smiteapi.adammackle.com/passives/49"
+		}
+	],
+	"next_tiers": []
+}

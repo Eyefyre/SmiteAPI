@@ -1,0 +1,13 @@
+{
+    "id": 5,
+    "name": "Blink Rune",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/e/e9/BlinkRune_Relic.png/64px-BlinkRune_Relic.png?version=72ed404670d233f2fb96b107dc11a5a0",
+    "cost": 0,
+    "cooldown": 140,
+    "effect": "Using this item will allow you to teleport up to 45 units away instantly. This item can not be used if you have taken or dealt damage in the last 3s.",
+    "next_tier": {
+        "name": "Blink Rune Upgrade",
+        "url": "https://smiteapi.adammackle.com/relics/6"
+    },
+    "previous_tier": null
+}

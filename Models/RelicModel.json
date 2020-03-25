@@ -1,0 +1,16 @@
+{
+    "id": 1,
+    "name": "",
+    "picture": "",
+    "cost": 0,
+    "cooldown": 180,
+    "effect": "",
+    "next_tier": {
+        "name": "",
+        "url": ""
+    },
+    "previous_tier": {
+        "name": "",
+        "url": ""
+    }
+}

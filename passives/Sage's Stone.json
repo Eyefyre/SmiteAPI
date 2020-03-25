@@ -1,0 +1,29 @@
+{
+	"id": 82,
+	"name": "Sage's Stone",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/2/29/SagesStone_T2.png?version=1e01f0165b0acb1353d3d0cd75d00094",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 2,
+	"cost": 800,
+	"total_cost": 1400,
+	"passives": [],
+	"stat_changes": [
+		"+40 Magical Power",
+		"+20 Magical Protection"
+	],
+	"previous_tiers": [
+		{
+			"name": "Druid Stone",
+			"url": "https://smiteapi.adammackle.com/passives/25"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Stone of Fal",
+			"url": "https://smiteapi.adammackle.com/passives/188"
+		}
+	]
+}

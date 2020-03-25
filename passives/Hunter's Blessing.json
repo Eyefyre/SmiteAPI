@@ -1,0 +1,27 @@
+{
+    "id": 9,
+    "name": "Hunter's Blessing",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/f/f8/HuntersBlessing_T1.png/64px-HuntersBlessing_T1.png?version=819186b3d3c97a8a3947fcb4f1bfe83d",
+    "item_types": [
+        "Starter",
+        "Offensive",
+        "Utility"
+    ],
+	"item_tier": 0,
+	"total_cost": 700,
+    "cost": 700,
+    "passives": [
+        "Kill or Assist Lane Minions or Enemy gods to gain stacks. Lane Minions are worth 1 Stack and Enemy gods are worth 5 Stacks. At 75 Stacks Hunter's Blessing Evolves, gaining 15% Attack Speed and an additional 15 Bonus Basic Attack Damage."
+    ],
+    "stat_changes": [
+        "+15 Basic Attack Damage",
+        "+10 MP5"
+    ],
+    "previous_tiers": [],
+    "next_tiers": [
+        {
+            "name": "Evolved Hunter's Blessing",
+            "url": "https://smiteapi.adammackle.com/passives/10"
+        }
+    ]
+}

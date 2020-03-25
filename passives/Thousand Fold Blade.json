@@ -1,0 +1,41 @@
+{
+	"id": 72,
+	"name": "Thousand Fold Blade",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/7/7d/ThousandFoldBlade_T2.png?version=e668984e30697ea28f833945363aee7a",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 600,
+	"total_cost": 1300,
+	"passives": [],
+	"stat_changes": [
+		"+20 Physical Power",
+		"+5% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Katana",
+			"url": "https://smiteapi.adammackle.com/passives/45"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Golden Blade",
+			"url": "https://smiteapi.adammackle.com/passives/134"
+		},
+		{
+			"name": "Hastened Katana",
+			"url": "https://smiteapi.adammackle.com/passives/172"
+		},
+		{
+			"name": "Stone Cutting Sword",
+			"url": "https://smiteapi.adammackle.com/passives/177"
+		},
+		{
+			"name": "Masamune",
+			"url": "https://smiteapi.adammackle.com/passives/173"
+		}
+	]
+}

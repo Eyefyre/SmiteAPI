@@ -1,0 +1,26 @@
+{
+	"id": 107,
+	"name": "Acorn Of Yggdrasil",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/3/35/OpalAcorn_T3.png?version=257603fe6d3df1ffaf33104ab8e1fb3e",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 900,
+	"total_cost": 1600,
+	"passives": [
+		"Any time Ratatoskr uses an ability that successfully hits any target, he is healed."
+	],
+	"stat_changes": [
+		"+50 Physical Power",
+		"+20% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Acorn of Swiftness",
+			"url": "https://smiteapi.adammackle.com/passives/48"
+		}
+	],
+	"next_tiers": []
+}

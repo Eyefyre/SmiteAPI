@@ -1,0 +1,32 @@
+{
+	"id": 78,
+	"name": "Cursed Gauntlet",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/8/84/CursedGauntlet_T2.png?version=b366ff2c86a62471d4f6b4568e6b9f1f",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 2,
+	"cost": 800,
+	"total_cost": 1400,
+	"passives": [],
+	"stat_changes": [
+		"+20 Physical Power",
+		"+10% Physical Lifesteal"
+	],
+	"previous_tiers": [
+		{
+			"name": "Spiked Gauntlet",
+			"url": "https://smiteapi.adammackle.com/passives/31"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Bloodforge",
+			"url": "https://smiteapi.adammackle.com/passives/201"
+		},
+		{
+			"name": "Devourer's Gauntlet",
+			"url": "https://smiteapi.adammackle.com/passives/145"
+		}
+	]
+}

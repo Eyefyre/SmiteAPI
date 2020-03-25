@@ -1,0 +1,28 @@
+{
+	"id": 122,
+	"name": "Shield Of Regrowth",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/2/29/ShieldofRegrowth_T3.png?version=3db1cbc88d289683f6ed5cee1ead1f26",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 750,
+	"total_cost": 2000,
+	"passives": [
+		"After healing yourself from an ability, you gain +40% movement speed for 4 seconds. This cannot occur more than once every 10 seconds."
+	],
+	"stat_changes": [
+		"+300 Health",
+		"+15 HP5",
+		"+15 MP5",
+		"+10% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Emerald Mail",
+			"url": "https://smiteapi.adammackle.com/passives/68"
+		}
+	],
+	"next_tiers": []
+}

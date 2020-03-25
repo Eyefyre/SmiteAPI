@@ -1,0 +1,32 @@
+{
+	"id": 79,
+	"name": "Emerald Talisman",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/4/46/EmeraldTalisman_T2.png?version=b5a8934b60f6a36a658ddfaeaa4da780",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 800,
+	"total_cost": 1400,
+	"passives": [
+		"Regenerates 0.2% of your max. Health every second."
+	],
+	"stat_changes": [
+		"+200 Health",
+		"+15 HP5",
+		"+6 MP5"
+	],
+	"next_tiers": [
+		{
+			"name": "Stone of Gaia",
+			"url": "https://smiteapi.adammackle.com/passives/141"
+		}
+	],
+	"previous_tiers": [
+		{
+			"name": "Glowing Emerald",
+			"url": "https://smiteapi.adammackle.com/passives/27"
+		}
+	]
+}

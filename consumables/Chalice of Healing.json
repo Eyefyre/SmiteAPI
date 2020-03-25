@@ -1,0 +1,8 @@
+{
+    "id":5,
+    "name":"Chalice Of Healing",
+    "picture":"https://gamepedia.cursecdn.com/smite_gamepedia/thumb/3/33/Container_ChaliceofHealing.png/64px-Container_ChaliceofHealing.png?version=307bd1ef7f4af8e8d8af4cce181884da",
+    "cost":300,
+    "effect":"This consumable heals 250 Health over 25 seconds per use. Comes with 3 uses that are refilled if you enter the Fountain, sells for 0 gold.",
+    "carry_limit":1
+}

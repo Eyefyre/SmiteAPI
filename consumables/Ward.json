@@ -1,0 +1,8 @@
+{
+    "id":4,
+    "name":"Ward",
+    "picture":"https://gamepedia.cursecdn.com/smite_gamepedia/thumb/f/f1/Icons_Wards_Basic_01.png/64px-Icons_Wards_Basic_01.png?version=37b5d71bae07a6ad08506c8a6fb505cf",
+    "cost":50,
+    "effect":"This is a ward that allows you to see normal enemy movements with 45 units. It does respect line of sight and can't see through walls or stealth. It remains for 3 minutes or until killed.",
+    "carry_limit":2
+}

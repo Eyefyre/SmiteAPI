@@ -1,0 +1,32 @@
+{
+	"id": 62,
+	"name": "Hydra's Star",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/2/28/HydrasStar_T2.png?version=c11cb8f6a6e7da1c1502ce20a59c24eb",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 600,
+	"total_cost": 1200,
+	"passives": [
+		"For 8 seconds after using an ability, your next basic attack will deal an additional 10% damage. The effect can only occur every 3 seconds."
+	],
+	"stat_changes": [
+		"+20 Physical Power",
+		"+5% Cooldown Reduction",
+		"+7 MP5"
+	],
+	"previous_tiers": [
+		{
+			"name": "Morningstar",
+			"url": "https://smiteapi.adammackle.com/passives/30"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Hydra's Lament",
+			"url": "https://smiteapi.adammackle.com/passives/127"
+		}
+	]
+}

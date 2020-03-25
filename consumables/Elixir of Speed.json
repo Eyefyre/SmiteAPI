@@ -1,0 +1,8 @@
+{
+    "id":12,
+    "name":"Elixir Of Speed",
+    "picture":"https://gamepedia.cursecdn.com/smite_gamepedia/thumb/b/b2/ElixirofSpeed_T3.png/64px-ElixirofSpeed_T3.png?version=8ee59ac4c4f5b4c6cec03dd9fe1c83c9",
+    "cost":1500,
+    "effect":"This consumable increases your Movement Speed by 18% permanently. This effect does not stack with Movement Speed from Boots or Shoes.",
+    "carry_limit":5
+}

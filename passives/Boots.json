@@ -1,0 +1,22 @@
+{
+	"id": 18,
+	"name": "Boots",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/2/28/P_Boots_Basic.png?version=b25c89d8bb90ab1f39a8a55807321036",
+	"item_types": [
+		"Utility"
+	],
+	"item_tier": 1,
+	"cost": 500,
+	"total_cost": 500,
+	"passives": [],
+	"stat_changes": [
+		"+6% Movement Speed"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Combat Boots",
+			"url": "https://smiteapi.adammackle.com/passives/49"
+		}
+	]
+}

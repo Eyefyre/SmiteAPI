@@ -1,0 +1,27 @@
+{
+	"id": 100,
+	"name": "Berserker's Shield",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/4/41/BerserkersShield_T2.png?version=57397820144fcc61ee7b4a8ac17461da",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 2,
+	"cost": 1050,
+	"total_cost": 1700,
+	"passives": [
+		"Anytime you hit an Enemy with a Basic Attack you are healed for 1% of your maximum Health and Mana. Basic Attacks that hit multiple enemies will restore 0.5% of your maximum Health and Mana after the first."
+	],
+	"stat_changes": [
+		"+25 Physical Power",
+		"+15 Physical Protection",
+		"+10% Attack Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Round Shield",
+			"url": "https://smiteapi.adammackle.com/passives/38"
+		}
+	],
+	"next_tiers": []
+}

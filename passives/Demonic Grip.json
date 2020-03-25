@@ -1,0 +1,25 @@
+{
+	"id": 148,
+	"name": "Demonic Grip",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/0/01/DemonicGrip_T3.png?version=fa4bd4e4a4b77cc0cd6160155cd8e876",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 1200,
+	"total_cost": 2300,
+	"passives": [
+		"Your Basic Attacks reduce your target's Magical Protection by 10% for 3s (max 3 Stacks)."
+	],
+	"stat_changes": [
+		"+75 Magical Power",
+		"+30% Attack Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Enchanted Ring",
+			"url": "https://smiteapi.adammackle.com/passives/59"
+		}
+	],
+	"next_tiers": []
+}

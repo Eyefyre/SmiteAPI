@@ -1,0 +1,25 @@
+{
+	"id": 166,
+	"name": "Ichaival",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/5/5a/Ichaival_T3.png?version=91e0cb7e7788586082bdf00595a3ebe5",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 1250,
+	"total_cost": 2450,
+	"passives": [
+		"Every successful Basic Attack increases your Physical Power by 15 and reduces the attack speed of your opponent by 10% for 3s. (Max. 3 Stacks)"
+	],
+	"stat_changes": [
+		"+30% Attack Speed",
+		"+30 Physical Power"
+	],
+	"previous_tiers": [
+		{
+			"name": "Hunter's Bow",
+			"url": "https://smiteapi.adammackle.com/passives/61"
+		}
+	],
+	"next_tiers": []
+}

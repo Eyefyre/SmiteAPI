@@ -1,0 +1,36 @@
+{
+	"id": 61,
+	"name": "Hunter's Bow",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/9/9b/HuntersBow_T2.png?version=129cf09e9e602a2cf6ef0d2609b290b0",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 2,
+	"cost": 550,
+	"total_cost": 1200,
+	"passives": [],
+	"stat_changes": [
+		"+20% Attack Speed",
+		"+10 Physical Power"
+	],
+	"previous_tiers": [
+		{
+			"name": "Short Bow",
+			"url": "https://smiteapi.adammackle.com/passives/39"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Silverbranch Bow",
+			"url": "https://smiteapi.adammackle.com/passives/137"
+		},
+		{
+			"name": "Ichaival",
+			"url": "https://smiteapi.adammackle.com/passives/166"
+		},
+		{
+			"name": "Atalanta's Bow",
+			"url": "https://smiteapi.adammackle.com/passives/131"
+		}
+	]
+}

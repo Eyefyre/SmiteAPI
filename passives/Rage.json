@@ -1,0 +1,25 @@
+{
+	"id": 153,
+	"name": "Rage",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/3/38/Rage_T3.png?version=00ca65cd223f520f1b5dd9f85463c9e2",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 800,
+	"total_cost": 2300,
+	"passives": [
+		"Killing or getting an assist on an enemy god gives you 1 stack. Each stack provides 3% Critical Strike Chance. Stacks are permanent and stack up to 5 times."
+	],
+	"stat_changes": [
+		"+20 Physical Power",
+		"+30% Critical Strike Chance"
+	],
+	"previous_tiers": [
+		{
+			"name": "Short Sword",
+			"url": "https://smiteapi.adammackle.com/passives/89"
+		}
+	],
+	"next_tiers": []
+}

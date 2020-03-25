@@ -1,0 +1,37 @@
+{
+	"id": 63,
+	"name": "Jade Mountain Helm",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/d/de/JadeMountainHelm_T2.png?version=72aa243d2387af1a3743e3bc11bc23ed",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 2,
+	"cost": 600,
+	"total_cost": 1200,
+	"passives": [],
+	"stat_changes": [
+		"+20 Magical Power",
+		"+30 Physical Protection"
+	],
+	"previous_tiers": [
+		{
+			"name": "Imperial Helmet",
+			"url": "https://smiteapi.adammackle.com/passives/28"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Jade Emperor's Crown",
+			"url": "https://smiteapi.adammackle.com/passives/119"
+		},
+		{
+			"name": "Lotus Crown",
+			"url": "https://smiteapi.adammackle.com/passives/116"
+		},
+		{
+			"name": "Celestial Legion Helm",
+			"url": "https://smiteapi.adammackle.com/passives/126"
+		}
+	]
+}

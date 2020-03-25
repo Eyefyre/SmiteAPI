@@ -1,0 +1,27 @@
+{
+	"id": 113,
+	"name": "Winged Blade",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/6/64/WingedBlade_T3.png?version=0f4d4a7ebcc9149a128a0d3ae207b44f",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 700,
+	"total_cost": 1850,
+	"passives": [
+		"When hit by a Slow, you are immune to Slows and your movement speed is increased by 20% for 4s. Only occurs once every 30 seconds."
+	],
+	"stat_changes": [
+		"+300 Health",
+		"+20% Crowd Control Reduction",
+		"+10% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Adventurer's Blade",
+			"url": "https://smiteapi.adammackle.com/passives/54"
+		}
+	],
+	"next_tiers": []
+}

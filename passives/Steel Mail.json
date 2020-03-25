@@ -1,0 +1,40 @@
+{
+	"id": 83,
+	"name": "Steel Mail",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/c/c8/SteelMail_T2.png?version=fe3083cdcf2db551d63be96fcb47d9b0",
+	"item_types": [
+		"Defensive"
+	],
+	"item_tier": 2,
+	"cost": 750,
+	"total_cost": 1400,
+	"passives": [],
+	"stat_changes": [
+		"+200 Health",
+		"+20 Physical Protection"
+	],
+	"previous_tiers": [
+		{
+			"name": "Iron Mail",
+			"url": "https://smiteapi.adammackle.com/passives/36"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Emperor's Armor",
+			"url": "https://smiteapi.adammackle.com/passives/114"
+		},
+		{
+			"name": "Sovereignty",
+			"url": "https://smiteapi.adammackle.com/passives/123"
+		},
+		{
+			"name": "Mystical Mail",
+			"url": "https://smiteapi.adammackle.com/passives/167"
+		},
+		{
+			"name": "Midgardian Mail",
+			"url": "https://smiteapi.adammackle.com/passives/150"
+		}
+	]
+}

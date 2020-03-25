@@ -1,0 +1,13 @@
+{
+    "id":1,
+    "name":"",
+    "picture":"",
+	"item_tier":1,
+    "item_types":[],
+    "cost":700,
+	"total_cost":700,
+    "passives":[],
+    "stat_changes":[],
+    "previous_tiers":[],
+    "next_tiers":[]
+}

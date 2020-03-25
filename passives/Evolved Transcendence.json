@@ -1,0 +1,28 @@
+{
+    "id": 217,
+    "name": "Evolved Transcendence",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/9/9f/Transcendence_T3_Upgraded.png/64px-Transcendence_T3_Upgraded.png?version=1b726d4ea08b1e3525a45851858ad0c4",
+    "item_types": [
+        "Offensive",
+        "Utility"
+    ],
+    "item_tier": 3,
+    "cost": 1400,
+    "total_cost": 2600,
+    "passives": [
+        "3% of your Mana is converted to Physical Power"
+    ],
+    "stat_changes": [
+        "+35 Physical Power",
+        "+1050 Mana",
+        "+10 MP5",
+        "+10% Cooldown Reduction"
+    ],
+    "previous_tiers": [
+        {
+            "name": "Charged Morningstar",
+            "url": "https://smiteapi.adammackle.com/passives/58"
+        }
+    ],
+    "next_tiers": []
+}

@@ -1,0 +1,40 @@
+{
+	"id": 69,
+	"name": "Silver Talisman",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/7/7a/SilverTalisman_T2.png?version=81650d9497b9532ce1f224fc8504c27d",
+	"item_types": [
+		"Defensive"
+	],
+	"item_tier": 2,
+	"cost": 600,
+	"total_cost": 1250,
+	"passives": [],
+	"stat_changes": [
+		"+125 Health",
+		"+45 Magical Protection"
+	],
+	"previous_tiers": [
+		{
+			"name": "Talisman",
+			"url": "https://smiteapi.adammackle.com/passives/42"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Bulwark of Hope",
+			"url": "https://smiteapi.adammackle.com/passives/144"
+		},
+		{
+			"name": "Pestilence",
+			"url": "https://smiteapi.adammackle.com/passives/140"
+		},
+		{
+			"name": "Heartward Amulet",
+			"url": "https://smiteapi.adammackle.com/passives/118"
+		},
+		{
+			"name": "Talisman of Energy",
+			"url": "https://smiteapi.adammackle.com/passives/130"
+		}
+	]
+}

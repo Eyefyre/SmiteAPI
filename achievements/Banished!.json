@@ -1,7 +1,1 @@
-{
-	"id": 177,
-	"name": "Banished!",
-	"category": "Combat",
-	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/0/0f/Achievement_Combat_Freya_Banished.png/96px-Achievement_Combat_Freya_Banished.png?version=673d536bb884582a9d832e475c3f86f4",
-	"description": "As Freya banish three or more enemy gods with a single use of Banish."
-}
+{"id": 177, "name": "Banished!", "category": "Combat", "icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/0/0f/Achievement_Combat_Freya_Banished.png/96px-Achievement_Combat_Freya_Banished.png?version=673d536bb884582a9d832e475c3f86f4", "description": "As Freya banish three or more enemy gods with a single use of Banish."}

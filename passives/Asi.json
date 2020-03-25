@@ -1,0 +1,27 @@
+{
+	"id": 179,
+	"name": "Asi",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/7/7d/Asi_T3.png?version=a725ab34fc14d879ccc97dd8608ad2a5",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 1300,
+	"total_cost": 2550,
+	"passives": [
+		"If you drop below 35% Health, you gain an additional 30% Physical Lifesteal for 5 seconds. Can only occur once every 15 seconds."
+	],
+	"stat_changes": [
+		"+20 Physical Power",
+		"+20% Physical Lifesteal",
+		"+25% Attack Speed",
+		"+15 Physical Penetration"
+	],
+	"previous_tiers": [
+		{
+			"name": "Balanced Blade",
+			"url": "https://smiteapi.adammackle.com/passives/66"
+		}
+	],
+	"next_tiers": []
+}

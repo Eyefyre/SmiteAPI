@@ -1,0 +1,25 @@
+{
+	"id": 205,
+	"name": "Deathbringer",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/4/46/Deathbringer_T3.png?version=45d1ba8bd216efe669aac052e2971f7b",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 1500,
+	"total_cost": 3000,
+	"passives": [
+		"Critical Strike damage is increased by 30%."
+	],
+	"stat_changes": [
+		"+40 Physical Power",
+		"+25% Critical Strike Chance"
+	],
+	"previous_tiers": [
+		{
+			"name": "Short Sword",
+			"url": "https://smiteapi.adammackle.com/passives/89"
+		}
+	],
+	"next_tiers": []
+}

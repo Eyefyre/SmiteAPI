@@ -1,0 +1,24 @@
+{
+	"id": 17,
+	"name": "Magic Acorn",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/5/57/MagicAcorn_T1.png?version=99a9a98d30f8ed79cf9a9f433c2e7cfe",
+	"item_types": [
+		"Utility"
+	],
+	"item_tier": 1,
+	"cost": 0,
+	"total_cost": 0,
+	"passives": [
+		"This item can be upgraded from anywhere and replaces Boots for Ratatoskr."
+	],
+	"stat_changes": [
+		"+8% Movement Speed"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Acorn of Swiftness",
+			"url": "https://smiteapi.adammackle.com/passives/48"
+		}
+	]
+}

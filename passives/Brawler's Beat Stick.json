@@ -1,0 +1,25 @@
+{
+	"id": 158,
+	"name": "Brawler's Beat Stick",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/f/f1/BrawlersBeatStick_T3.png?version=e9e4e8fe16538abc54529779c91362ce",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 800,
+	"total_cost": 2350,
+	"passives": [
+		"Enemies hit by your Abilities have 40% reduced healing and regeneration for 8 seconds."
+	],
+	"stat_changes": [
+		"+40 Physical Power",
+		"+15 Physical Penetration"
+	],
+	"previous_tiers": [
+		{
+			"name": "Heavy Mace",
+			"url": "https://smiteapi.adammackle.com/passives/93"
+		}
+	],
+	"next_tiers": []
+}

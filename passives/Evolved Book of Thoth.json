@@ -1,0 +1,27 @@
+{
+    "id": 215,
+    "name": "Evolved Book Of Thoth",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/1/17/BookofThoth_T3_Upgraded.png/64px-BookofThoth_T3_Upgraded.png?version=c1c48c284b07e61ea70bb7ede00bdc3d",
+    "item_types": [
+        "Offensive",
+        "Utility"
+    ],
+    "item_tier": 3,
+    "cost": 1300,
+    "total_cost": 2650,
+    "passives": [
+        "9% of your Mana is converted to Magical Power."
+    ],
+    "stat_changes": [
+        "+80 Magical Power",
+        "+1000 Mana",
+        "+15 MP5"
+    ],
+    "previous_tiers": [
+        {
+            "name": "Book of Souls",
+            "url": "https://smiteapi.adammackle.com/passives/73"
+        }
+    ],
+    "next_tiers": []
+}

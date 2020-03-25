@@ -1,0 +1,28 @@
+{
+	"id": 115,
+	"name": "Contagion",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/3/3e/Contagion_T3.png?version=f08024fa6828df374df313087a92e36a",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1000,
+	"total_cost": 2050,
+	"passives": [
+		"Enemy gods within 55 units have their healing reduced by 25%. This does not stack with similar Auras."
+	],
+	"stat_changes": [
+		"+60 Physical Protection",
+		"+100 Health",
+		"+250 Mana",
+		"+15 MP5"
+	],
+	"previous_tiers": [
+		{
+			"name": "Silver Breastplate",
+			"url": "https://smiteapi.adammackle.com/passives/52"
+		}
+	],
+	"next_tiers": []
+}

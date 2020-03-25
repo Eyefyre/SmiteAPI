@@ -1,0 +1,28 @@
+{
+    "id": 5,
+    "name": "Defender's Blessing",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/d/d0/DefendersBlessing_T1.png/64px-DefendersBlessing_T1.png?version=3ebf2498868d4c73d48eb2e387a76cc6",
+    "item_types": [
+        "Starter",
+        "Defensive",
+        "Utility"
+    ],
+	"item_tier": 0,
+	"total_cost": 700,
+    "cost": 700,
+    "passives": [
+        "Mitigate damage to gain Stacks. Mitigating 50 damage provides 1 Stack. At 75 Stacks Defender's Blessing Evolves, gaining +150 Health and Mana."
+    ],
+    "stat_changes": [
+        "+100 Health",
+        "+10 Physical Protection",
+        "+10 Magical Protection"
+    ],
+    "previous_tiers": [],
+    "next_tiers": [
+        {
+            "name": "Evolved Defender's Blessing",
+            "url": "https://smiteapi.adammackle.com/passives/6"
+        }
+    ]
+}

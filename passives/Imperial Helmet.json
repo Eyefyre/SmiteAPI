@@ -1,0 +1,28 @@
+{
+	"id": 28,
+	"name": "Imperial Helmet",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/4/42/ImperialHelmet_T1.png?version=383b6f56ac30baefef189487b7db181d",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 1,
+	"cost": 600,
+	"total_cost": 600,
+	"passives": [],
+	"stat_changes": [
+		"+10 Magical Power",
+		"+20 Physical Protection"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Jade Mountain Helm",
+			"url": "https://smiteapi.adammackle.com/passives/63"
+		},
+		{
+			"name": "Dynasty Plate Helm",
+			"url": "https://smiteapi.adammackle.com/passives/96"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"id": 108,
+	"name": "Shoes Of Focus",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/1/1d/M_Shoes_ofFocus.png?version=e159b2f086d25fff003cd1f02172c077",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 700,
+	"total_cost": 1600,
+	"passives": [],
+	"stat_changes": [
+		"+55 Magical Power",
+		"+250 Mana",
+		"+10% Cooldown Reduction",
+		"+18% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Magic Shoes",
+			"url": "https://smiteapi.adammackle.com/passives/50"
+		}
+	],
+	"next_tiers": []
+}

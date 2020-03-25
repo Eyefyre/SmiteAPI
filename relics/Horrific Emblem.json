@@ -1,0 +1,13 @@
+{
+    "id": 13,
+    "name": "Horrific Emblem",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/9/9f/HorrificEmblem_Relic.png/64px-HorrificEmblem_Relic.png?version=e2dd111df98819815d36feaab2bfeef0",
+    "cost": 0,
+    "cooldown": 120,
+    "effect": "Using this item Slows the Movement Speed of all enemy gods within 35 units by 30% for 5s. Their Attack Speed is also reduced by 15% for the duration.",
+    "next_tier": {
+        "name": "Horrific Emblem Upgrade",
+        "url": "https://smiteapi.adammackle.com/relics/14"
+    },
+    "previous_tier": null
+}

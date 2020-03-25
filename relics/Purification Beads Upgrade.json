@@ -1,0 +1,13 @@
+{
+    "id": 22,
+    "name": "Purification Beads Upgrade",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/0/09/PurificationBeads_UpgradedRelic.png/64px-PurificationBeads_UpgradedRelic.png?version=6d47ee31d78407f6a7dca85b5e1d2366",
+    "cost": 500,
+    "cooldown": 130,
+    "effect": "Using this item removes Crowd Control Effects and makes you immune to new ones for 2s.",
+    "next_tier": null,
+    "previous_tier": {
+        "name": "Purification Beads",
+        "url": "https://smiteapi.adammackle.com/relics/21"
+    }
+}

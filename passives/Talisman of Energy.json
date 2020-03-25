@@ -1,0 +1,27 @@
+{
+	"id": 130,
+	"name": "Talisman Of Energy",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/9/93/TalismanoftheRelentless_T3.png?version=fa8942942e5a5823a468ae9b09368316",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 900,
+	"total_cost": 2150,
+	"passives": [
+		"Getting a kill or assist on enemies causes you and allies within 70 units to gain stacks of energy. Energy stacks provide 2% Movement Speed, 2% Attack Speed, and 10MP5 per stack. Lasts 10s and stacks up to 6 times."
+	],
+	"stat_changes": [
+		"+60 Magical Protection",
+		"+300 Health"
+	],
+	"previous_tiers": [
+		{
+			"name": "Silver Talisman",
+			"url": "https://smiteapi.adammackle.com/passives/69"
+		}
+	],
+	"next_tiers": []
+}

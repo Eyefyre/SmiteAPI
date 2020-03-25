@@ -1,0 +1,27 @@
+{
+	"id": 135,
+	"name": "Hide Of The Nemean Lion",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/7/7e/HideoftheNemeanLion_T3.png?version=da2056ca24561303a3f772bc01961a76",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1150,
+	"total_cost": 2200,
+	"passives": [
+		"Reflects 15% of all Basic Attack damage back to the attacker as Physical Damage."
+	],
+	"stat_changes": [
+		"+75 Physical Protection",
+		"+200 Mana",
+		"+20 MP5"
+	],
+	"previous_tiers": [
+		{
+			"name": "Silver Breastplate",
+			"url": "https://smiteapi.adammackle.com/passives/52"
+		}
+	],
+	"next_tiers": []
+}

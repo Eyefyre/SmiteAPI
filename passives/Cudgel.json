@@ -1,0 +1,28 @@
+{
+	"id": 33,
+	"name": "Cudgel",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/1/1d/Cudgel_T1.png?version=0686801d18c1f1e3f71ea403e9fd9069",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 1,
+	"cost": 650,
+	"total_cost": 650,
+	"passives": [],
+	"stat_changes": [
+		"+10 Physical Power",
+		"+75 Health"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Shillelagh",
+			"url": "https://smiteapi.adammackle.com/passives/71"
+		},
+		{
+			"name": "Heavy Hammer",
+			"url": "https://smiteapi.adammackle.com/passives/75"
+		}
+	]
+}

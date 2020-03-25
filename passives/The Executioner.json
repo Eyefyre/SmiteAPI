@@ -1,0 +1,25 @@
+{
+	"id": 161,
+	"name": "The Executioner",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/e/ef/The_Executioner.png?version=bf3d7ff3f6d01d0ac047eb62ace9de22",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 1100,
+	"total_cost": 2350,
+	"passives": [
+		"Basic Attacks against an enemy reduce your target's Physical Protection by 12% for 3 seconds (max. 3 Stacks)."
+	],
+	"stat_changes": [
+		"+30 Physical Power",
+		"+25% Attack Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Balanced Blade",
+			"url": "https://smiteapi.adammackle.com/passives/66"
+		}
+	],
+	"next_tiers": []
+}

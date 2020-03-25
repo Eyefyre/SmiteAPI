@@ -1,0 +1,29 @@
+{
+	"id": 117,
+	"name": "Witchblade",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/8/89/Witchblade_T3.png?version=f1ea22d3f4fe1c4c965c513912bfa903",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 800,
+	"total_cost": 2050,
+	"passives": [
+		"Enemy gods within 55 units have their Attack Speed reduced by 20%."
+	],
+	"stat_changes": [
+		"+250 Health",
+		"+10% Cooldown Reduction",
+		"+20% Attack Speed",
+		"+10% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Cursed Blade",
+			"url": "https://smiteapi.adammackle.com/passives/67"
+		}
+	],
+	"next_tiers": []
+}

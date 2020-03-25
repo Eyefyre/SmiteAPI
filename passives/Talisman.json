@@ -1,0 +1,23 @@
+{
+	"id": 42,
+	"name": "Talisman",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/3/3f/Talisman_T1.png?version=6fa11970fff776d23529cb14e7f229db",
+	"item_types": [
+		"Defensive"
+	],
+	"item_tier": 1,
+	"cost": 650,
+	"total_cost": 650,
+	"passives": [],
+	"stat_changes": [
+		"+75 Health",
+		"+15 Magical Protection"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Silver Talisman",
+			"url": "https://smiteapi.adammackle.com/passives/69"
+		}
+	]
+}

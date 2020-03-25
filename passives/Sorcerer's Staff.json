@@ -1,0 +1,31 @@
+{
+	"id": 76,
+	"name": "Sorcerer's Staff",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/e/e6/SorcerersStaff_T2.png?version=72b5b49d22bafb65c54c6acdd0afd453",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 700,
+	"total_cost": 1350,
+	"passives": [],
+	"stat_changes": [
+		"+30 Magical Power",
+		"+100 Health",
+		"+100 Mana"
+	],
+	"next_tiers": [
+		{
+			"name": "Warlock's Staff",
+			"url": "https://smiteapi.adammackle.com/passives/194"
+		}
+	],
+	"previous_tiers": [
+		{
+			"name": "Uncommon Staff",
+			"url": "https://smiteapi.adammackle.com/passives/43"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+    "id":9,
+    "name":"Chalice Of Mana",
+    "picture":"https://gamepedia.cursecdn.com/smite_gamepedia/thumb/9/96/Container_ChaliceofMana.png/64px-Container_ChaliceofMana.png?version=b279db55563fa91d906a9adca8e4b5e7",
+    "cost":300,
+    "effect":"This consumable heals 150 Mana over 25 seconds per use. Comes with 3 uses that are refilled if you enter the Fountain, sells for 0 gold",
+    "carry_limit":1
+}

@@ -1,0 +1,26 @@
+{
+	"id": 144,
+	"name": "Bulwark Of Hope",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/6/64/BulwarkofHope_T3.png?version=10d30a8a36b9fecbd1f87e96a8cb609a",
+	"item_types": [
+		"Defensive"
+	],
+	"item_tier": 3,
+	"cost": 1050,
+	"total_cost": 2300,
+	"passives": [
+		"When you take damage and are below 30% Health, you gain a Shield with health equal to 150 +10 Per Player Level for 20s. Can only occur once every 60s."
+	],
+	"stat_changes": [
+		"+60 Magical Protection",
+		"+250 Health",
+		"+20% Crowd Control Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Silver Talisman",
+			"url": "https://smiteapi.adammackle.com/passives/69"
+		}
+	],
+	"next_tiers": []
+}

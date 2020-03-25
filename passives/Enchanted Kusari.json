@@ -1,0 +1,24 @@
+{
+	"id": 35,
+	"name": "Enchanted Kusari",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/4/45/EnchantedKusari_T1.png?version=4f863a9cd123ee551ab39b35686f0f3d",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 1,
+	"cost": 650,
+	"total_cost": 650,
+	"passives": [],
+	"stat_changes": [
+		"+20 Magical Protection",
+		"+5 MP5"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Spellbound Kusari",
+			"url": "https://smiteapi.adammackle.com/passives/70"
+		}
+	]
+}

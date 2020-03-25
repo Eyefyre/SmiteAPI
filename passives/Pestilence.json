@@ -1,0 +1,26 @@
+{
+	"id": 140,
+	"name": "Pestilence",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/4/46/Pestilence_T3.png?version=fac9653057788c01dfd310a9b2741ad4",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1000,
+	"total_cost": 2250,
+	"passives": [
+		"Enemy gods within 55 units have their healing reduced by 25%. This does not stack with similar Auras."
+	],
+	"stat_changes": [
+		"+80 Magical Protection",
+		"+200 Health"
+	],
+	"previous_tiers": [
+		{
+			"name": "Silver Talisman",
+			"url": "https://smiteapi.adammackle.com/passives/69"
+		}
+	],
+	"next_tiers": []
+}

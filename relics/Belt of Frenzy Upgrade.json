@@ -1,0 +1,13 @@
+{
+    "id": 4,
+    "name": "Belt Of Frenzy Upgrade",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/c/c8/Frenzy_UpgradedRelic.png/64px-Frenzy_UpgradedRelic.png?version=4e31c44bf6112875d9ce307c4f1ce7eb",
+    "cost": 500,
+    "cooldown": 120,
+    "effect": "Using this item grants all allied gods within 70 units 10% Increased Damage dealt to all targets, including objectives, and 15% Attack Speed increase for 8 seconds. While active they also gain +10 Penetration.",
+    "next_tier": null,
+    "previous_tier": {
+        "name": "Belt Of Frenzy",
+        "url": "https://smiteapi.adammackle.com/relics/3"
+    }
+}

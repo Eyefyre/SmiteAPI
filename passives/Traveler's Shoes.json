@@ -1,0 +1,27 @@
+{
+	"id": 110,
+	"name": "Traveler's Shoes",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/5/51/TravelersShoes_T3.png?version=04d46f8887711bd291e040d8f6dcb6fd",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 700,
+	"total_cost": 1600,
+	"passives": [
+		"You gain +20% additional Movement Speed after leaving the Fountain. This effect lasts 7s."
+	],
+	"stat_changes": [
+		"+25 Magical Power",
+		"+15 MP5",
+		"+25% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Magic Shoes",
+			"url": "https://smiteapi.adammackle.com/passives/50"
+		}
+	],
+	"next_tiers": []
+}

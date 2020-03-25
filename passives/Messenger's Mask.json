@@ -1,0 +1,31 @@
+{
+	"id": 64,
+	"name": "Messenger's Mask",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/d/dd/BumbasMask_128.png?version=d2922ac22e96800368297fc81c2bbba2",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 700,
+	"total_cost": 1200,
+	"passives": [],
+	"stat_changes": [
+		"+10 Physical Power",
+		"+20 Magical Power",
+		"+10% Movement Speed",
+		"+10% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Mask",
+			"url": "https://smiteapi.adammackle.com/passives/19"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Bumba's Mask",
+			"url": "https://smiteapi.adammackle.com/passives/170"
+		}
+	]
+}

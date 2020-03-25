@@ -1,0 +1,29 @@
+{
+    "id": 210,
+    "name": "Evolved Soul Eater",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/2/24/SoulEater_T3_Upgraded.png/64px-SoulEater_T3_Upgraded.png?version=011562c32dcc76ee2fcdadbc91a52d9b",
+    "item_types": [
+        "Offensive",
+        "Utility"
+    ],
+    "item_tier": 3,
+    "cost": 1250,
+    "total_cost": 2300,
+    "passives": [
+        "Each time anything dies within 80 units, you gain a stack. Gods, Large Jungle monsters, and Jungle bosses provide 5 stacks.",
+        "Your Physical abilities heal you for 15% of the damage dealt to targets."
+    ],
+    "stat_changes": [
+        "+60 Physical Power",
+        "+200 Mana",
+        "+15% Physical Lifesteal",
+        "+10% Cooldown Reduction"
+    ],
+    "previous_tiers": [
+        {
+            "name": "Bound Gauntlet",
+            "url": "https://smiteapi.adammackle.com/passives/51"
+        }
+    ],
+    "next_tiers": []
+}

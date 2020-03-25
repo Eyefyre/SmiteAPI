@@ -1,0 +1,27 @@
+{
+	"id": 187,
+	"name": "Spear Of Desolation",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/c/c6/SpearofDesolation_T3.png?version=d4fec448edda30578efb0595926391a5",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1200,
+	"total_cost": 2600,
+	"passives": [
+		"If you receive a kill or assist on an Enemy God all of your cooldowns are reduced by 2 seconds."
+	],
+	"stat_changes": [
+		"+110 Magical Power",
+		"+15 Magical Penetration",
+		"+10% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Enchanted Spear",
+			"url": "https://smiteapi.adammackle.com/passives/80"
+		}
+	],
+	"next_tiers": []
+}

@@ -1,0 +1,28 @@
+{
+	"id": 101,
+	"name": "Gladiator's Shield",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/f/fe/GladiatorsShield_T2.png?version=98726e26be662a09c1baf540e4b83704",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 1050,
+	"total_cost": 1700,
+	"passives": [
+		"Anytime you hit an Enemy god with an Ability you are healed for 2.5% of your maximum Health and Mana. This can only trigger once per ability and subsequent heals after the first from a single ability only heal for half of the original amount."
+	],
+	"stat_changes": [
+		"+20 Physical Power",
+		"+30 Physical Protection",
+		"+10% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Round Shield",
+			"url": "https://smiteapi.adammackle.com/passives/38"
+		}
+	],
+	"next_tiers": []
+}

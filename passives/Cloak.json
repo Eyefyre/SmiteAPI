@@ -1,0 +1,31 @@
+{
+	"id": 32,
+	"name": "Cloak",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/c/ce/Cloak_T1.png?version=d0d4f807a190d773110e3368fc90dc85",
+	"item_types": [
+		"Defensive"
+	],
+	"item_tier": 1,
+	"cost": 650,
+	"total_cost": 650,
+	"passives": [],
+	"stat_changes": [
+		"+10 Physical Protection",
+		"+10 Magical Protection"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Cloak of Concentration",
+			"url": "https://smiteapi.adammackle.com/passives/87"
+		},
+		{
+			"name": "Cleric's Cloak",
+			"url": "https://smiteapi.adammackle.com/passives/55"
+		},
+		{
+			"name": "Armored Cloak",
+			"url": "https://smiteapi.adammackle.com/passives/92"
+		}
+	]
+}

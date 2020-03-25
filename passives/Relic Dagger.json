@@ -1,0 +1,27 @@
+{
+	"id": 112,
+	"name": "Relic Dagger",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/8/83/RitualDagger_T3.png?version=79f3d2848f79453c177d45174cb3d0c4",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 700,
+	"total_cost": 1850,
+	"passives": [
+		"Your relics receive 40s Cooldown Reduction."
+	],
+	"stat_changes": [
+		"+300 Health",
+		"+10% Cooldown Reduction",
+		"+10% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Adventurer's Blade",
+			"url": "https://smiteapi.adammackle.com/passives/54"
+		}
+	],
+	"next_tiers": []
+}

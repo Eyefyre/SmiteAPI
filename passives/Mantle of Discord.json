@@ -1,0 +1,27 @@
+{
+	"id": 204,
+	"name": "Mantle Of Discord",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/7/7b/CloakofUnrelentingSorrow_T3.png?version=0c2bcd9321bff2f79a542730c06fccf4",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1400,
+	"total_cost": 2900,
+	"passives": [
+		"If you take damage below 30% health you unleash a shockwave that stuns all enemies within a range of 20 units for 1s and gain CC immunity for 1s. This effect cannot trigger more than once every 90s."
+	],
+	"stat_changes": [
+		"+60 Physical Protection",
+		"+60 Magical Protection",
+		"+10% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Cloak of Concentration",
+			"url": "https://smiteapi.adammackle.com/passives/87"
+		}
+	],
+	"next_tiers": []
+}

@@ -7,47 +7,47 @@
 	"gods": [
 		{
 			"name": "Bacchus",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Bellona",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Cupid",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Discordia",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Hercules",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Janus",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Mercury",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Nox",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Sylvanus",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Terra",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Vulcan",
-			"url": null
+			"url": "placeholder"
 		}
 	]
 }

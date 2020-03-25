@@ -1,0 +1,13 @@
+{
+    "id": 9,
+    "name": "Cursed Ankh",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/8/84/CursedAnkh_Relic.png/64px-CursedAnkh_Relic.png?version=da0159d0973252b36f3839c951dad434",
+    "cost": 0,
+    "cooldown": 120,
+    "effect": "Using this item reduces the Healing received by all enemy gods within 55 units by 50% for 10s.",
+    "next_tier": {
+        "name": "Cursed Ankh Upgrade",
+        "url": "https://smiteapi.adammackle.com/relics/10"
+    },
+    "previous_tier": null
+}

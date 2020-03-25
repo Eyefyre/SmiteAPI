@@ -1,0 +1,28 @@
+{
+	"id": 116,
+	"name": "Lotus Crown",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/3/35/LotusCrown_T3.png?version=95df33f830103bd8f548517bffc2db1d",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 850,
+	"total_cost": 2050,
+	"passives": [
+		"Any god affected by your ability heals gains 20 increased Physical and Magical Protection for 5 seconds."
+	],
+	"stat_changes": [
+		"+30 Magical Power",
+		"+60 Physical Protection",
+		"+20 MP5"
+	],
+	"previous_tiers": [
+		{
+			"name": "Jade Mountain HelM",
+			"url": "https://smiteapi.adammackle.com/passives/63"
+		}
+	],
+	"next_tiers": []
+}

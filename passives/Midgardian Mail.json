@@ -1,0 +1,25 @@
+{
+	"id": 150,
+	"name": "Midgardian Mail",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/f/fc/MidGuardianMail_T3.png?version=d75015b5c8d072cf99f38ecbb193f71e",
+	"item_types": [
+		"Defensive"
+	],
+	"item_tier": 3,
+	"cost": 900,
+	"total_cost": 2300,
+	"passives": [
+		"Enemies that successfully land a basic attack on you have their Movement Speed and Attack Speed reduced by 8% for 2 seconds. This effect can stack up to 3 times and can stack with other item slow effects."
+	],
+	"stat_changes": [
+		"+300 Health",
+		"+40 Physical Protection"
+	],
+	"previous_tiers": [
+		{
+			"name": "Steel Mail",
+			"url": "https://smiteapi.adammackle.com/passives/83"
+		}
+	],
+	"next_tiers": []
+}

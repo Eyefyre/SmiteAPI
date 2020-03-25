@@ -1,0 +1,26 @@
+{
+	"id": 118,
+	"name": "Heartward Amulet",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/4/4a/HeartwardAmulet_T3.png?version=b7fd0e78fee09467c53d57d8c5ba5587",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 850,
+	"total_cost": 2100,
+	"passives": [
+		"Allied gods within 70 units have their Magical Protections increased by 15 and their MP5 increased by 30."
+	],
+	"stat_changes": [
+		"+55 Magical Protection",
+		"+250 Health"
+	],
+	"previous_tiers": [
+		{
+			"name": "Silver Talisman",
+			"url": "https://smiteapi.adammackle.com/passives/69"
+		}
+	],
+	"next_tiers": []
+}

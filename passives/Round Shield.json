@@ -1,0 +1,36 @@
+{
+	"id": 38,
+	"name": "Round Shield",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/3/39/RoundShield_T1.png?version=e930e75f9666b7670e62fd2e9b04dcd8",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 1,
+	"cost": 650,
+	"total_cost": 650,
+	"passives": [],
+	"stat_changes": [
+		"+10 Physical Power",
+		"+5 Physical Protection"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Spiked Shield",
+			"url": "https://smiteapi.adammackle.com/passives/99"
+		},
+		{
+			"name": "Tower Shield",
+			"url": "https://smiteapi.adammackle.com/passives/56"
+		},
+		{
+			"name": "Gladiator's Shield",
+			"url": "https://smiteapi.adammackle.com/passives/101"
+		},
+		{
+			"name": "Berserker's Shield",
+			"url": "https://smiteapi.adammackle.com/passives/100"
+		}
+	]
+}

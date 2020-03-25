@@ -1,0 +1,40 @@
+{
+	"id": 59,
+	"name": "Enchanted Ring",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/2/20/EnchantedRing_T2.png?version=6ed7834f7a2884f72215b1d5dd4263b5",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 2,
+	"cost": 500,
+	"total_cost": 1100,
+	"passives": [],
+	"stat_changes": [
+		"+40 Magical Power",
+		"+10% Attack Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Emerald Ring",
+			"url": "https://smiteapi.adammackle.com/passives/26"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Ring of Hecate",
+			"url": "https://smiteapi.adammackle.com/passives/185"
+		},
+		{
+			"name": "Hastened Ring",
+			"url": "https://smiteapi.adammackle.com/passives/197"
+		},
+		{
+			"name": "Telkhines Ring",
+			"url": "https://smiteapi.adammackle.com/passives/199"
+		},
+		{
+			"name": "Demonic Grip",
+			"url": "https://smiteapi.adammackle.com/passives/148 "
+		}
+	]
+}

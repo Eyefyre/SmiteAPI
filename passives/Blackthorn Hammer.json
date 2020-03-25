@@ -1,0 +1,28 @@
+{
+	"id": 132,
+	"name": "Blackthorn Hammer",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/d/d8/BlackthornHammer_T3.png?version=f14e277b91770ee99f5bebc8c353d8d4",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 900,
+	"total_cost": 2200,
+	"passives": [
+		"While over 25% Mana, you gain +10% Cooldown Reduction. While under 25% Mana, you gain +50 MP5."
+	],
+	"stat_changes": [
+		"+35 Physical Power",
+		"+350 Health",
+		"+200 Mana"
+	],
+	"previous_tiers": [
+		{
+			"name": "Shillelagh",
+			"url": "https://smiteapi.adammackle.com/passives/71"
+		}
+	],
+	"next_tiers": []
+}

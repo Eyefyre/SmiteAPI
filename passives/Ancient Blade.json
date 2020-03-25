@@ -1,0 +1,28 @@
+{
+	"id": 21,
+	"name": "Ancient Blade",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/8/82/AncientBlade_T1.png?version=8c8ccfd193341e72c83f884e4689f687",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 1,
+	"cost": 550,
+	"total_cost": 550,
+	"passives": [],
+	"stat_changes": [
+		"+50 Health",
+		"+5% Movement Speed"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Cursed Blade",
+			"url": "https://smiteapi.adammackle.com/passives/67"
+		},
+		{
+			"name": "Adventurer's Blade",
+			"url": "https://smiteapi.adammackle.com/passives/54"
+		}
+	]
+}

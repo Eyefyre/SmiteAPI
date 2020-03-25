@@ -1,0 +1,37 @@
+{
+	"id": 81,
+	"name": "Restored Artifact",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/0/0e/RestoredArtifact_T2.png?version=ea971ed4426e603358a8e34e9674ce8c",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 850,
+	"total_cost": 1400,
+	"passives": [],
+	"stat_changes": [
+		"+60 Magical Power",
+		"+15 MP5"
+	],
+	"previous_tiers": [
+		{
+			"name": "Lost Artifact",
+			"url": "https://smiteapi.adammackle.com/passives/22"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Rod of Tahuti",
+			"url": "https://smiteapi.adammackle.com/passives/207"
+		},
+		{
+			"name": "Chronos' Pendant",
+			"url": "https://smiteapi.adammackle.com/passives/195"
+		},
+		{
+			"name": "Charon's Coin",
+			"url": "https://smiteapi.adammackle.com/passives/183"
+		}
+	]
+}

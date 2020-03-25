@@ -1,0 +1,30 @@
+{
+	"id": 96,
+	"name": "Dynasty Plate Helm",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/8/88/DynastyPlateHelm_T3.png?version=79bd11b0cd86205ae74aa15ecc830f1b",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 2,
+	"cost": 1000,
+	"total_cost": 1600,
+	"passives": [],
+	"stat_changes": [
+		"+40 Magical Power",
+		"+30 Physical Protection",
+		"+50 Health"
+	],
+	"previous_tiers": [
+		{
+			"name": "Imperial Helmet",
+			"url": "https://smiteapi.adammackle.com/passives/28"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Tyrannical Plate Helm",
+			"url": "https://smiteapi.adammackle.com/passives/190"
+		}
+	]
+}

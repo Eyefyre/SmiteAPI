@@ -1,0 +1,25 @@
+{
+	"id": 198,
+	"name": "Qin's Sais",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/2/23/Qins_Sais.png?version=27e9c5fa517b82f96b69d42486cfcb09",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 1450,
+	"total_cost": 2700,
+	"passives": [
+		"On Basic Attack hits, deal Physical Damage equal to 3% of the target's maximum Health. If the target has over 2000 Health, the bonus damage scales up. This effect reaches a maximum of 5% of the targets Maximum Health at 2750 Health."
+	],
+	"stat_changes": [
+		"+40 Physical Power",
+		"+20% Attack Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Balanced Blade",
+			"url": "https://smiteapi.adammackle.com/passives/66"
+		}
+	],
+	"next_tiers": []
+}

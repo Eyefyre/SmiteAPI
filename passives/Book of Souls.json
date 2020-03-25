@@ -1,0 +1,41 @@
+{
+	"id": 73,
+	"name": "Book Of Souls",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/5/53/BookofSouls_T2.png?version=f75f6a4f8d12479cbd2c94cefda28f1c",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 700,
+	"total_cost": 1350,
+	"passives": [],
+	"stat_changes": [
+		"+55 Magical Power",
+		"+125 Mana"
+	],
+	"previous_tiers": [
+		{
+			"name": "Spellbook",
+			"url": "https://smiteapi.adammackle.com/passives/41"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Book of the Dead",
+			"url": "https://smiteapi.adammackle.com/passives/182"
+		},
+		{
+			"name": "Soul Reaver",
+			"url": "https://smiteapi.adammackle.com/passives/203"
+		},
+		{
+			"name": "Book of Thoth",
+			"url": "https://smiteapi.adammackle.com/passives/192"
+		},
+		{
+			"name": "Polynomicon",
+			"url": "https://smiteapi.adammackle.com/passives/151"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"id": 23,
+	"name": "Tiny Trinket",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/e/e2/TinyTrinket_T1.png?version=2bea6cce928f64f39e55764ee0e9063e",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 1,
+	"cost": 550,
+	"total_cost": 550,
+	"passives": [],
+	"stat_changes": [
+		"+20 Magical Power",
+		"+6% Magical Lifesteal"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Talon Trinket",
+			"url": "https://smiteapi.adammackle.com/passives/84"
+		},
+		{
+			"name": "Enchanted trinket",
+			"url": "https://smiteapi.adammackle.com/passives/53"
+		}
+	]
+}

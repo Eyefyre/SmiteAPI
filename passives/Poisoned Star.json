@@ -1,0 +1,26 @@
+{
+	"id": 174,
+	"name": "Poisoned Star",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/2/25/EnvenomedShuriken_T3.png?version=7b75c5e6fbb92b6454cf918500fe3643",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 1000,
+	"total_cost": 2500,
+	"passives": [
+		"Critical hits on enemy gods afflict them with poison for 2s. This poison slows them by 15% and reduces their damage output by 15%."
+	],
+	"stat_changes": [
+		"+30 Physical Power",
+		"+15% Attack Speed",
+		"+15% Critical Strike Chance"
+	],
+	"previous_tiers": [
+		{
+			"name": "8-Pointed Shuriken",
+			"url": "https://smiteapi.adammackle.com/passives/86"
+		}
+	],
+	"next_tiers": []
+}

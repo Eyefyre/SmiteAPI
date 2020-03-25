@@ -1,0 +1,27 @@
+{
+	"id": 139,
+	"name": "Mail Of Renewal",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/0/07/MailofRenewal_T3.png?version=2dc9327e3bb7b089d51d03fc6437650d",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1000,
+	"total_cost": 2250,
+	"passives": [
+		"You gain 15% of your maximum Health and Mana over the next 5 seconds when you get a kill or assist against an enemy god or Objective."
+	],
+	"stat_changes": [
+		"+400 Health",
+		"+10 HP5",
+		"+10% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Emerald Mail",
+			"url": "https://smiteapi.adammackle.com/passives/68"
+		}
+	],
+	"next_tiers": []
+}

@@ -1,0 +1,13 @@
+{
+    "id": 8,
+    "name": "Bracer Of Undoing Upgrade",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/8/8c/BracerofUndoing_UpgradedRelic.png/64px-BracerofUndoing_UpgradedRelic.png?version=adb1b40b1cba7ce206da25bb39b41e13",
+    "cost": 500,
+    "cooldown": 120,
+    "effect": "Using this item subtracts 3s from all abilities currently on Cooldown and restores 40% Health and Mana lost within the last 5s",
+    "next_tier": null,
+    "previous_tier": {
+        "name": "Bracer Of Undoing",
+        "url": "https://smiteapi.adammackle.com/relics/7"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 25,
+    "name": "Sundering Spear",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/a/a7/SunderingSpear_Relic.png/64px-SunderingSpear_Relic.png?version=c74d2a6131ecf7066bba6b1fa5c998cd",
+    "cost": 0,
+    "cooldown": 110,
+    "effect": "Using this item fires a bolt that travels 70 units, stopping on the first god hit, dealing 15% of the targets Current Health as True Damage.",
+    "next_tier": {
+        "name": "Sundering Spear Upgrade",
+        "url": "https://smiteapi.adammackle.com/relics/26"
+    },
+    "previous_tier": null
+}

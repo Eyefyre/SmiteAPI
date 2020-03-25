@@ -1,0 +1,27 @@
+{
+	"id": 196,
+	"name": "Gem Of Isolation",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/8/8b/GemofIsolation_T3.png?version=51a83477feee417161a2066686ea1763",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 3,
+	"cost": 1350,
+	"total_cost": 2700,
+	"passives": [
+		"Enemies hit by your damaging abilities will move 20% Slower for 1 second."
+	],
+	"stat_changes": [
+		"+90 Magical Power",
+		"+200 Health",
+		"+10% Crowd Control Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Fortified Scepter",
+			"url": "https://smiteapi.adammackle.com/passives/74"
+		}
+	],
+	"next_tiers": []
+}

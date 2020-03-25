@@ -1,0 +1,35 @@
+{
+	"id": 67,
+	"name": "Cursed Blade",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/4/44/CursedBlade_T2.png?version=33e00b38a27a421d42ee76da7ad70788",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 700,
+	"total_cost": 1250,
+	"passives": [],
+	"stat_changes": [
+		"+75 Health",
+		"+10% Attack Speed",
+		"+5% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Ancient Blade",
+			"url": "https://smiteapi.adammackle.com/passives/21"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Toxic Blade",
+			"url": "https://smiteapi.adammackle.com/passives/138"
+		},
+		{
+			"name": "Witchblade",
+			"url": "https://smiteapi.adammackle.com/passives/117"
+		}
+	]
+}

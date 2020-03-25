@@ -1,0 +1,26 @@
+{
+	"id": 45,
+	"name": "Katana",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/a/ac/Katana_T1.png?version=66ad8de3e5a540b698a678f3e9402d8b",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 1,
+	"cost": 700,
+	"total_cost": 700,
+	"passives": [
+		"This item and all upgrades are only available to Assassins and Warriors."
+	],
+	"stat_changes": [
+		"+10 Physical Power",
+		"+3% Movement Speed"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Thousand Fold Blade",
+			"url": "https://smiteapi.adammackle.com/passives/72"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"id": 74,
+	"name": "Fortified Scepter",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/5/54/FortifiedScepter_T2.png?version=13651e07ce7f1b0f69a146a74ed56748",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 2,
+	"cost": 700,
+	"total_cost": 1350,
+	"passives": [],
+	"stat_changes": [
+		"+50 Magical Power",
+		"+150 Health",
+		"+5% Crowd Control Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Uncommon Staff",
+			"url": "https://smiteapi.adammackle.com/passives/43"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Ethereal Staff",
+			"url": "https://smiteapi.adammackle.com/passives/184"
+		},
+		{
+			"name": "Gem of Isolation",
+			"url": "https://smiteapi.adammackle.com/passives/196"
+		}
+	]
+}

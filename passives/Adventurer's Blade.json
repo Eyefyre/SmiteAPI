@@ -1,0 +1,33 @@
+{
+	"id": 54,
+	"name": "Adventurer's Blade",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/1/1d/AdventurersBlade_T2.png?version=5015d646837e7dee46189440837d8367",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 600,
+	"total_cost": 1150,
+	"passives": [],
+	"stat_changes": [
+		"+100 Health",
+		"+10% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Ancient Blade",
+			"url": "https://smiteapi.adammackle.com/passives/21"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Winged Blade",
+			"url": "https://smiteapi.adammackle.com/passives/113"
+		},
+		{
+			"name": "Relic Dagger",
+			"url": "https://smiteapi.adammackle.com/passives/112"
+		}
+	]
+}

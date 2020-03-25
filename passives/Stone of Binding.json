@@ -1,0 +1,27 @@
+{
+	"id": 102,
+	"name": "Stone Of Binding",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/1/1e/StoneofBinding_T2.png?version=443e1dc725bf240f1b5b46192f67c8bb",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 2,
+	"cost": 1100,
+	"total_cost": 1700,
+	"passives": [
+		"Successfully hitting an enemy god with Crowd Control will place a debuff on the enemy, reducing their Magical and Physical Protections by 10 for 5s."
+	],
+	"stat_changes": [
+		"+30 Magical Power",
+		"+30 Magical Protection",
+		"+30 Physical Protection"
+	],
+	"previous_tiers": [
+		{
+			"name": "Druid Stone",
+			"url": "https://smiteapi.adammackle.com/passives/25"
+		}
+	],
+	"next_tiers": []
+}

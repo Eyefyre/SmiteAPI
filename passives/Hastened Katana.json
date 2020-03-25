@@ -1,0 +1,27 @@
+{
+	"id": 172,
+	"name": "Hastened Katana",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/b/bc/HastenedKatana_T3.png?version=4ad163cbf1c172daab6e9db7fe5de946",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1200,
+	"total_cost": 2500,
+	"passives": [
+		"Hitting an enemy with a Basic Attack grants Haste for 1s, causing you to be immune from Basic Attack Movement Penalty."
+	],
+	"stat_changes": [
+		"+25 Physical Power",
+		"+20% Attack Speed",
+		"+10% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Thousand Fold Blade",
+			"url": "https://smiteapi.adammackle.com/passives/72"
+		}
+	],
+	"next_tiers": []
+}

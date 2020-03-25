@@ -1,0 +1,22 @@
+{
+	"id": 26,
+	"name": "Emerald Ring",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/e/e9/EmeraldRing_T1.png?version=ad61e7191498862679576e2bba1be86e",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 1,
+	"cost": 600,
+	"total_cost": 600,
+	"passives": [],
+	"stat_changes": [
+		"+25 Magical Power"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Enchanted Ring",
+			"url": "https://smiteapi.adammackle.com/passives/59"
+		}
+	]
+}

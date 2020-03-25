@@ -7,31 +7,31 @@
 	"gods": [
 		{
 			"name": "Amaterasu",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Hachiman",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Izanami",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Kuzenbo",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Raijin",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Susano",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Tsukuyomi",
-			"url": null
+			"url": "placeholder"
 		}
 	]
 }

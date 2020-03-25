@@ -1,0 +1,26 @@
+{
+	"id": 185,
+	"name": "Ring Of Hecate",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/2/23/RingofHecate_T3.png?version=91387189fbeabb72bb5ea88f0bdcfcaa",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 1500,
+	"total_cost": 2600,
+	"passives": [
+		"Hitting enemy gods with basic attacks gives you 1 stack of 2% Lifesteal. Stacks up to 5 times, stacks last 5s."
+	],
+	"stat_changes": [
+		"+80 Magical Power",
+		"+20% Attack Speed",
+		"+12% Magical Lifesteal"
+	],
+	"previous_tiers": [
+		{
+			"name": "Enchanted Ring",
+			"url": "https://smiteapi.adammackle.com/passives/59"
+		}
+	],
+	"next_tiers": []
+}

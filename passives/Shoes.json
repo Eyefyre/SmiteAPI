@@ -1,0 +1,22 @@
+{
+	"id": 20,
+	"name": "Shoes",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/e/e8/M_Shoes_Basic.png?version=b58439326f825dd46a4c9337ac546406",
+	"item_types": [
+		"Utility"
+	],
+	"item_tier": 1,
+	"cost": 500,
+	"total_cost": 500,
+	"passives": [],
+	"stat_changes": [
+		"+6% Movement Speed"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Magic Shoes",
+			"url": "https://smiteapi.adammackle.com/passives/50"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"id": 152,
+	"name": "Pythagorem's Piece",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/5/51/PythagoremsPiece_T3.png?version=3b7d8b7083f95b10156de8ad40ae8264",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1200,
+	"total_cost": 2300,
+	"passives": [
+		"Allied gods within 70 units have their Magical Lifesteal increased by 12% and their Magical Power increased by 30 or their Physical Lifesteal increased by 10% and their Physical Power increased by 20."
+	],
+	"stat_changes": [
+		"+40 Magical Power",
+		"+200 Health",
+		"+12% Magical Lifesteal",
+		"+10% Magical Penetration"
+	],
+	"previous_tiers": [
+		{
+			"name": "Enchanted Trinket",
+			"url": "https://smiteapi.adammackle.com/passives/53"
+		}
+	],
+	"next_tiers": []
+}

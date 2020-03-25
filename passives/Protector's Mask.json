@@ -1,0 +1,32 @@
+{
+	"id": 65,
+	"name": "Protector's Mask",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/7/75/LonosMask_T1.png?version=a6508b9eba7699d014ab9473a2e16b72",
+	"item_types": [
+		"Defensive"
+	],
+	"item_tier": 2,
+	"cost": 700,
+	"total_cost": 1200,
+	"passives": [
+		"Only can be bought by Mages, Hunters, Assassins"
+	],
+	"stat_changes": [
+		"+50 Health",
+		"+15 Physical Protection",
+		"+15 Magical Protection",
+		"+10% Crowd Control Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Mask",
+			"url": "https://smiteapi.adammackle.com/passives/19"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Lono's Mask",
+			"url": "https://smiteapi.adammackle.com/passives/149"
+		}
+	]
+}

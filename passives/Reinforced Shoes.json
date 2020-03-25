@@ -1,0 +1,29 @@
+{
+	"id": 105,
+	"name": "Reinforced Shoes",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/9/92/M_ReinforcedGreaves.png?version=99c3a28477035de0801894b53c68d5db",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 650,
+	"total_cost": 1550,
+	"passives": [
+		"Every time you are damaged by a god you gain a stack that provides 3 Physical and Magical Protections. Stacks up to 7 times, Lasts 6s"
+	],
+	"stat_changes": [
+		"+20 Magical Power",
+		"+100 Health",
+		"+20% Crowd Control Reduction",
+		"+18% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Magic Shoes",
+			"url": "https://smiteapi.adammackle.com/passives/50"
+		}
+	],
+	"next_tiers": []
+}

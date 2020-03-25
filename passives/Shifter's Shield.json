@@ -1,0 +1,26 @@
+{
+	"id": 163,
+	"name": "Shifter's Shield",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/b/b7/ShapeShifterShield_T3.png?version=cabeac5c8db5db6d0418a3e4300bce8d",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 3,
+	"cost": 1250,
+	"total_cost": 2400,
+	"passives": [
+		"While over 75% Health, you gain +35 Physical Power. While under 75% Health, you gain +35 Magical Protection and +35 Physical Protections."
+	],
+	"stat_changes": [
+		"+35 Physical Power",
+		"+15 Physical Protection"
+	],
+	"previous_tiers": [
+		{
+			"name": "Tower Shield",
+			"url": "https://smiteapi.adammackle.com/passives/56"
+		}
+	],
+	"next_tiers": []
+}

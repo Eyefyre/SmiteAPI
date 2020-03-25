@@ -1,0 +1,23 @@
+{
+	"id": 29,
+	"name": "Light Blade",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/7/79/Light_Blade.png?version=90113f5b999a984d837c7c5b58b0df90",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 1,
+	"cost": 600,
+	"total_cost": 600,
+	"passives": [],
+	"stat_changes": [
+		"+10% Attack Speed",
+		"+5 Physical Power"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Balanced Blade",
+			"url": "https://smiteapi.adammackle.com/passives/66"
+		}
+	]
+}

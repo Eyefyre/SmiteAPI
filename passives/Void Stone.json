@@ -1,0 +1,28 @@
+{
+	"id": 142,
+	"name": "Void Stone",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/0/0e/VoidStone_T3.png?version=8aa8b5d9a977138f5d8a4d0d95253dc0",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 900,
+	"total_cost": 2250,
+	"passives": [
+		"Enemy gods within 55 units have their Magical Protection reduced by 10%."
+	],
+	"stat_changes": [
+		"+150 Health",
+		"+40 Magical Power",
+		"+60 Magical Protection"
+	],
+	"previous_tiers": [
+		{
+			"name": "Ward Stone",
+			"url": "https://smiteapi.adammackle.com/passives/77"
+		}
+	],
+	"next_tiers": []
+}

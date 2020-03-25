@@ -1,0 +1,29 @@
+{
+	"id": 194,
+	"name": "Warlock's Staff",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/0/0f/WarlocksStaff_T3.png?version=633d801711ad33c5c9c1c1f39b9c9374",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1300,
+	"total_cost": 2650,
+	"passives": [
+		"You permanently gain +1 Health and +1 Magical Power per Stack, and receive 5 Stacks for a god kill and 1 Stack per minion kill. (Max. 75 Stacks)"
+	],
+	"stat_changes": [
+		"+65 Magical Power",
+		"+150 Health",
+		"+200 Mana",
+		"+10% Magical Penetration"
+	],
+	"previous_tiers": [
+		{
+			"name": "Sorcerer's Staff",
+			"url": "https://smiteapi.adammackle.com/passives/76"
+		}
+	],
+	"next_tiers": []
+}

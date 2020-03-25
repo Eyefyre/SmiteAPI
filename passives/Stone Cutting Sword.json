@@ -1,0 +1,27 @@
+{
+	"id": 177,
+	"name": "Stone Cutting Sword",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/6/6d/StoneCuttingSword_T3.png?version=bbed21d6d504df2b7168f96984f8a445",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1200,
+	"total_cost": 2500,
+	"passives": [
+		"Melee Basic Attacks decreases enemy Physical protections by 10, and increase your physical protection by 10 for 3s (max. 3 Stacks)."
+	],
+	"stat_changes": [
+		"+50 Physical Power",
+		"+7% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Thousand Fold Blade",
+			"url": "https://smiteapi.adammackle.com/passives/72"
+		}
+	],
+	"next_tiers": []
+}

@@ -1,0 +1,36 @@
+{
+	"id": 89,
+	"name": "Short Sword",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/8/84/ShortSword_T2.png?version=a00a136e244a18608690180070240740",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 2,
+	"cost": 800,
+	"total_cost": 1500,
+	"passives": [],
+	"stat_changes": [
+		"+20 Physical Power",
+		"+10% Critical Strike Chance"
+	],
+	"previous_tiers": [
+		{
+			"name": "Hidden Dagger",
+			"url": "https://smiteapi.adammackle.com/passives/44"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Malice",
+			"url": "https://smiteapi.adammackle.com/passives/193"
+		},
+		{
+			"name": "Rage",
+			"url": "https://smiteapi.adammackle.com/passives/153"
+		},
+		{
+			"name": "Deathbringer",
+			"url": "https://smiteapi.adammackle.com/passives/205"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"id": 216,
+	"name": "Evolved Rage",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/a/a4/Rage_T3_Upgraded.png/64px-Rage_T3_Upgraded.png?version=264281d8bfea4e39d3b9450d86952ead",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 800,
+	"total_cost": 2300,
+	"passives": [
+		"Killing or getting an assist on an enemy god gives you 1 stack. Each stack provides 3% Critical Strike Chance. Stacks are permanent and stack up to 5 times."
+	],
+	"stat_changes": [
+		"+20 Physical Power",
+		"+45% Critical Strike Chance"
+	],
+	"previous_tiers": [
+		{
+			"name": "Short Sword",
+			"url": "https://smiteapi.adammackle.com/passives/89"
+		}
+	],
+	"next_tiers": []
+}

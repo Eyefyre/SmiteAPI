@@ -1,0 +1,27 @@
+{
+	"id": 31,
+	"name": "Spiked Gauntlet",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/d/d2/SpikedGauntlet_T1.png?version=c2aa53c3eb63d300d13b7d6b35893415",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 1,
+	"cost": 600,
+	"total_cost": 600,
+	"passives": [],
+	"stat_changes": [
+		"+5 Physical Power",
+		"+7% Physical Lifesteal"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Cursed Gauntlet",
+			"url": "https://smiteapi.adammackle.com/passives/78"
+		},
+		{
+			"name": "Bound Gauntlet",
+			"url": "https://smiteapi.adammackle.com/passives/51"
+		}
+	]
+}

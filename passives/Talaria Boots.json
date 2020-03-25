@@ -1,0 +1,27 @@
+{
+	"id": 109,
+	"name": "Talaria Boots",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/4/45/TalariaBoots_T3.png?version=ca7c89191209acd880e48cbeef8aad44",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 700,
+	"total_cost": 1600,
+	"passives": [
+		"You gain +20% additional Movement Speed after leaving the Fountain. This effect lasts 7s."
+	],
+	"stat_changes": [
+		"+15 Physical Power",
+		"+15 MP5",
+		"+25% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Combat Boots",
+			"url": "https://smiteapi.adammackle.com/passives/49"
+		}
+	],
+	"next_tiers": []
+}

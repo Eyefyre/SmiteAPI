@@ -1,0 +1,8 @@
+{
+    "id":7,
+    "name":"Sentry Ward",
+    "picture":"https://gamepedia.cursecdn.com/smite_gamepedia/thumb/4/40/Icons_Wards_Consumable_01.png/64px-Icons_Wards_Consumable_01.png?version=20ad51e8ba5f7406637d8d81d763d582",
+    "cost":120,
+    "effect":"This is a ward that allows you to see enemy movements and other wards within 45 units. It does respect line of sight and can't see through walls or stealth. It remains for 3 minutes or until killed. Can only carry one at a time.",
+    "carry_limit":1
+}

@@ -1,0 +1,32 @@
+{
+	"id": 80,
+	"name": "Enchanted Spear",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/b/b5/EnchantedSpear_T2.png?version=2c99ac7302b8d4ed7a1d4805eb74a310",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 2,
+	"cost": 750,
+	"total_cost": 1400,
+	"passives": [],
+	"stat_changes": [
+		"+30 Magical Power",
+		"+10 Magical Penetration"
+	],
+	"previous_tiers": [
+		{
+			"name": "Magic Focus",
+			"url": "https://smiteapi.adammackle.com/passives/"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Spear of Desolation",
+			"url": "https://smiteapi.adammackle.com/passives/"
+		},
+		{
+			"name": "Spear of the Magus",
+			"url": "https://smiteapi.adammackle.com/passives/"
+		}
+	]
+}

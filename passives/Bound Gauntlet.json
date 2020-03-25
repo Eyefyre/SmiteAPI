@@ -1,0 +1,30 @@
+{
+	"id": 51,
+	"name": "Bound Gauntlet",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/c/c5/BoundGuantlet_T2.png?version=fc56f06968d67fd08bab16cf26f1aede",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 450,
+	"total_cost": 1050,
+	"passives": [],
+	"stat_changes": [
+		"+15 Physical Power",
+		"+75 Mana",
+		"+10% Physical Lifesteal"
+	],
+	"previous_tiers": [
+		{
+			"name": "Spiked Gauntlet",
+			"url": "https://smiteapi.adammackle.com/passives/31"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Soul Eater",
+			"url": "https://smiteapi.adammackle.com/passives/155"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"id": 143,
+	"name": "Breastplate Of Valor",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/5/51/BreastPlateofValor_T3.png?version=721fcb2a41a59b90b4cd3b1cf4009c92",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1250,
+	"total_cost": 2300,
+	"passives": [],
+	"stat_changes": [
+		"+65 Physical Protection",
+		"+300 Mana",
+		"+10 MP5",
+		"+20% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Silver Breastplate",
+			"url": "https://smiteapi.adammackle.com/passives/52"
+		}
+	],
+	"next_tiers": []
+}

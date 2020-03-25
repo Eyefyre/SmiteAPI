@@ -1,0 +1,28 @@
+{
+	"id": 206,
+	"name": "Doom Orb",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/6/62/DoomOrb_T3.png?version=871fea48d64f7189fe8ef6d4f188bc27",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1400,
+	"total_cost": 3000,
+	"passives": [
+		"Killing or assisting an enemy minion provides you with 1 stack, granting 1% Movement Speed and 4 Magical Power per stack. Stacks last for 15s and stack up to 5 times. Enemy gods provide 5 stacks."
+	],
+	"stat_changes": [
+		"+145 Magical Power",
+		"+200 Mana",
+		"+25 MP5",
+		"+6% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Cursed Orb",
+			"url": "https://smiteapi.adammackle.com/passives/95"
+		}
+	],
+	"next_tiers": []
+}

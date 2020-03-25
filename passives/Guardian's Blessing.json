@@ -1,0 +1,31 @@
+{
+    "id": 7,
+    "name": "Guardian's Blessing",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/7/7d/GuardiansBlessing_T1.png/64px-GuardiansBlessing_T1.png?version=dff257b3de241cdd10a0dc2b4343226c",
+    "item_types": [
+        "Starter",
+        "Defensive",
+        "Utility"
+    ],
+	"item_tier": 0,
+	"total_cost": 700,
+    "cost": 700,
+    "passives": [
+        "Assist with Minion kills to gain stacks. Each Assist is worth 1 stack. At 50 stacks Guardian's Blessing Evolves, gaining 4 Gold Per 5s."
+    ],
+    "stat_changes": [
+        "+100 Health",
+        "+5 Physical Protection",
+        "+5 Magical Protection",
+        "+3 Gold per Minion Assisted",
+        "+7 MP5 while within 60ft of an ally god",
+        "+7 HP5 while within 60ft of an ally god"
+    ],
+    "previous_tiers": [],
+    "next_tiers": [
+        {
+            "name": "Evolved Guardian's Blessing",
+            "url": "https://smiteapi.adammackle.com/passives/8"
+        }
+    ]
+}

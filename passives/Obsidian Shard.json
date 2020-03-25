@@ -1,0 +1,25 @@
+{
+	"id": 180,
+	"name": "Obsidian Shard",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/1/1f/ObsidianShard_T3.png?version=781fef641a566b29998bd706cd2659f8",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 1050,
+	"total_cost": 2550,
+	"passives": [
+		"Your first ability cast gains 10% Magical Penetration. This can only occur once every 10 seconds."
+	],
+	"stat_changes": [
+		"+70 Magical Power",
+		"+20% Magical Penetration"
+	],
+	"previous_tiers": [
+		{
+			"name": "Spell Focus",
+			"url": "https://smiteapi.adammackle.com/passives/90"
+		}
+	],
+	"next_tiers": []
+}

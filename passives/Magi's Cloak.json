@@ -1,0 +1,26 @@
+{
+	"id": 128,
+	"name": "Magi's Cloak",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/1/18/MagisBlessing_T3.png?version=212d30485d0c621af40655432e8d24f3",
+	"item_types": [
+		"Defensive"
+	],
+	"item_tier": 3,
+	"cost": 1000,
+	"total_cost": 2150,
+	"passives": [
+		"She will protect you from a single hard Crowd Control effect or Root once every 70 seconds. When this occurs, She bestows upon the owner 1s of Crowd Control Immunity."
+	],
+	"stat_changes": [
+		"+15 Physical Protection",
+		"+15 Magical Protection",
+		"+300 Health"
+	],
+	"previous_tiers": [
+		{
+			"name": "Cleric's Cloak",
+			"url": "https://smiteapi.adammackle.com/passives/55"
+		}
+	],
+	"next_tiers": []
+}

@@ -1,0 +1,8 @@
+{
+    "id":11,
+    "name":"Potion Of Power",
+    "picture":"https://gamepedia.cursecdn.com/smite_gamepedia/thumb/5/5b/PotionofPhysicalMight.png/64px-PotionofPhysicalMight.png?version=8fd0aab932fe5971eaf356837ddfa752",
+    "cost":500,
+    "effect":"Unlocks at level 10. This consumable increases your Physical Power by 40, Magical Power by 70 and Cooldown Reduction by 10% for 5 minutes or until you are killed.",
+    "carry_limit":5
+}

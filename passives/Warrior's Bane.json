@@ -1,0 +1,29 @@
+{
+	"id": 91,
+	"name": "Warrior's Bane",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/d/d2/WarriorsBane_T2.png?version=8e65f29d70c220e783b8558cfa38c86b",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 2,
+	"cost": 850,
+	"total_cost": 1500,
+	"passives": [
+		"Your Physical Damage ignores 15% of enemy gods' Physical Protection."
+	],
+	"stat_changes": [
+		"+20 Physical Power"
+	],
+	"previous_tiers": [
+		{
+			"name": "Mace",
+			"url": "https://smiteapi.adammackle.com/passives/46"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Titan's Bane",
+			"url": "https://smiteapi.adammackle.com/passives/157"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"id": 48,
+	"name": "Acorn Of Swiftness",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/5/5f/BlueAcorn_T2.png?version=3b031dae57b0ea32bf12fd619d3c1513",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 700,
+	"total_cost": 700,
+	"passives": [],
+	"stat_changes": [
+		"+10 Physical Power",
+		"+10% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Magic Acorn",
+			"url": "https://smiteapi.adammackle.com/passives/17"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Acorn Of Yggdrasil",
+			"url": "https://smiteapi.adammackle.com/passives/107"
+		}
+	]
+}

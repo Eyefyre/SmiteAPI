@@ -1,0 +1,28 @@
+{
+	"id": 176,
+	"name": "Spirit Robe",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/f/f4/SpiritRobe_T3.png?version=e247fc7ea861ec59084826f509ccf96b",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1000,
+	"total_cost": 2500,
+	"passives": [
+		"You gain an additional 15% Damage Mitigation for 3s whenever you are hit with a hard Crowd Control Effect. This can only occur once every 15 seconds."
+	],
+	"stat_changes": [
+		"+40 Physical Protection",
+		"+40 Magical Protection",
+		"+10% Cooldown Reduction",
+		"+20% Crowd Control Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Cloak of Concentration",
+			"url": "https://smiteapi.adammackle.com/passives/87"
+		}
+	],
+	"next_tiers": []
+}

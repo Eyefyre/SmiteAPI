@@ -1,0 +1,41 @@
+{
+	"id": 49,
+	"name": "Combat Boots",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/f/f9/P_Boots_Combat.png?version=d660200bec042a6481653aca3cf826e1",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 400,
+	"total_cost": 900,
+	"passives": [],
+	"stat_changes": [
+		"+10 Physical Power",
+		"+12% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Boots",
+			"url": "https://smiteapi.adammackle.com/passives/"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Warrior Tabi",
+			"url": "https://smiteapi.adammackle.com/passives/"
+		},
+		{
+			"name": "Ninja Tabi",
+			"url": "https://smiteapi.adammackle.com/passives/"
+		},
+		{
+			"name": "Reinforced Greaves",
+			"url": "https://smiteapi.adammackle.com/passives/"
+		},
+		{
+			"name": "Talaria Boots",
+			"url": "https://smiteapi.adammackle.com/passives/"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"id": 147,
+	"name": "Frostbound Hammer",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/7/78/FrostboundHammer_T3.png?version=5e3743f2fddf5c7606696be7b01b78d5",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 3,
+	"cost": 950,
+	"total_cost": 2300,
+	"passives": [
+		"Enemies hit by your Basic Attacks have their Movement Speed reduced by 30% (20% for Ranged Basic Attacks) and have their Attack Speed reduced 15% for 1.25 seconds."
+	],
+	"stat_changes": [
+		"+25 Physical Power",
+		"+300 Health"
+	],
+	"previous_tiers": [
+		{
+			"name": "Heavy Hammer",
+			"url": "https://smiteapi.adammackle.com/passives/75"
+		}
+	],
+	"next_tiers": []
+}

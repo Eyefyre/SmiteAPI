@@ -1,0 +1,25 @@
+{
+	"id": 175,
+	"name": "Rangda's Mask",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/3/38/RangdasMask_T3.png?version=5924181da0f818ee454c16e2eec0731d",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 1300,
+	"total_cost": 2500,
+	"passives": [],
+	"stat_changes": [
+		"+60 Physical Power",
+		"+100 Magical Power",
+		"+20% Damage Dealt",
+		"+25% Damage Taken"
+	],
+	"previous_tiers": [
+		{
+			"name": "Fighter's Mask",
+			"url": "https://smiteapi.adammackle.com/passives/60"
+		}
+	],
+	"next_tiers": []
+}

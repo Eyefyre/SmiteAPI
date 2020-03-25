@@ -1,0 +1,22 @@
+{
+	"id": 24,
+	"name": "Breastplate",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/3/3b/Breastplate_T1.png?version=7b74eab3aeb1d88e04cae61b754f393d",
+	"item_types": [
+		"Defensive"
+	],
+	"item_tier": 1,
+	"cost": 600,
+	"total_cost": 600,
+	"passives": [],
+	"stat_changes": [
+		"+20 Physical Protection"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Silver Breastplate",
+			"url": "https://smiteapi.adammackle.com/passives/52"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+    "id": 212,
+    "name": "Evolved Gauntlet Of Thebes",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/5/5f/GauntletofThebes_T3_Upgraded.png/64px-GauntletofThebes_T3_Upgraded.png?version=aa2a24ca71d67e1b3bbc76cfcaada0cb",
+    "item_types": [
+        "Defensive",
+        "Utility"
+    ],
+    "item_tier": 3,
+    "cost": 1100,
+    "total_cost": 2350,
+    "passives": [
+        "Assists on a minion give 1 Stack and God kills and assists give 5 Stacks. Stacks provide 1 Physical and Magical Protection.",
+        "Allies within 70 units receive 10 Physical Protection and 10 Magical Protection."
+    ],
+    "stat_changes": [
+        "+300 Health",
+        "+50 Physical Protection",
+        "+50 Magical Protection",
+        "+15 HP5"
+    ],
+    "previous_tiers": [
+        {
+            "name": "Emerald Mail",
+            "url": "https://smiteapi.adammackle.com/passives/68"
+        }
+    ],
+    "next_tiers": []
+}

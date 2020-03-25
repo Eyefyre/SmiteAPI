@@ -1,1 +1,7 @@
-{"id": 165, "name": "3 For 3", "category": "Combat", "icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/7/71/Achievement_Combat_Chiron_3for3.png/96px-Achievement_Combat_Chiron_3for3.png?version=fbc5aaa031847621ec50cf0a763e7b3e", "description": "As Chiron get a triple kill while in your ultimate, Centaurus."}
+{
+	"id": 165,
+	"name": "3 For 3",
+	"category": "Combat",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/7/71/Achievement_Combat_Chiron_3for3.png/96px-Achievement_Combat_Chiron_3for3.png?version=fbc5aaa031847621ec50cf0a763e7b3e",
+	"description": "As Chiron get a triple kill while in your ultimate, Centaurus."
+}

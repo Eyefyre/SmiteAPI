@@ -1,0 +1,13 @@
+{
+    "id": 24,
+    "name": "Shield Of Thorns Upgrade",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/7/74/ShieldofThorns_UpgradedRelic.png/64px-ShieldofThorns_UpgradedRelic.png?version=842fd078682bebca0abf4fd466756277",
+    "cost": 500,
+    "cooldown": 120,
+    "effect": "Using this item reflects 40% of all damage you take, before mitigations, for the next 5 seconds, back to its owner as Magical Damage. If you are dealt 150 * your level damage while this effect is active, the effect will end early. While this is active enemies can only lifesteal from you for 50% of their total lifesteal.",
+    "next_tier": null,
+    "previous_tier": {
+        "name": "Shield Of Thorns",
+        "url": "https://smiteapi.adammackle.com/relics/23"
+    }
+}

@@ -1,0 +1,42 @@
+{
+	"id": 52,
+	"name": "Silver Breastplate",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/d/d6/SilverBreastplate_T2.png?version=178b8c90d2ba61efded6010d661907aa",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 450,
+	"total_cost": 1050,
+	"passives": [],
+	"stat_changes": [
+		"+35 Physical Protection",
+		"+200 Mana",
+		"+10 MP5"
+	],
+	"previous_tiers": [
+		{
+			"name": "Breastplate",
+			"url": "https://smiteapi.adammackle.com/passives/24"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Contagion",
+			"url": "https://smiteapi.adammackle.com/passives/115"
+		},
+		{
+			"name": "Spectral Armor",
+			"url": "https://smiteapi.adammackle.com/passives/124"
+		},
+		{
+			"name": "Hide of the Nemean Lion",
+			"url": "https://smiteapi.adammackle.com/passives/135"
+		},
+		{
+			"name": "Breastplate of Valor",
+			"url": "https://smiteapi.adammackle.com/passives/143"
+		}
+	]
+}

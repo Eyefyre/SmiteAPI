@@ -1,0 +1,27 @@
+{
+	"id": 208,
+	"name": "Staff Of Myrddin",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/5/55/StaffofMyrddin_T3.png?version=c5971d94fadef17b2fd68c73c7ab946f",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1400,
+	"total_cost": 3000,
+	"passives": [
+		"When your Ultimate ability has finished casting, your next non-ultimate ability cast within the next 10s will have no cooldown but will only deal 70% of its normal damage and healing. This can only occur once every 45 seconds."
+	],
+	"stat_changes": [
+		"+110 Magical Power",
+		"+10% Magical Penetration",
+		"+10% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Apprentice Staff",
+			"url": "https://smiteapi.adammackle.com/passives/94"
+		}
+	],
+	"next_tiers": []
+}

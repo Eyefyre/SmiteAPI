@@ -1,0 +1,27 @@
+{
+	"id": 169,
+	"name": "Bancroft's Talon",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/6/69/BancroftsTalon_T3.png?version=672a16eeb68796ee408763d3801e618d",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1100,
+	"total_cost": 2500,
+	"passives": [
+		"You gain additional Magical Power and Lifesteal scaled from missing Health. This caps at 100 power and 20% Lifesteal at 25% Health."
+	],
+	"stat_changes": [
+		"+100 Magical Power",
+		"+15% Magical Lifesteal",
+		"+150 Mana"
+	],
+	"previous_tiers": [
+		{
+			"name": "Talon Trinket",
+			"url": "https://smiteapi.adammackle.com/passives/84"
+		}
+	],
+	"next_tiers": []
+}

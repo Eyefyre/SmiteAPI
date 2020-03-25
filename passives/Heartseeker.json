@@ -1,0 +1,28 @@
+{
+	"id": 209,
+	"name": "Heartseeker",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/9/97/Heartseeker_T3.png?version=831b755867cd4c9866a1dd00978f1f2f",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1900,
+	"total_cost": 3100,
+	"passives": [
+		"Your abilities deal an additional 3% of the targets maximum Health as Physical Damage. If you have over 200 Physical Power, your ability bonus damage scales up. This effect reaches a maximum of 6% Maximum Health damage at 400 Physical Power."
+	],
+	"stat_changes": [
+		"+75 Physical Power",
+		"+10 Physical Penetration",
+		"+200 Mana",
+		"+20 MP5"
+	],
+	"previous_tiers": [
+		{
+			"name": "Charged Morningstar",
+			"url": "https://smiteapi.adammackle.com/passives/58"
+		}
+	],
+	"next_tiers": []
+}

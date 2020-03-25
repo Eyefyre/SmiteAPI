@@ -1,0 +1,28 @@
+{
+	"id": 188,
+	"name": "Stone Of Fal",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/c/c4/StoneofFal_T3.png?version=b35125bc88cc4beb77e489cf08e0f90e",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1200,
+	"total_cost": 2600,
+	"passives": [
+		"You gain 20% of the Magical protections of the nearby allied god with the highest Magical protections within 70ft."
+	],
+	"stat_changes": [
+		"+80 Magical Power",
+		"+40 Magical Protection",
+		"+10% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Sage's Stone",
+			"url": "https://smiteapi.adammackle.com/passives/82"
+		}
+	],
+	"next_tiers": []
+}

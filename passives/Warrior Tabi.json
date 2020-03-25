@@ -1,0 +1,24 @@
+{
+	"id": 111,
+	"name": "Warrior Tabi",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/f/ff/P_WarriorTabi.png?version=be7bdc714fe52f8266d86283874b2652",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 700,
+	"total_cost": 1600,
+	"passives": [],
+	"stat_changes": [
+		"+40 Physical Power",
+		"+18% Movement Speed."
+	],
+	"previous_tiers": [
+		{
+			"name": "Combat Boots",
+			"url": "https://smiteapi.adammackle.com/passives/49"
+		}
+	],
+	"next_tiers": []
+}

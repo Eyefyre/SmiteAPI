@@ -1,0 +1,28 @@
+{
+	"id": 90,
+	"name": "Spell Focus",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/d/dc/SpellFocus_T2.png?version=435faa001d08391e907e5d7e7bc4fc47",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 2,
+	"cost": 850,
+	"total_cost": 1500,
+	"passives": [],
+	"stat_changes": [
+		"+45 Magical Power",
+		"+10% Magical Penetration"
+	],
+	"previous_tiers": [
+		{
+			"name": "Magic Focus",
+			"url": "https://smiteapi.adammackle.com/passives/37"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Obsidian Shard",
+			"url": "https://smiteapi.adammackle.com/passives/180"
+		}
+	]
+}

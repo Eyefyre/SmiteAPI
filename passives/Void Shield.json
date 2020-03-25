@@ -1,0 +1,28 @@
+{
+	"id": 191,
+	"name": "Void Shield",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/0/08/VoidShield_T3.png?version=f341ab605657df41fa298840157e80cd",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1000,
+	"total_cost": 2600,
+	"passives": [
+		"Enemy gods within 55 units have their Physical Protection reduced by 15%."
+	],
+	"stat_changes": [
+		"+20 Physical Power",
+		"+60 Physical Protection",
+		"+150 Health"
+	],
+	"previous_tiers": [
+		{
+			"name": "Spiked Shield",
+			"url": "https://smiteapi.adammackle.com/passives/99"
+		}
+	],
+	"next_tiers": []
+}

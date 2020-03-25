@@ -1,0 +1,37 @@
+{
+	"id": 70,
+	"name": "Spellbound Kusari",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/1/1b/SpellboundKusari_T2.png?version=51d3c11bf38ecc150d7b30578c1514aa",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 600,
+	"total_cost": 1250,
+	"passives": [],
+	"stat_changes": [
+		"+40 Magical Protection",
+		"+15 MP5"
+	],
+	"previous_tiers": [
+		{
+			"name": "Enchanted Kusari",
+			"url": "https://smiteapi.adammackle.com/passives/35"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Shogun's Kusari",
+			"url": "https://smiteapi.adammackle.com/passives/136"
+		},
+		{
+			"name": "Oni Hunter's Garb",
+			"url": "https://smiteapi.adammackle.com/passives/121"
+		},
+		{
+			"name": "Genji's Guard",
+			"url": "https://smiteapi.adammackle.com/passives/133"
+		}
+	]
+}

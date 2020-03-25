@@ -7,7 +7,7 @@ import sys
 import os
 import html
 
-ScriptPath = os.path.dirname(os.path.realpath(__file__)) + "\\Pantheons\\"
+ScriptPath = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + "\\Pantheons\\"
 BaseURL = "https://smite.gamepedia.com/Gods"
 
 pantheonID = 0

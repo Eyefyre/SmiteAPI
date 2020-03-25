@@ -1,0 +1,13 @@
+{
+    "id": 20,
+    "name": "Phantom Veil Upgrade",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/3/39/Phantom_UpgradedRelic.png/64px-Phantom_UpgradedRelic.png?version=46e0a7419363c7bafc73d34c3f68b7e2",
+    "cost": 500,
+    "cooldown": 150,
+    "effect": "Using this item allows you and allied gods within 35 units to pass through players and player made objects for 10s. It also provides a 15% Damage Mitigation Buff for 5s.",
+    "next_tier": null,
+    "previous_tier": {
+        "name": "Phantom Veil",
+        "url": "https://smiteapi.adammackle.com/relics/19"
+    }
+}

@@ -1,0 +1,27 @@
+{
+	"id": 195,
+	"name": "Chronos' Pendant",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/6/69/ChronosPendant_T3.png?version=84d671d0f44066b83a9c33c1d5f90f75",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1300,
+	"total_cost": 2700,
+	"passives": [
+		"Every 10s the Pendant activates, subtracting 1s from all of your abilities currently on Cooldown. The initial countdown will not start until you leave the fountain."
+	],
+	"stat_changes": [
+		"+100 Magical Power",
+		"+20 MP5",
+		"+20% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Restored Artifact",
+			"url": "https://smiteapi.adammackle.com/passives/81"
+		}
+	],
+	"next_tiers": []
+}

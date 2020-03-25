@@ -1,0 +1,26 @@
+{
+	"id": 106,
+	"name": "Shoes Of The Magi",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/2/25/M_Shoes_oftheMagi.png?version=9446d412c98265564c98bcd1d2df2b4b",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 650,
+	"total_cost": 1550,
+	"passives": [],
+	"stat_changes": [
+		"+75 Magical Power",
+		"+100 Mana",
+		"+8% Magical Lifesteal",
+		"+18% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Magic Shoes",
+			"url": "https://smiteapi.adammackle.com/passives/50"
+		}
+	],
+	"next_tiers": []
+}

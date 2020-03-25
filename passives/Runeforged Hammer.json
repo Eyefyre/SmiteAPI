@@ -1,0 +1,26 @@
+{
+	"id": 154,
+	"name": "Runeforged Hammer",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/6/62/RuneforgedHammer_T3.png?version=3d61d18d86484719c70827872f242b3e",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 3,
+	"cost": 1050,
+	"total_cost": 2400,
+	"passives": [
+		"Enemies take 15% increased damage from you if they are affected by Crowd Control. Does not include Knockbacks, Blinds, or Grabs."
+	],
+	"stat_changes": [
+		"+50 Physical Power",
+		"+200 Health"
+	],
+	"previous_tiers": [
+		{
+			"name": "Heavy Hammer",
+			"url": "https://smiteapi.adammackle.com/passives/75"
+		}
+	],
+	"next_tiers": []
+}

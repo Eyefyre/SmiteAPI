@@ -1,0 +1,29 @@
+{
+    "id": 16,
+    "name": "Evolved Warrior's Blessing",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/b/bc/WarriorsBlessing_T1_Upgraded.png/64px-WarriorsBlessing_T1_Upgraded.png?version=3a1d78d5826428cdc84c2602029799bb",
+    "item_types": [
+        "Starter",
+        "Defensive"
+    ],
+	"item_tier": 0,
+	"total_cost": 700,
+    "cost": 0,
+    "passives": [
+        "Dealing damage to an enemy god provides 1 stack. This effect can only occur once every 10s. Getting a Kill or Assist on an Enemy god provides 3 stacks."
+    ],
+    "stat_changes": [
+        "+75 Health",
+        "+3 Reduction of All Damage Taken",
+        "+40 Health And Mana Restored Upon Damaging An Enemy God, 10s Cooldown",
+        "+15 Physical Protection",
+        "+15 Magical Protection"
+    ],
+    "previous_tiers": [
+        {
+            "name": "Evolved Warrior's Blessing",
+            "url": "https://smiteapi.adammackle.com/passives/15"
+        }
+    ],
+    "next_tiers": []
+}

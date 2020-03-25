@@ -1,0 +1,8 @@
+{
+    "id":3,
+    "name":"Multi Potion",
+    "picture":"https://gamepedia.cursecdn.com/smite_gamepedia/thumb/e/ee/MultiPotion.png/64px-MultiPotion.png?version=c72f8f8bab692baf44e9b952458a17eb",
+    "cost":50,
+    "effect":"This consumable heals 125 Health and 75 Mana over 25 seconds.",
+    "carry_limit":5
+}

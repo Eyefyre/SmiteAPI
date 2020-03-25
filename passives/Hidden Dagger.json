@@ -1,0 +1,23 @@
+{
+	"id": 44,
+	"name": "Hidden Dagger",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/0/0d/HiddenDagger_T1.png?version=675757089a5e91da6fbc230d94d78a26",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 1,
+	"cost": 700,
+	"total_cost": 700,
+	"passives": [],
+	"stat_changes": [
+		"+10 Physical Power",
+		"+5% Critical Strike Chance"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Short Sword",
+			"url": "https://smiteapi.adammackle.com/passives/89"
+		}
+	]
+}

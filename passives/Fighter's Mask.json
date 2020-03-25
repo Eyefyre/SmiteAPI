@@ -1,0 +1,30 @@
+{
+	"id": 60,
+	"name": "Fighter's Mask",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/0/0c/RangdasMask_T1.png?version=e12616d5b566747ac4049932ad4e0caf",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 2,
+	"cost": 700,
+	"total_cost": 1200,
+	"passives": [
+		"Only can be bought by Warriors, Guardians"
+	],
+	"stat_changes": [
+		"+30 Physical Power",
+		"+60 Magical Power"
+	],
+	"previous_tiers": [
+		{
+			"name": "Mask",
+			"url": "https://smiteapi.adammackle.com/passives/19"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Rangda's Mask",
+			"url": "https://smiteapi.adammackle.com/passives/175"
+		}
+	]
+}

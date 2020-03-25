@@ -1,0 +1,28 @@
+{
+	"id": 126,
+	"name": "Celestial Legion Helm",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/9/94/CelestialLegionHelm_T3.png?version=2ea333b10063e1fa2cc9580afd794d0a",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 950,
+	"total_cost": 2150,
+	"passives": [
+		"Every 2s you receive a stack of 7 Physical Protection, up to a max of 5 stacks. Stacks are removed upon taking Physical Damage from gods. Stacks can only be gained after not taking Physical Damage from gods for 5s."
+	],
+	"stat_changes": [
+		"+60 Magical Power",
+		"+40 Physical Protection",
+		"+20 MP5"
+	],
+	"previous_tiers": [
+		{
+			"name": "Jade Mountain Helm",
+			"url": "https://smiteapi.adammackle.com/passives/63"
+		}
+	],
+	"next_tiers": []
+}

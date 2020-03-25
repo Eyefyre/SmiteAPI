@@ -1,0 +1,28 @@
+{
+	"id": 125,
+	"name": "Ancile",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/d/d4/Ancile_T3.png?version=5b46dfa83c98d4b086d3aae94825b742",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 750,
+	"total_cost": 2150,
+	"passives": [
+		"Whenever you take Magical Damage from an enemy ability you unleash a shockwave that Silences all enemies within a range of 30 units for 1s. This effect cannot trigger more than once every 30s."
+	],
+	"stat_changes": [
+		"+40 Physical Power",
+		"+50 Magical Protection",
+		"+10% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Warded Shield",
+			"url": "https://smiteapi.adammackle.com/passives/85"
+		}
+	],
+	"next_tiers": []
+}

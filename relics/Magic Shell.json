@@ -1,0 +1,13 @@
+{
+    "id": 15,
+    "name": "Magic Shell",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/e/ea/Shell_Relic.png/64px-Shell_Relic.png?version=04697c351d55fb25216fc32ab724daa0",
+    "cost": 0,
+    "cooldown": 150,
+    "effect": "Using this item applies a shield to themselves and allies within 35 units for 100 Health + 12 Health per God Level for 3s.",
+    "next_tier": {
+        "name": "Magic Shell Upgrade",
+        "url": "https://smiteapi.adammackle.com/relics/16"
+    },
+    "previous_tier": null
+}

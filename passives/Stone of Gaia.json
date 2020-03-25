@@ -1,0 +1,28 @@
+{
+	"id": 141,
+	"name": "Stone Of Gaia",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/3/32/StoneofGaia_T3.png?version=8884e01adde71f8317ccf079bb61e3ba",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 850,
+	"total_cost": 2250,
+	"passives": [
+		"If you are hit by a Knockup, Knockback, Pull, or Grab you gain 15% of your maximum Health over the next 5 seconds. Can only occur once every 45s",
+		"Regenerates 0.3% of your max. Health every second."
+	],
+	"stat_changes": [
+		"+400 Health",
+		"+25 HP5",
+		"+15 MP5"
+	],
+	"previous_tiers": [
+		{
+			"name": "Emerald Talisman",
+			"url": "https://smiteapi.adammackle.com/passives/79"
+		}
+	],
+	"next_tiers": []
+}

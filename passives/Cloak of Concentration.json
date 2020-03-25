@@ -1,0 +1,34 @@
+{
+	"id": 87,
+	"name": "Cloak Of Concentration",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/3/39/CloakofConcentration_T2.png?version=f16878d62275bcb19156dd58d82f1a12",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 850,
+	"total_cost": 1500,
+	"passives": [],
+	"stat_changes": [
+		"+30 Physical Protection",
+		"+30 Magical Protection",
+		"+7% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Cloak",
+			"url": "https://smiteapi.adammackle.com/passives/32"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Spirit Robe",
+			"url": "https://smiteapi.adammackle.com/passives/176"
+		},
+		{
+			"name": "Mantle of Discord",
+			"url": "https://smiteapi.adammackle.com/passives/204"
+		}
+	]
+}

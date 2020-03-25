@@ -1,0 +1,33 @@
+{
+	"id": 77,
+	"name": "Ward Stone",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/5/59/WardStone_T2.png?version=df103f5e79cad41bc0121e3fc01aa29b",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 750,
+	"total_cost": 1350,
+	"passives": [
+		"Enemy gods within 55 units have their Magical Protection reduced by 5%."
+	],
+	"stat_changes": [
+		"+50 Health",
+		"+20 Magical Power",
+		"+30 Magical Protection"
+	],
+	"previous_tiers": [
+		{
+			"name": "Druid Stone",
+			"url": "https://smiteapi.adammackle.com/passives/25"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Void Stone",
+			"url": "https://smiteapi.adammackle.com/passives/142"
+		}
+	]
+}

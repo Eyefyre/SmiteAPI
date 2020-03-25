@@ -1,0 +1,28 @@
+{
+	"id": 1,
+	"name": "Assassin's Blessing",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/c/ca/AssassinsBlessing_T1.png/64px-AssassinsBlessing_T1.png?version=341a3c60028d2fbd7e0d11e3e3e67dd2",
+	"item_types": [
+		"Starter",
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 0,
+	"total_cost": 700,
+	"cost": 700,
+	"passives": [
+		"Kill or Assist Jungle Monsters or Enemy Gods to gain stacks. Jungle Monsters are worth 1 stack and Enemy Gods are worth 5 stacks. At 50 Stacks Assassin's Blessing Evolves, gaining +5 Penetration and 5% Movement speed."
+	],
+	"stat_changes": [
+		"+50 Health",
+		"+40% Bonus Damage vs. Jungle Monsters",
+		"+7% Health and 25 Mana Restored on Killing a Jungle Monster"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Evolved Assassin's Blessing",
+			"url": "https://smiteapi.adammackle.com/passives/2"
+		}
+	]
+}

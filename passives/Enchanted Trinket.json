@@ -1,0 +1,38 @@
+{
+	"id": 53,
+	"name": "Enchanted Trinket",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/9/9b/EnchantedRelic_T2.png?version=473a2ab4930b84bad82bf6431125e7e9",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 2,
+	"cost": 550,
+	"total_cost": 1100,
+	"passives": [],
+	"stat_changes": [
+		"+30 Magical Power",
+		"+100 Health",
+		"+12% Magical Lifesteal"
+	],
+	"previous_tiers": [
+		{
+			"name": "Tiny Trinket",
+			"url": "https://smiteapi.adammackle.com/passives/23"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Soul Gem",
+			"url": "https://smiteapi.adammackle.com/passives/156"
+		},
+		{
+			"name": "Divine Ruin",
+			"url": "https://smiteapi.adammackle.com/passives/146"
+		},
+		{
+			"name": "Pythagorem's Piece",
+			"url": "https://smiteapi.adammackle.com/passives/152"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"id": 167,
+	"name": "Mystical Mail",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/2/2b/MysticalMail_T3.png?version=05a2f4a5ed187ceb2130ad8ab8de23a9",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1050,
+	"total_cost": 2450,
+	"passives": [
+		"All enemies within 25 units are dealt 40 Magical Damage per second."
+	],
+	"stat_changes": [
+		"+200 Health",
+		"+40 Physical Protection",
+		"+20% Crowd Control Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Steel Mail",
+			"url": "https://smiteapi.adammackle.com/passives/83"
+		}
+	],
+	"next_tiers": []
+}

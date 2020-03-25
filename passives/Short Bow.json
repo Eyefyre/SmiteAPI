@@ -1,0 +1,26 @@
+{
+	"id": 39,
+	"name": "Short Bow",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/1/1c/ShortBow_T1.png?version=219098fed932fb4fd54d9d11d01975a1",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 1,
+	"cost": 650,
+	"total_cost": 650,
+	"passives": [],
+	"stat_changes": [
+		"+15% Attack Speed"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Charged Bow",
+			"url": "https://smiteapi.adammackle.com/passives/57"
+		},
+		{
+			"name": "Hunter's Bow",
+			"url": "https://smiteapi.adammackle.com/passives/61"
+		}
+	]
+}

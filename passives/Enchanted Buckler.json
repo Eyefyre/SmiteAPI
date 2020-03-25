@@ -1,0 +1,24 @@
+{
+	"id": 34,
+	"name": "Enchanted Buckler",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/7/7f/EnchantedBuckler_T1.png?version=921a39a7bbfd38957699308f5c42162c",
+	"item_types": [
+		"Offensive",
+		"Defensive"
+	],
+	"item_tier": 1,
+	"cost": 650,
+	"total_cost": 650,
+	"passives": [],
+	"stat_changes": [
+		"+10 Physical Power",
+		"+10 Magical Protection"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Warded Shield",
+			"url": "https://smiteapi.adammackle.com/passives/85"
+		}
+	]
+}

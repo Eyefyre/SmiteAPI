@@ -1,0 +1,36 @@
+{
+	"id": 66,
+	"name": "Balanced Blade",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/f/fe/Balanced_Blade.png?version=ccfef3220d4e61e8acb4361a239743ad",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 2,
+	"cost": 650,
+	"total_cost": 1250,
+	"passives": [],
+	"stat_changes": [
+		"+15 Physical Power",
+		"+15% Attack Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Light Blade",
+			"url": "https://smiteapi.adammackle.com/passives/29"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Qin's Sais",
+			"url": "https://smiteapi.adammackle.com/passives/198"
+		},
+		{
+			"name": "Asi",
+			"url": "https://smiteapi.adammackle.com/passives/179"
+		},
+		{
+			"name": "The Executioner",
+			"url": "https://smiteapi.adammackle.com/passives/161"
+		}
+	]
+}

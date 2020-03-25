@@ -1,0 +1,25 @@
+{
+	"id": 146,
+	"name": "Divine Ruin",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/f/f7/DivineRuin_T3.png?version=bffcc83ceec0266473d7ba2c5eeee28c",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 900,
+	"total_cost": 2300,
+	"passives": [
+		"Enemies hit by your abilities have 40% reduced healing and regeneration for 8 seconds."
+	],
+	"stat_changes": [
+		"+80 Magical Power",
+		"+15 Magical Penetration"
+	],
+	"previous_tiers": [
+		{
+			"name": "Enchanted Trinket",
+			"url": "https://smiteapi.adammackle.com/passives/53"
+		}
+	],
+	"next_tiers": []
+}

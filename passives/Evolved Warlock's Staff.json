@@ -1,0 +1,29 @@
+{
+	"id": 218,
+	"name": "Evolved Warlock's Staff",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/a/a7/WarlocksStaff_T3_Upgraded.png/64px-WarlocksStaff_T3_Upgraded.png?version=40c5fdfebb43b7fa6cc93ef2e60536bb",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1300,
+	"total_cost": 2650,
+	"passives": [
+		"You permanently gain +1 Health and +1 Magical Power per Stack, and receive 5 Stacks for a god kill and 1 Stack per minion kill. (Max. 75 Stacks)"
+	],
+	"stat_changes": [
+		"+140 Magical Power",
+		"+225 Health",
+		"+200 Mana",
+		"+10% Magical Penetration"
+	],
+	"previous_tiers": [
+		{
+			"name": "Sorcerer's Staff",
+			"url": "https://smiteapi.adammackle.com/passives/76"
+		}
+	],
+	"next_tiers": []
+}

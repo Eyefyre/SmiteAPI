@@ -1,0 +1,29 @@
+{
+	"id": 57,
+	"name": "Charged Bow",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/1/1c/ChargedBow_T2.png?version=a40968cbe21e0ed9320306a8196b97ea",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 2,
+	"cost": 550,
+	"total_cost": 1200,
+	"passives": [
+		"Every fourth Basic Attack triggers a chain lightning, damaging the target and up to 4 nearby enemies for 15 Physical Damage. This cannot trigger more than once every 1s."
+	],
+	"stat_changes": [
+		"+20% Attack Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Short Bow",
+			"url": "https://smiteapi.adammackle.com/passives/39"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Odysseus' Bow",
+			"url": "https://smiteapi.adammackle.com/passives/120"
+		}
+	]
+}

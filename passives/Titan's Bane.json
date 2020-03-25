@@ -1,0 +1,24 @@
+{
+	"id": 157,
+	"name": "Titan's Bane",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/c/cc/TitansBane_T3.png?version=7b0c2d5afc147ff0e3f6dd50b773023a",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 800,
+	"total_cost": 2300,
+	"passives": [
+		"Your Physical Damage ignores 15% of enemy gods' Physical Protection. If the god has over 65 Physical Protections, this effect scales up to ignore a larger percentage of their protection. This caps at 40% Physical Penetration at 200 or more Physical Protection."
+	],
+	"stat_changes": [
+		"+30 Physical Power"
+	],
+	"previous_tiers": [
+		{
+			"name": "Warrior's Bane",
+			"url": "https://smiteapi.adammackle.com/passives/91"
+		}
+	],
+	"next_tiers": []
+}

@@ -1,0 +1,27 @@
+{
+	"id": 27,
+	"name": "Glowing Emerald",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/6/65/GlowingEmerald_T1.png?version=def3a3c7be8e45ec214e51b938779f3a",
+	"item_types": [
+		"Defensive"
+	],
+	"item_tier": 1,
+	"cost": 600,
+	"total_cost": 600,
+	"passives": [],
+	"stat_changes": [
+		"+100 Health",
+		"+10 HP5"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Emerald Talisman",
+			"url": "https://smiteapi.adammackle.com/passives/79"
+		},
+		{
+			"name": "Emerald Mail",
+			"url": "https://smiteapi.adammackle.com/passives/68"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+    "id":6,
+    "name":"Baron's Brew",
+    "picture":"https://gamepedia.cursecdn.com/smite_gamepedia/thumb/3/38/BaronsBrew.png/64px-BaronsBrew.png?version=959a228b42db72af6014d497e2b88058",
+    "cost":150,
+    "effect":"Rum from Baron Samedi's personal cabinet. This consumable heals 140 Health and 100 Mana over 20 seconds per use. Comes with 3 uses that are refilled if you enter the Fountain, sells for 0 gold.",
+    "carry_limit":1
+}

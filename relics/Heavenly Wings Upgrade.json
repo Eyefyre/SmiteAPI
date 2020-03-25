@@ -1,0 +1,13 @@
+{
+    "id": 12,
+    "name": "Heavenly Wings Upgrade",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/6/60/Sprint_UpgradedRelic.png/64px-Sprint_UpgradedRelic.png?version=bf323147d7fe43b35ec38977cce6da2a",
+    "cost": 500,
+    "cooldown": 140,
+    "effect": "Using this item increases the Movement Speed of allied gods within 55 units by 20% for 5s, makes them immune to Slows, and grants Haste causing them to be immune to Basic Attack Movement Penalty.",
+    "next_tier": null,
+    "previous_tier": {
+        "name": "Heavenly Wings",
+        "url": "https://smiteapi.adammackle.com/relics/11"
+    }
+}

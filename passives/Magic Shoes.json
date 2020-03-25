@@ -1,0 +1,41 @@
+{
+	"id": 50,
+	"name": "Magic Shoes",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/6/66/M_Shoes_Magic.png?version=9de791a555334dfbaf3c3641355a773f",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 400,
+	"total_cost": 900,
+	"passives": [],
+	"stat_changes": [
+		"+20 Magical Power",
+		"+12% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Shoes",
+			"url": "https://smiteapi.adammackle.com/passives/20"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Shoes of Focus",
+			"url": "https://smiteapi.adammackle.com/passives/108"
+		},
+		{
+			"name": "Shoes of the Magi",
+			"url": "https://smiteapi.adammackle.com/passives/106"
+		},
+		{
+			"name": "Reinforced Shoes",
+			"url": "https://smiteapi.adammackle.com/passives/105"
+		},
+		{
+			"name": "Traveler's Shoes",
+			"url": "https://smiteapi.adammackle.com/passives/110"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"id": 47,
+	"name": "Gem Of Fate",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/7/71/GemofFate_T1.png?version=f34c234c35270d2f8c01109892d06fc3",
+	"item_types": [
+		"Utility"
+	],
+	"item_tier": 1,
+	"cost": 900,
+	"total_cost": 900,
+	"passives": [],
+	"stat_changes": [
+		"+10% Cooldown Reduction"
+	],
+	"previous_tiers": [],
+	"next_tiers": [
+		{
+			"name": "Honed Edge",
+			"url": "https://smiteapi.adammackle.com/passives/97"
+		},
+		{
+			"name": "Apprentice Staff",
+			"url": "https://smiteapi.adammackle.com/passives/94"
+		},
+		{
+			"name": "Knight's Shield",
+			"url": "https://smiteapi.adammackle.com/passives/98"
+		}
+	]
+}

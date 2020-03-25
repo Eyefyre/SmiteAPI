@@ -1,0 +1,28 @@
+{
+    "id": 214,
+    "name": "Evolved Charon's Coin",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/3/3f/CharonsCoin_T3_Upgraded.png/64px-CharonsCoin_T3_Upgraded.png?version=16fdeece78486975c7b45d3186346f78",
+    "item_types": [
+        "Offensive",
+        "Utility"
+    ],
+    "item_tier": 3,
+    "cost": 1200,
+    "total_cost": 2600,
+    "passives": [
+        "On god kill or assist a coin is flipped. If heads, you gain 150 Health over 6 seconds. If tails, you gain 5% Movement Speed for 6 seconds. You also gain 1 gold every time the coin is flipped."
+    ],
+    "stat_changes": [
+        "+80 Magical Power",
+        "+20% Magical Penetration",
+        "+20 MP5",
+        "+20 HP5"
+    ],
+    "previous_tiers": [
+        {
+            "name": "Restored Artifact",
+            "url": "https://smiteapi.adammackle.com/passives/81"
+        }
+    ],
+    "next_tiers": []
+}

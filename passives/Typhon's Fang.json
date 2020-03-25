@@ -1,0 +1,28 @@
+{
+	"id": 202,
+	"name": "Typhon's Fang",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/c/c1/TyphonsFang_T3.png?version=c7335c3f6b562702191ba4e9174aec9a",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1400,
+	"total_cost": 2800,
+	"passives": [
+		"Your Healing obtained from Magical Lifesteal is increased by 40%. Your Magical power is increased by twice the amount of Magical Lifesteal you have."
+	],
+	"stat_changes": [
+		"+70 Magical Power",
+		"+200 Mana",
+		"+15% Magical Lifesteal",
+		"+10% Magical Penetration."
+	],
+	"previous_tiers": [
+		{
+			"name": "Talon Trinket",
+			"url": "https://smiteapi.adammackle.com/passives/84"
+		}
+	],
+	"next_tiers": []
+}

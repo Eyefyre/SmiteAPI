@@ -1,0 +1,29 @@
+{
+	"id": 138,
+	"name": "Toxic Blade",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/e/eb/ToxicBlade_T3.png?version=2d3c9dffd054b25c263c276c42b72e1d",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 950,
+	"total_cost": 2200,
+	"passives": [
+		"Enemies hit by your basic attacks gain 20% reduced healing, stacking up to 2 times and lasting 8s."
+	],
+	"stat_changes": [
+		"+100 Health",
+		"+15 Penetration",
+		"+30% Attack Speed",
+		"+10% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Cursed Blade",
+			"url": "https://smiteapi.adammackle.com/passives/67"
+		}
+	],
+	"next_tiers": []
+}

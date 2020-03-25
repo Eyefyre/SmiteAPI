@@ -1,0 +1,24 @@
+{
+	"id": 120,
+	"name": "Odysseus' Bow",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/b/b5/OdysseusBow_T3.png?version=f3e54ed8feaed6fdf05f5fe24ea8d2f5",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 900,
+	"total_cost": 2100,
+	"passives": [
+		"Every fourth Basic Attack triggers a chain lightning, damaging the target and up to 4 nearby enemies for 15 damage +60% of your total Basic Attack Power."
+	],
+	"stat_changes": [
+		"+40% Attack Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Charged Bow",
+			"url": "https://smiteapi.adammackle.com/passives/57"
+		}
+	],
+	"next_tiers": []
+}

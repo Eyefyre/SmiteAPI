@@ -1,0 +1,27 @@
+{
+	"id": 131,
+	"name": "Atalanta's Bow",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/0/0a/AtalantasBow_T3.png?version=e96e282f474a7f41665bf845020fe4c8",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1000,
+	"total_cost": 2200,
+	"passives": [
+		"Hitting enemies with basic attacks gives you 1 stack of 5% Movement Speed. Stacks up to 3 times, stacks last 7s."
+	],
+	"stat_changes": [
+		"+30% Attack Speed",
+		"+30 Physical Power",
+		"+10% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Hunter's Bow",
+			"url": "https://smiteapi.adammackle.com/passives/61"
+		}
+	],
+	"next_tiers": []
+}

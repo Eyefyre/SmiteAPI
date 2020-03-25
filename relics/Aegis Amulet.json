@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "name": "Aegis Amulet",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/8/84/Sanctuary_Relic.png/64px-Sanctuary_Relic.png?version=83e94b7ef240ac0a72d7164b91c7a765",
+    "cost": 0,
+    "cooldown": 180,
+    "effect": "Using this item makes you invulnerable to damage and healing for 1.5s, preventing you from taking actions. You may still move.",
+    "next_tier": {
+        "name": "Aegis Amulet Upgrade",
+        "url": "https://smiteapi.adammackle.com/relics/2"
+    },
+    "previous_tier": null
+}

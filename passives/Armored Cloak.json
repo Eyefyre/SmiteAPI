@@ -1,0 +1,31 @@
+{
+	"id": 92,
+	"name": "Armored Cloak",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/a/a6/ArmoredHide_T2.png?version=4d8e9d6f2aeecd0c3ca10736c3e004d2",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 900,
+	"total_cost": 1550,
+	"passives": [],
+	"stat_changes": [
+		"+25 Physical Protection",
+		"+25 Magical Protection",
+		"+125 Health",
+		"+125 Mana"
+	],
+	"previous_tiers": [
+		{
+			"name": "Cloak",
+			"url": "https://smiteapi.adammackle.com/passives/32"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Hide of the Urchin",
+			"url": "https://smiteapi.adammackle.com/passives/165"
+		}
+	]
+}

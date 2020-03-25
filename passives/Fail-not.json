@@ -1,0 +1,27 @@
+{
+	"id": 200,
+	"name": "Fail-not",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/1/18/Fail-not_T3.png?version=4a2a784d01712a01fb16203d9c507b41",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1200,
+	"total_cost": 2800,
+	"passives": [
+		"When your Ultimate ability has finished casting, your next ability or basic attack within 8s that damages an enemy god marks them, increasing the chance you and your allies can land a Critical Strike by 15% for 10 seconds. This can only occur once every 45 seconds."
+	],
+	"stat_changes": [
+		"+45 Physical Power",
+		"20% Critical Strike Chance",
+		"+20% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Honed Edge",
+			"url": "https://smiteapi.adammackle.com/passives/97"
+		}
+	],
+	"next_tiers": []
+}

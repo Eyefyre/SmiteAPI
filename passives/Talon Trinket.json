@@ -1,0 +1,34 @@
+{
+	"id": 84,
+	"name": "Talon Trinket",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/e/ea/TalonTrinket_T2.png?version=8590f54678f0427d949eae8dcf37ba41",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 850,
+	"total_cost": 1400,
+	"passives": [],
+	"stat_changes": [
+		"+60 Magical Power",
+		"+100 Mana",
+		"+8% Magical Lifesteal"
+	],
+	"previous_tiers": [
+		{
+			"name": "Tiny Trinket",
+			"url": "https://smiteapi.adammackle.com/passives/"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Typhon's Fang",
+			"url": "https://smiteapi.adammackle.com/passives/202"
+		},
+		{
+			"name": "Bancroft's Talon",
+			"url": "https://smiteapi.adammackle.com/passives/169"
+		}
+	]
+}

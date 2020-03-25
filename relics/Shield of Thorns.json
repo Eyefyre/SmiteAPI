@@ -1,0 +1,13 @@
+{
+    "id": 23,
+    "name": "Shield Of Thorns",
+    "picture": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/c/c4/ShieldofThorns_Relic.png/64px-ShieldofThorns_Relic.png?version=04ab868908ae97d8037d7155588af2dd",
+    "cost": 0,
+    "cooldown": 120,
+    "effect": "Using this item reflects 40% of all damage you take, before mitigations, for the next 5s, back to its owner as Magical Damage. If you are dealt 150 * your level damage while this effect is active, the effect will end early.",
+    "next_tier": {
+        "name": "Shield Of Thorns Upgrade",
+        "url": "https://smiteapi.adammackle.com/relics/24"
+    },
+    "previous_tier": null
+}

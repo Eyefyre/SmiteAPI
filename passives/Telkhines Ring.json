@@ -1,0 +1,25 @@
+{
+	"id": 199,
+	"name": "Telkhines Ring",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/6/66/TelkhinesRing_T3.png?version=d51dd8fb2b575822640d3336f3f52b09",
+	"item_types": [
+		"Offensive"
+	],
+	"item_tier": 3,
+	"cost": 1600,
+	"total_cost": 2700,
+	"passives": [
+		"Your Basic Attacks deal bonus damage equal to 10 + 15% of your Magical Power. This effect does not hit structures."
+	],
+	"stat_changes": [
+		"+100 Magical Power",
+		"+25% Attack Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Enchanted Ring",
+			"url": "https://smiteapi.adammackle.com/passives/59"
+		}
+	],
+	"next_tiers": []
+}

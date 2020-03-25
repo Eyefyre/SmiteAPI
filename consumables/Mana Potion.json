@@ -1,0 +1,8 @@
+{
+    "id":2,
+    "name":"Mana Potion",
+    "picture":"https://gamepedia.cursecdn.com/smite_gamepedia/thumb/c/c3/ManaPotion.png/64px-ManaPotion.png?version=f50b90d2ff641a871a2a4b841ee36c88",
+    "cost":50,
+    "effect":"This consumable heals 150 Mana over 25 seconds.",
+    "carry_limit":5
+}

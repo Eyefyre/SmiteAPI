@@ -1,0 +1,28 @@
+{
+	"id": 129,
+	"name": "Runic Shield",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/c/c1/RunicShield_T3.png?version=e05a953761ce548d2834002149680282",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 750,
+	"total_cost": 2150,
+	"passives": [
+		"Enemy gods within 55 units have their Magical Power reduced by 50."
+	],
+	"stat_changes": [
+		"+35 Physical Power",
+		"+50 Magical Protection",
+		"+200 Health"
+	],
+	"previous_tiers": [
+		{
+			"name": "Warded Shield",
+			"url": "https://smiteapi.adammackle.com/passives/85"
+		}
+	],
+	"next_tiers": []
+}

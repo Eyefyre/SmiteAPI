@@ -1,0 +1,32 @@
+{
+	"id": 99,
+	"name": "Spiked Shield",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/e/e4/SpikedShield_T2.png?version=4be54d565db426fb6b718801b7e2dfd7",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 950,
+	"total_cost": 1600,
+	"passives": [
+		"Reduces the Physical Protection of enemies within 55 units by 5%."
+	],
+	"stat_changes": [
+		"+20 Physical Power",
+		"+30 Physical Protection"
+	],
+	"next_tiers": [
+		{
+			"name": "Void Shield",
+			"url": "https://smiteapi.adammackle.com/passives/191"
+		}
+	],
+	"previous_tiers": [
+		{
+			"name": "Round Shield",
+			"url": "https://smiteapi.adammackle.com/passives/38"
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"id": 68,
+	"name": "Emerald Mail",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/a/ac/SilverMail_T2.png?version=27360589117b216e1a7f2a12c22286d1",
+	"item_types": [
+		"Defensive"
+	],
+	"item_tier": 2,
+	"cost": 650,
+	"total_cost": 1250,
+	"passives": [],
+	"stat_changes": [
+		"+200 Health",
+		"+10 HP5"
+	],
+	"previous_tiers": [
+		{
+			"name": "Glowing Emerald",
+			"url": "https://smiteapi.adammackle.com/passives/27"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Mail of Renewal",
+			"url": "https://smiteapi.adammackle.com/passives/139"
+		},
+		{
+			"name": "Shield of Regrowth",
+			"url": "https://smiteapi.adammackle.com/passives/122"
+		},
+		{
+			"name": "Gauntlet of Thebes",
+			"url": "https://smiteapi.adammackle.com/passives/159"
+		}
+	]
+}

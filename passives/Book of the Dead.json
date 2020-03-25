@@ -1,0 +1,26 @@
+{
+	"id": 182,
+	"name": "Book Of The Dead",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/9/98/BookoftheDead_T3.png?version=2cfb8b53f78137e96c0e1444e65f8bc6",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1250,
+	"total_cost": 2600,
+	"passives": [
+		"If you drop below 40% Health, you gain a shield equal to 20% of your maximum Mana. The shield lasts 6s. This effect can only occur once every 90s."
+	],
+	"stat_changes": [
+		"+100 Magical Power",
+		"+200 Mana"
+	],
+	"previous_tiers": [
+		{
+			"name": "Book of Souls",
+			"url": "https://smiteapi.adammackle.com/passives/73"
+		}
+	],
+	"next_tiers": []
+}

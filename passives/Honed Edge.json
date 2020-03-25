@@ -1,0 +1,33 @@
+{
+	"id": 97,
+	"name": "Honed Edge",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/8/87/HonedEdge_T2.png?version=7be6ea63010d0acaea713fcea52c09b2",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 700,
+	"total_cost": 1600,
+	"passives": [],
+	"stat_changes": [
+		"+30 Physical Power",
+		"+10% Cooldown Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Gem of Fate",
+			"url": "https://smiteapi.adammackle.com/passives/47"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Arondight",
+			"url": "https://smiteapi.adammackle.com/passives/181"
+		},
+		{
+			"name": "Fail-Not",
+			"url": "https://smiteapi.adammackle.com/passives/200"
+		}
+	]
+}

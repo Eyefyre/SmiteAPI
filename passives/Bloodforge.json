@@ -1,0 +1,26 @@
+{
+	"id": 201,
+	"name": "Bloodforge",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/f/fa/Bloodforge_T3.png?version=8502a984a2b34d31bab767a6656b13e8",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1400,
+	"total_cost": 2800,
+	"passives": [
+		"Killing an enemy god forges a shield from their blood with Health equal to 200 + 10 per Player Level for 20s. While the Blood Shield is active you gain +10% movement speed."
+	],
+	"stat_changes": [
+		"+75 Physical Power",
+		"+15% Physical Lifesteal"
+	],
+	"previous_tiers": [
+		{
+			"name": "Cursed Gauntlet",
+			"url": "https://smiteapi.adammackle.com/passives/78"
+		}
+	],
+	"next_tiers": []
+}

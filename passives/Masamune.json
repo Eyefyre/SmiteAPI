@@ -1,0 +1,28 @@
+{
+	"id": 173,
+	"name": "Masamune",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/d/d9/Masamune_T3.png?version=a72edadeaae9386a7512350adac25161",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1200,
+	"total_cost": 2500,
+	"passives": [
+		"For each enemy god within 55 units of you, you gain a stacking buff that provides 7 Magical Protection and 7 Physical Protection. Stacks up to 5 times."
+	],
+	"stat_changes": [
+		"+50 Physical Power",
+		"+150 Health",
+		"+7% Movement Speed"
+	],
+	"previous_tiers": [
+		{
+			"name": "Thousand Fold Blade",
+			"url": "https://smiteapi.adammackle.com/passives/72"
+		}
+	],
+	"next_tiers": []
+}

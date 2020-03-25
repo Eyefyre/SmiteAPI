@@ -1,0 +1,27 @@
+{
+	"id": 151,
+	"name": "Polynomicon",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/b/bc/Polynomicon_T3.png?version=eb6601b00ce0a5a391714d06985e40f4",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1250,
+	"total_cost": 2300,
+	"passives": [
+		"Using an ability gives your next Basic Attack within the next 8 seconds +75% of your Magical Power as additional Magical Damage. The effect can only apply once every 3 seconds."
+	],
+	"stat_changes": [
+		"+85 Magical Power",
+		"+300 Mana",
+		"+12% Magical Lifesteal"
+	],
+	"previous_tiers": [
+		{
+			"name": "Book of Souls",
+			"url": "https://smiteapi.adammackle.com/passives/73"
+		}
+	],
+	"next_tiers": []
+}

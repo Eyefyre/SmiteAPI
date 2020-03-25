@@ -1,0 +1,31 @@
+{
+	"id": 71,
+	"name": "Shillelagh",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/8/83/Shillelagh_T2.png?version=02f4e7e556b341e79e5cd6abcfa402f7",
+	"item_types": [
+		"Offensive",
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 650,
+	"total_cost": 1300,
+	"passives": [],
+	"stat_changes": [
+		"+15 Physical Power",
+		"+200 Health",
+		"+100 Mana"
+	],
+	"previous_tiers": [
+		{
+			"name": "Cudgel",
+			"url": "https://smiteapi.adammackle.com/passives/33"
+		}
+	],
+	"next_tiers": [
+		{
+			"name": "Blackthorn Hammer",
+			"url": "https://smiteapi.adammackle.com/passives/132"
+		}
+	]
+}

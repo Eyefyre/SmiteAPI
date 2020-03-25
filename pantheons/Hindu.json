@@ -7,35 +7,35 @@
 	"gods": [
 		{
 			"name": "Agni",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Bakasura",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Ganesha",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Kali",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Kumbhakarna",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Rama",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Ravana",
-			"url": null
+			"url": "placeholder"
 		},
 		{
 			"name": "Vamana",
-			"url": null
+			"url": "placeholder"
 		}
 	]
 }

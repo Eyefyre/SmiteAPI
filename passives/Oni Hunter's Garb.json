@@ -1,0 +1,28 @@
+{
+	"id": 121,
+	"name": "Oni Hunter's Garb",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/a/ae/OniHuntersGarb_T3.png?version=12cc5a3cb34fe0b0035bf6817f3bcdaf",
+	"item_types": [
+		"Defensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 850,
+	"total_cost": 2100,
+	"passives": [
+		"For each enemy God within 55 units of you, you gain a stack of 3% damage mitigation. This caps at 3 stacks."
+	],
+	"stat_changes": [
+		"+100 Health",
+		"+60 Magical Protection",
+		"+30 MP5",
+		"+20% Crowd Control Reduction"
+	],
+	"previous_tiers": [
+		{
+			"name": "Spellbound Kusari",
+			"url": "https://smiteapi.adammackle.com/passives/70"
+		}
+	],
+	"next_tiers": []
+}

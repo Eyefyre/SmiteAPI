@@ -1,0 +1,26 @@
+{
+	"id": 207,
+	"name": "Rod Of Tahuti",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/e/e1/RodofTahuti_T3.png?version=0bdd7f7149f399846c137536b45372d4",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 3,
+	"cost": 1600,
+	"total_cost": 3000,
+	"passives": [
+		"Basic Attacks and Abilities gain 25% additional Magical Power against targets below 50% Health."
+	],
+	"stat_changes": [
+		"+160 Magical Power",
+		"+30 MP5"
+	],
+	"previous_tiers": [
+		{
+			"name": "Restored Artifact",
+			"url": "https://smiteapi.adammackle.com/passives/81"
+		}
+	],
+	"next_tiers": []
+}

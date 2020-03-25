@@ -1,0 +1,29 @@
+{
+	"id": 94,
+	"name": "Apprentice Staff",
+	"picture": "https://gamepedia.cursecdn.com/smite_gamepedia/1/1e/ApprenticeStaff_T2.png?version=f675e2484cbbd4238265e2a0908b15a5",
+	"item_types": [
+		"Offensive",
+		"Utility"
+	],
+	"item_tier": 2,
+	"cost": 700,
+	"total_cost": 1600,
+	"passives": [],
+	"stat_changes": [
+		"+50 Magical Power",
+		"+10% Cooldown Reduction"
+	],
+	"next_tiers": [
+		{
+			"name": "Staff of Myrddin",
+			"url": "https://smiteapi.adammackle.com/passives/208"
+		}
+	],
+	"previous_tiers": [
+		{
+			"name": "Gem of Fate",
+			"url": "https://smiteapi.adammackle.com/passives/47"
+		}
+	]
+}
