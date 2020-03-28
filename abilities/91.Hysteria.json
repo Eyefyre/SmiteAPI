@@ -1,0 +1,13 @@
+{
+	"id": 91,
+	"name": "Hysteria",
+	"slot": "Passive",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/7/7c/Icons_Baron_Passive.png",
+	"ability_type": "Passive",
+	"description": "Baron shares Baron's Brew, a powerful restorative chalice, with his allies from the Item Shop. Enemies hit by Baron will have Hysteria applied to them. Baron's abilities interact with Hysteria to provide bonus effects. Targets at Max Hysteria take 20% additional damage from Baron Samedi.",
+	"stats": [],
+	"god": {
+		"name": "Baron Samedi",
+		"url": "https://smiteapi.adammackle.com/gods/19"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"id": 410,
+	"name": "Astral Quiver",
+	"slot": "Passive",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/e/e9/Icons_Ram_Passive.png",
+	"ability_type": "Passive",
+	"description": "Rama's Astral Quiver generates an Astral Arrow every 12s. Also, every basic attack that Rama lands will reduce the amount of time to generate an arrow by 2s. Astral Arrows are used with his other abilities.",
+	"stats": [],
+	"god": {
+		"name": "Rama",
+		"url": "https://smiteapi.adammackle.com/gods/82"
+	}
+}

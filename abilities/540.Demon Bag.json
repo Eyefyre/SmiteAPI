@@ -1,0 +1,16 @@
+{
+	"id": 540,
+	"name": "Demon Bag",
+	"slot": "Passive",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/7/70/Icons_ZhongKui_Passive.png",
+	"ability_type": "Buff",
+	"description": "Zhong Kui captures demons each time anything dies within 80 units of him and stores them in his Demon Bag, giving him additional Protections. When Recall Demons is activated, Zhong Kui gains double the Protections from his Demon Bag, but loses half of the demons in the process. Zhong Kui also loses half the demons in his bag if he dies.",
+	"stats": [
+		"Protections: 0.5 per captured demon",
+		"Max Stacks: 60"
+	],
+	"god": {
+		"name": "Zhong Kui",
+		"url": "https://smiteapi.adammackle.com/gods/108"
+	}
+}

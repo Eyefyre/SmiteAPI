@@ -1,0 +1,22 @@
+{
+	"id": 99,
+	"name": "Ensnaring Claw",
+	"slot": "3rd Ability",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/a/a7/Icons_Bastet_A03.png",
+	"ability_type": "Pet",
+	"description": "Bastet sends a cat forward at her enemies. If a cat finds an enemy it ensnares them, damaging them and rooting them for .5s. The cat persists for 4s or until defeated, continuing to attack nearby enemies. The cats attacks will apply a 2s slow to the enemy. If Guardians of Bast is active, she will command her guardians to also charge forward.",
+	"stats": [
+		"Root Damage: 60/95/130/165/200 (+65% of your physical power)",
+		"Cat Damage: 20/25/30/35/40 (+30% of your inhand power)",
+		"Cat Hit Points: 2",
+		"Lane Minion Damage: 1 HP lost per 5 hits",
+		"Slow: 25%",
+		"Abilit Type: Line",
+		"Cooldown: 12 seconds",
+		"Cost: 60/65/70/75/80 mana"
+	],
+	"god": {
+		"name": "Bastet",
+		"url": "https://smiteapi.adammackle.com/gods/20"
+	}
+}

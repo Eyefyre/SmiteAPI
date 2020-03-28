@@ -1,0 +1,18 @@
+{
+	"id": 433,
+	"name": "Ambush",
+	"slot": "3rd Ability",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/f/f6/Icons_Serqet_A03.png",
+	"ability_type": "Leap",
+	"description": "Serqet vanishes, rooting herself in place. She may leap once, revealing herself and dealing damage to enemies. She will stay hidden until she leaps or cancels this ability. Enemy gods within range 12.5 will also reveal her.",
+	"stats": [
+		"Damage: 80/140/200/260/320 (+50% of your physical power)",
+		"Radius: 15",
+		"Cooldown: 18 seconds",
+		"Cost: 70 mana"
+	],
+	"god": {
+		"name": "Serqet",
+		"url": "https://smiteapi.adammackle.com/gods/86"
+	}
+}

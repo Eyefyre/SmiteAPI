@@ -1,0 +1,13 @@
+{
+	"id": 61,
+	"name": "Still Target",
+	"slot": "Passive",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/1/1f/Icons_Artemis_Passive.png",
+	"ability_type": "Passive",
+	"description": "Artemis deals 15% increased Basic Attack damage to gods and 30% to minions who are afflicted by Crowd Control.",
+	"stats": [],
+	"god": {
+		"name": "Artemis",
+		"url": "https://smiteapi.adammackle.com/gods/13"
+	}
+}

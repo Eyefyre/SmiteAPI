@@ -1,1 +1,7 @@
-{"id": 176, "name": "Back at Ya", "category": "Combat", "icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/5/5c/Achievement_Combat_Nemesis_BackatYou.png/96px-Achievement_Combat_Nemesis_BackatYou.png?version=f9da9508d755362c720c6eea9076489c", "description": "As Nemesis kill an enemy using the damage reflect from Retribution."}
+{
+	"id": 176,
+	"name": "Back At Ya",
+	"category": "Combat",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/5/5c/Achievement_Combat_Nemesis_BackatYou.png/96px-Achievement_Combat_Nemesis_BackatYou.png?version=f9da9508d755362c720c6eea9076489c",
+	"description": "As Nemesis kill an enemy using the damage reflect from Retribution."
+}

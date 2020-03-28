@@ -1,1 +1,7 @@
-{"id": 225, "name": "Fear of the Night", "category": "Combat", "icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/5/51/Achievement_Combat_Chernobog_FearoftheNight.png/96px-Achievement_Combat_Chernobog_FearoftheNight.png?version=6b18cde4f035e4f137a9a7cd8793df96", "description": "As Chernobog, utilize your Crystallized Curses and Vicious Barrage combo to root 3 enemy Gods at once."}
+{
+	"id": 225,
+	"name": "Fear Of The Night",
+	"category": "Combat",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/5/51/Achievement_Combat_Chernobog_FearoftheNight.png/96px-Achievement_Combat_Chernobog_FearoftheNight.png?version=6b18cde4f035e4f137a9a7cd8793df96",
+	"description": "As Chernobog, utilize your Crystallized Curses and Vicious Barrage combo to root 3 enemy Gods at once."
+}

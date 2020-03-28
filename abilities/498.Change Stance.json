@@ -1,0 +1,17 @@
+{
+	"id": 498,
+	"name": "Change Stance",
+	"slot": "3rd Ability",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/6/6d/Icons_Tyr_A03.png",
+	"ability_type": "Stance Change",
+	"description": "Tyr changes between Assault and Guard stances. Changing stances refreshes the cooldown on Fearless and Power Cleave.\nAssault Stance: Gain Physical Power.\nGuard Stance: Gain Protections.",
+	"stats": [
+		"Assault Stance: 10/20/30/40/50 Physical Power",
+		"Defense Stance: 10/20/30/40/50 Protections",
+		"Cooldown: 12/12/11/11/10 seconds"
+	],
+	"god": {
+		"name": "Tyr",
+		"url": "https://smiteapi.adammackle.com/gods/99"
+	}
+}

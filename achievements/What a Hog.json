@@ -1,1 +1,7 @@
-{"id": 490, "name": "What a Hog", "category": "Retired achievements", "icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/6/6a/Achievement_Objective_WhataHog.png/96px-Achievement_Objective_WhataHog.png?version=5091a0bb5df575fd3d70281238571e54", "description": "Killed 50 buff camp monsters using Hand of the Gods (Relic)."}
+{
+	"id": 490,
+	"name": "What A Hog",
+	"category": "Retired achievements",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/6/6a/Achievement_Objective_WhataHog.png/96px-Achievement_Objective_WhataHog.png?version=5091a0bb5df575fd3d70281238571e54",
+	"description": "Killed 50 buff camp monsters using Hand of the Gods (Relic)."
+}

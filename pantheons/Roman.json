@@ -7,47 +7,47 @@
 	"gods": [
 		{
 			"name": "Bacchus",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/17"
 		},
 		{
 			"name": "Bellona",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/21"
 		},
 		{
 			"name": "Cupid",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/32"
 		},
 		{
 			"name": "Discordia",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/34"
 		},
 		{
 			"name": "Hercules",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/48"
 		},
 		{
 			"name": "Janus",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/54"
 		},
 		{
 			"name": "Mercury",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/65"
 		},
 		{
 			"name": "Nox",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/72"
 		},
 		{
 			"name": "Sylvanus",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/93"
 		},
 		{
 			"name": "Terra",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/94"
 		},
 		{
 			"name": "Vulcan",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/102"
 		}
 	]
 }

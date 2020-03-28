@@ -1,0 +1,19 @@
+{
+	"id": 210,
+	"name": "Mounted Archery",
+	"slot": "Ultimate",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/b/b8/Icons_Hachiman_A04.png",
+	"ability_type": "Cone",
+	"description": "Hachiman leaps on his horse and charges forward. While mounted, he is immune to Crowd Control and can aim separately from the direction of his horse. He may fire to launch an arrow at every Enemy God within a cone.",
+	"stats": [
+		"Damage: 225/280/335/390/445 (+95% of your physical power)",
+		"Slow: 20/25/30/35/40%",
+		"Range: 85",
+		"Cooldown: 90s",
+		"Cost: 80/90/100/110/120"
+	],
+	"god": {
+		"name": "Hachiman",
+		"url": "https://smiteapi.adammackle.com/gods/42"
+	}
+}

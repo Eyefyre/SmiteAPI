@@ -1,0 +1,18 @@
+{
+	"id": 1,
+	"name": "Gift of the Gods",
+	"slot": "Passive",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/3/3f/Icons_Achilles_Passive.png",
+	"ability_type": "Passive",
+	"description": "Achilles adapts to the tide of Battle. While in the Fountain, Achilles can choose to wear armor, granting him bonus Health and Protections, or forgo it, granting him bonus Movement Speed and Physical Power. To swap, use Achilles Basic Attack while the Passive targeter is active.",
+	"stats": [
+		"Health Bonus: 25 +15 per Level",
+		"Protections Bonus: 5 +2 per Level",
+		"Movement Speed Bonus: 1% +.25% per Level",
+		"Physical Power Bonus: 3 +2 per Level"
+	],
+	"god": {
+		"name": "Achilles",
+		"url": "https://smiteapi.adammackle.com/gods/1"
+	}
+}

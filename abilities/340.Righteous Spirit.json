@@ -1,0 +1,16 @@
+{
+	"id": 340,
+	"name": "Righteous Spirit",
+	"slot": "Passive",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/3/34/Icons_NeZha_Passive.png",
+	"ability_type": "Passive",
+	"description": "Ne Zha's spirit is strengthened as he successfully hits enemies with abilities and basic attacks. Each hit provides 1 stack and each Critical Hit provides 2 stacks. Stacks reset if Ne Zha has not taken or dealt damage in the last 10s.",
+	"stats": [
+		"Maximum Stacks: 20",
+		"Movement Speed: 0.5% per stack"
+	],
+	"god": {
+		"name": "Ne Zha",
+		"url": "https://smiteapi.adammackle.com/gods/68"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"id": 500,
+	"name": "Weapon Master",
+	"slot": "Passive",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/5/5f/Icons_Ullr_Passive.png",
+	"ability_type": "Buff",
+	"description": "When Ullr uses an ability in either stance his cooldowns in the opposite stance are reduced.",
+	"stats": [
+		"Cooldown Reduction: 1s"
+	],
+	"god": {
+		"name": "Ullr",
+		"url": "https://smiteapi.adammackle.com/gods/100"
+	}
+}

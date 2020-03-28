@@ -1,0 +1,17 @@
+{
+	"id": 326,
+	"name": "Overload",
+	"slot": "Passive",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/3/3d/Icons_Merlin_Passive.png",
+	"ability_type": "Passive",
+	"description": "Every time Merlin casts a spell he gains a stack of Overload. When Merlin next fires a basic attack it will be augmented with lightning, dealing extra damage to the first Enemy.",
+	"stats": [
+		"Damage: 10 (+15% of your magical power)",
+		"Charges: 3",
+		"Duration: 5s"
+	],
+	"god": {
+		"name": "Merlin",
+		"url": "https://smiteapi.adammackle.com/gods/66"
+	}
+}

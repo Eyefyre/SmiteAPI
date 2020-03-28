@@ -1,0 +1,142 @@
+{
+	"id": 1,
+	"name": "Achilles",
+	"title": "Hero of the Trojan War",
+	"card": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/6/66/SkinArt_Achilles_Default.jpg/250px-SkinArt_Achilles_Default.jpg?version=82632ebe20d25b2eaf91e05811145214",
+	"pantheon": {
+		"name": "Greek",
+		"url": "https://smiteapi.adammackle.com/pantheons/5"
+	},
+	"power_type": "Physical",
+	"attack_type": "Melee",
+	"role": "Warrior",
+	"lore": "King Agamemnon brought his fury to bear against gilded Troy, for Prince Paris had stolen his Helen, his wife, whose beauty rivaled that of Athena and Aphrodite. To famed Achilles, invincible warrior, the king gave command of a thousand ships.Across stormy seas and salted beach, soldiers sieged the city. Arrow and stone, blade and barb bounced from Achilles' skin. Bathed as a babe in the River Styx by his Nereid mother, his hide was hardened, imperviously made. Through every charge, every death defying battle, Achilles was at the fore. Troy hung poised to crumble.Until Agamemnon gave sleight to the mighty myrmidon. In grave offense, Achilles pulled his forces from the field. Hector, boldest, bravest, eldest of the Trojan princes seized the chance to push the Greeks to the sea. Water's reflection mirrored scorching sails as Hector fired their ships. All seemed lost until Achilles rose to meet him. Fierce and fast the two titans fought, but Hector's spear felled Achilles fair. Though Patroclus, it was, in the armor of Achilles, not Achilles who lay dead.Wrathful at the loss of his faithful friend, Achilles donned armor newly made and challenged Hector alone. Spear and blade and amor rang, but Achilles could not be harmed. Hector, prince of Troy, died in battle that day.Paris, brother lost, tearful eyed, let arrow loose, guided by divine envy. For some were Gods that could not suffer Achilles to survive. Straight and true the arrow flew and harpooned Achilles' heel, where his mother held him when submerged. The wound was deep, his weakness found, Achilles met his end.A decade hence, from Hades' depths, Achilles has been drawn. Armored now, upon the heel, revenge his only aim. For envious Gods stole from him his glory and his life. Now they tremble at the wrath of the man that cannot be harmed.",
+	"gem_cost": 200,
+	"favor_cost": 5500,
+	"difficulty": "Average",
+	"release_date": "February 27, 2018",
+	"stats": [
+		{
+			"stat": "Health",
+			"value": "475 (+85)"
+		},
+		{
+			"stat": "Mana",
+			"value": "205 (+35)"
+		},
+		{
+			"stat": "Speed",
+			"value": "370 (+0)"
+		},
+		{
+			"stat": "Range",
+			"value": "16 (+0)"
+		},
+		{
+			"stat": "Attack Speed",
+			"value": "0.95 (+1.25%)"
+		},
+		{
+			"stat": "Basic Attack Damage",
+			"value": "38 (+ 2)+ 100% of Physical Power"
+		},
+		{
+			"stat": "Progression",
+			"value": "None"
+		},
+		{
+			"stat": "Physical Protection",
+			"value": "17 (+3)"
+		},
+		{
+			"stat": "Magical Protection",
+			"value": "30 (+0.9)"
+		},
+		{
+			"stat": "HP5",
+			"value": "9 (+0.75)"
+		},
+		{
+			"stat": "MP5",
+			"value": "4.7 (+0.39)"
+		}
+	],
+	"abilities": [
+		{
+			"name": "Gift of the Gods",
+			"url": "https://smiteapi.adammackle.com/abilities/1"
+		},
+		{
+			"name": "Shield of Achilles",
+			"url": "https://smiteapi.adammackle.com/abilities/2"
+		},
+		{
+			"name": "Radiant Glory",
+			"url": "https://smiteapi.adammackle.com/abilities/3"
+		},
+		{
+			"name": "Combat Dodge",
+			"url": "https://smiteapi.adammackle.com/abilities/4"
+		},
+		{
+			"name": "Fatal Strike",
+			"url": "https://smiteapi.adammackle.com/abilities/5"
+		}
+	],
+	"related_achievements": [
+		{
+			"name": "Fatally Struck!",
+			"url": "https://smiteapi.adammackle.com/achievements/223"
+		},
+		{
+			"name": "The Crowd Cheers!",
+			"url": "https://smiteapi.adammackle.com/achievements/358"
+		}
+	],
+	"skins": [
+		{
+			"name": "Default",
+			"card": "https://gamepedia.cursecdn.com/smite_gamepedia/e/eb/T_Achilles_Default_Card.png?version=5f8afff9bd21d5b944efe2bab5b90124"
+		},
+		{
+			"name": "Myrmidon",
+			"card": "https://gamepedia.cursecdn.com/smite_gamepedia/e/e2/T_Achilles_CC_Card.png?version=9f371f9e477895a254b76399bfc81293"
+		},
+		{
+			"name": "Revenant",
+			"card": "https://gamepedia.cursecdn.com/smite_gamepedia/6/63/T_Achilles_Revenant_card.png?version=cfe11f0a7e21dec6c15a1abe8afeba21"
+		},
+		{
+			"name": "Battleworn",
+			"card": "https://gamepedia.cursecdn.com/smite_gamepedia/1/1f/T_Achilles_Battleworn_Card.png?version=aaa016ba8ada52ff3be0f2534b686367"
+		},
+		{
+			"name": "Knight of Mordred",
+			"card": "https://gamepedia.cursecdn.com/smite_gamepedia/1/15/T_Achilles_Mordred_Card.png?version=817a293cfd89e33bdd621f74199ce9d1"
+		},
+		{
+			"name": "Tiger's Fury",
+			"card": "https://gamepedia.cursecdn.com/smite_gamepedia/1/11/T_Achilles_TigersFury_Card.png?version=9e300ce01c93ebad0dfa9eeb35c5a0d5"
+		},
+		{
+			"name": "Soul Piercer",
+			"card": "https://gamepedia.cursecdn.com/smite_gamepedia/3/37/T_Achilles_SoulPiercer_Card.png?version=11b74768ad1eca0a6c41fe53e1c07bf9"
+		},
+		{
+			"name": "Star Trooper",
+			"card": "https://gamepedia.cursecdn.com/smite_gamepedia/3/34/T_Achilles_StarGuard_Card.png?version=e5e96b31085d18043e533a29fdc885fe"
+		},
+		{
+			"name": "Golden",
+			"card": "https://gamepedia.cursecdn.com/smite_gamepedia/7/70/T_Achilles_Gold_Card.png?version=585ebe8cf802654ef212498b1d235109"
+		},
+		{
+			"name": "Legendary",
+			"card": "https://gamepedia.cursecdn.com/smite_gamepedia/7/70/T_Achilles_Gold_Card.png?version=585ebe8cf802654ef212498b1d235109"
+		},
+		{
+			"name": "Diamond",
+			"card": "https://gamepedia.cursecdn.com/smite_gamepedia/7/70/T_Achilles_Gold_Card.png?version=585ebe8cf802654ef212498b1d235109"
+		}
+	]
+}

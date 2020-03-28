@@ -1,1 +1,7 @@
-{"id": 364, "name": "The Legend of Excalibur", "category": "Combat", "icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/b/bc/Achievement_Combat_KingArthur_ExcaliburCast.png/96px-Achievement_Combat_KingArthur_ExcaliburCast.png?version=43541acac08b0d8b85b1980c17cc5bda", "description": "As King Arthur, cast Excalibur's Wrath and Sundering Strike within 10 seconds of each other."}
+{
+	"id": 364,
+	"name": "The Legend Of Excalibur",
+	"category": "Combat",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/b/bc/Achievement_Combat_KingArthur_ExcaliburCast.png/96px-Achievement_Combat_KingArthur_ExcaliburCast.png?version=43541acac08b0d8b85b1980c17cc5bda",
+	"description": "As King Arthur, cast Excalibur's Wrath and Sundering Strike within 10 seconds of each other."
+}

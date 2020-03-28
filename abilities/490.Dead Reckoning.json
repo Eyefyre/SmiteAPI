@@ -1,0 +1,22 @@
+{
+	"id": 490,
+	"name": "Dead Reckoning",
+	"slot": "Passive",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/9/95/Icons_Thoth_Passive.png",
+	"ability_type": "Passive",
+	"description": "Thoth pens the names of his fallen opponents in his book, recording their weaknesses. After killing 30 Enemies, Thoth gains a stack of 3 Magical Penetration, and killing an Enemy God will complete the current stack. He unlocks a new stack every 4 levels, up to a maximum of 5 stacks at level 17.",
+	"stats": [
+		"Kills for one Stack: 30",
+		"Penetration: 3 per Stack",
+		"Max Penetration: 15 at 5 Stacks",
+		"Level 1: Max 1 Stack",
+		"Level 5: Max 2 Stacks",
+		"Level 9: Max 3 Stacks",
+		"Level 13: Max 4 Stacks",
+		"Level 17: Max 5 Stacks"
+	],
+	"god": {
+		"name": "Thoth",
+		"url": "https://smiteapi.adammackle.com/gods/98"
+	}
+}

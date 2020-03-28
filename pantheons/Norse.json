@@ -7,63 +7,63 @@
 	"gods": [
 		{
 			"name": "Fafnir",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/36"
 		},
 		{
 			"name": "Fenrir",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/37"
 		},
 		{
 			"name": "Freya",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/38"
 		},
 		{
 			"name": "Heimdallr",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/45"
 		},
 		{
 			"name": "Hel",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/46"
 		},
 		{
 			"name": "Jormungandr",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/56"
 		},
 		{
 			"name": "Loki",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/63"
 		},
 		{
 			"name": "Odin",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/74"
 		},
 		{
 			"name": "Ratatoskr",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/83"
 		},
 		{
 			"name": "Skadi",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/88"
 		},
 		{
 			"name": "Sol",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/90"
 		},
 		{
 			"name": "Thor",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/97"
 		},
 		{
 			"name": "Tyr",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/99"
 		},
 		{
 			"name": "Ullr",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/100"
 		},
 		{
 			"name": "Ymir",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/106"
 		}
 	]
 }

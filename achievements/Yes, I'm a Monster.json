@@ -1,1 +1,7 @@
-{"id": 412, "name": "Yes, I'm a Monster", "category": "Combat", "icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/8/83/Achievement_Combat_Scylla_IamaMonster.png/96px-Achievement_Combat_Scylla_IamaMonster.png?version=b51849ee96df4b26176ffd741b2c39b7", "description": "As Scylla reset your Ultimate three or more times in a single use."}
+{
+	"id": 412,
+	"name": "Yes, I'm A Monster",
+	"category": "Combat",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/8/83/Achievement_Combat_Scylla_IamaMonster.png/96px-Achievement_Combat_Scylla_IamaMonster.png?version=b51849ee96df4b26176ffd741b2c39b7",
+	"description": "As Scylla reset your Ultimate three or more times in a single use."
+}

@@ -1,0 +1,18 @@
+{
+	"id": 544,
+	"name": "Recall Demons",
+	"slot": "Ultimate",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/7/72/Icons_ZhongKui_A04.png",
+	"ability_type": "Area",
+	"description": "Upon activation, demons pulse out from his bag at nearby players every second for 5s. They chase and accelerate over time, doing damage to enemies as they enter the body. Zhong Kui is immune to Knockback and Slows for the duration.",
+	"stats": [
+		"Damage: 80/95/110/125/140 (+20% of your magical power)",
+		"Radius: 40",
+		"Cooldown: 90 seconds",
+		"Cost: 100 mana"
+	],
+	"god": {
+		"name": "Zhong Kui",
+		"url": "https://smiteapi.adammackle.com/gods/108"
+	}
+}

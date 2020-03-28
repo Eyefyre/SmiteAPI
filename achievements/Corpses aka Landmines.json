@@ -1,1 +1,7 @@
-{"id": 198, "name": "Corpses aka Landmines", "category": "Combat", "icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/8/8d/Achievement_Combat_AhPuch_CorpsesLandmines.png/96px-Achievement_Combat_AhPuch_CorpsesLandmines.png?version=925183cc236977b516b82ea693dcf068", "description": "As Ah Puch blow up and hit an enemy with 6 corpses in one cast of Corpse Explosion."}
+{
+	"id": 198,
+	"name": "Corpses Aka Landmines",
+	"category": "Combat",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/8/8d/Achievement_Combat_AhPuch_CorpsesLandmines.png/96px-Achievement_Combat_AhPuch_CorpsesLandmines.png?version=925183cc236977b516b82ea693dcf068",
+	"description": "As Ah Puch blow up and hit an enemy with 6 corpses in one cast of Corpse Explosion."
+}

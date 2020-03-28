@@ -1,1 +1,7 @@
-{"id": 340, "name": "Spread the Fun", "category": "Combat", "icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/8/8c/Achievement_Combat_Baron_SpreadtheFub.png/96px-Achievement_Combat_Baron_SpreadtheFub.png?version=c539a9fd7c271a5308abda32e769c570", "description": "As Baron Samedi, cause 3 enemy gods to be above 30 Hysteria at the same time."}
+{
+	"id": 340,
+	"name": "Spread The Fun",
+	"category": "Combat",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/8/8c/Achievement_Combat_Baron_SpreadtheFub.png/96px-Achievement_Combat_Baron_SpreadtheFub.png?version=c539a9fd7c271a5308abda32e769c570",
+	"description": "As Baron Samedi, cause 3 enemy gods to be above 30 Hysteria at the same time."
+}

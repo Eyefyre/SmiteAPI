@@ -7,83 +7,83 @@
 	"gods": [
 		{
 			"name": "Achilles",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/1"
 		},
 		{
 			"name": "Aphrodite",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/9"
 		},
 		{
 			"name": "Apollo",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/10"
 		},
 		{
 			"name": "Arachne",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/11"
 		},
 		{
 			"name": "Ares",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/12"
 		},
 		{
 			"name": "Artemis",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/13"
 		},
 		{
 			"name": "Athena",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/15"
 		},
 		{
 			"name": "Cerberus",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/24"
 		},
 		{
 			"name": "Chiron",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/29"
 		},
 		{
 			"name": "Chronos",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/30"
 		},
 		{
 			"name": "Hades",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/43"
 		},
 		{
 			"name": "Hera",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/47"
 		},
 		{
 			"name": "Medusa",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/64"
 		},
 		{
 			"name": "Nemesis",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/70"
 		},
 		{
 			"name": "Nike",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/71"
 		},
 		{
 			"name": "Persephone",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/78"
 		},
 		{
 			"name": "Poseidon",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/79"
 		},
 		{
 			"name": "Scylla",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/85"
 		},
 		{
 			"name": "Thanatos",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/95"
 		},
 		{
 			"name": "Zeus",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/107"
 		}
 	]
 }

@@ -1,0 +1,16 @@
+{
+	"id": 286,
+	"name": "Fortitude",
+	"slot": "Passive",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/1/11/Icons_Khepri_Passive.png",
+	"ability_type": "Shield",
+	"description": "Every 5s, Khepri applies a shield to himself and nearby Allied Gods for 2% of the target's Maximum Health for 15s. The rate is slowed to every 10s while in combat. (Max 10%)",
+	"stats": [
+		"Shield: 2% of Maximum Health",
+		"Radius: 40"
+	],
+	"god": {
+		"name": "Khepri",
+		"url": "https://smiteapi.adammackle.com/gods/58"
+	}
+}

@@ -1,0 +1,1 @@
+{"id": 485, "name": "Warrior's Madness", "slot": "Passive", "icon": "https://gamepedia.cursecdn.com/smite_gamepedia/d/da/Icons_Thor_Passive.png", "ability_type": "Buff", "description": "Thor gains Physical Power for each enemy god within 30 units of him.", "stats": ["Physical Power: 10", "Max Stacks: 3"], "god": {"name": "Thor", "url": "https://smiteapi.adammackle.com/gods/97"}}

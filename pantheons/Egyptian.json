@@ -7,59 +7,59 @@
 	"gods": [
 		{
 			"name": "Anhur",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/6"
 		},
 		{
 			"name": "Anubis",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/7"
 		},
 		{
 			"name": "Bastet",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/20"
 		},
 		{
 			"name": "Geb",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/40"
 		},
 		{
 			"name": "Horus",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/49"
 		},
 		{
 			"name": "Isis",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/52"
 		},
 		{
 			"name": "Khepri",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/58"
 		},
 		{
 			"name": "Neith",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/69"
 		},
 		{
 			"name": "Osiris",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/76"
 		},
 		{
 			"name": "Ra",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/80"
 		},
 		{
 			"name": "Serqet",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/86"
 		},
 		{
 			"name": "Set",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/87"
 		},
 		{
 			"name": "Sobek",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/89"
 		},
 		{
 			"name": "Thoth",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/98"
 		}
 	]
 }

@@ -1,1 +1,7 @@
-{"id": 274, "name": "Look at Me!", "category": "Combat", "icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/f/fa/Achievement_Combat_Medusa_LookAtMe.png/96px-Achievement_Combat_Medusa_LookAtMe.png?version=5bf1f8e09dea4a7735c65267eeb88318", "description": "As Medusa stun or kill three or more enemy gods using Petrify."}
+{
+	"id": 274,
+	"name": "Look At Me!",
+	"category": "Combat",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/f/fa/Achievement_Combat_Medusa_LookAtMe.png/96px-Achievement_Combat_Medusa_LookAtMe.png?version=5bf1f8e09dea4a7735c65267eeb88318",
+	"description": "As Medusa stun or kill three or more enemy gods using Petrify."
+}

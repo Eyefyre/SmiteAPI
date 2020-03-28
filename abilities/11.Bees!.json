@@ -1,0 +1,16 @@
+{
+	"id": 11,
+	"name": "Bees!",
+	"slot": "Passive",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/b/b4/Icons_AMC_Passive.png",
+	"ability_type": "Passive",
+	"description": "Enemies afflicted by Bees! take damage every .5s for 2s, are revealed on the minimap, and swarm nearby enemies. Basic Attacks refresh and extend the duration of Bees! by 1s.",
+	"stats": [
+		"Damage: 5 (+6% of your physical power)",
+		"Radius: 20"
+	],
+	"god": {
+		"name": "Ah Muzen Cab",
+		"url": "https://smiteapi.adammackle.com/gods/3"
+	}
+}

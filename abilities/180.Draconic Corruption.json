@@ -1,0 +1,20 @@
+{
+	"id": 180,
+	"name": "Draconic Corruption",
+	"slot": "Ultimate",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/5/54/Icons_Fafnir_A04.png",
+	"ability_type": "Stim",
+	"description": "Fafnir transforms into a terrifying dragon and is untargetable during the process. When he emerges in dragon form, he regains 200 Mana and nearby enemies become poisoned, taking damage three times over 3s. He remains in this form for a duration or until the ability is activated again. As a dragon, his abilities have additional effects and his basic attack changes to a Dragon Breath that deals damage 3 times per second. Dragon Breath can not proc item hit effects.",
+	"stats": [
+		"Damage Per Tick: 80/100/120/140/160 (+40% of your magical power)",
+		"Duration: 20/25/30/35/40s",
+		"Dragon Breath Damage: 20/30/40/50/60 (+10% of your magical power)",
+		"Radius: 30",
+		"Cooldown: 90 seconds",
+		"Cost: 70 mana"
+	],
+	"god": {
+		"name": "Fafnir",
+		"url": "https://smiteapi.adammackle.com/gods/36"
+	}
+}

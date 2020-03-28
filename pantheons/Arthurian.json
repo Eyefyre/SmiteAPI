@@ -7,11 +7,11 @@
 	"gods": [
 		{
 			"name": "King Arthur",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/59"
 		},
 		{
 			"name": "Merlin",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/66"
 		}
 	]
 }

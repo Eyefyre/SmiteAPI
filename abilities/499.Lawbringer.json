@@ -1,0 +1,20 @@
+{
+	"id": 499,
+	"name": "Lawbringer",
+	"slot": "Ultimate",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/7/7f/Icons_Tyr_A04.png",
+	"ability_type": "Leap",
+	"description": "Tyr leaps through the air, bringing indiscriminate justice upon all enemies in the target area, and Slowing them.",
+	"stats": [
+		"Damage: 150/225/300/375/450 (+120% of your physical power)",
+		"Slow: 25%",
+		"Slow Duration: 3s",
+		"Radius: 25",
+		"Cooldown: 90/85/80/75/70 seconds",
+		"Cost: 80/90/100/110/120 mana"
+	],
+	"god": {
+		"name": "Tyr",
+		"url": "https://smiteapi.adammackle.com/gods/99"
+	}
+}

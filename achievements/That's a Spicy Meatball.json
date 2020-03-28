@@ -1,1 +1,7 @@
-{"id": 353, "name": "That's a Spicy Meatball", "category": "Combat", "icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/f/f5/Achievement_Combat_Vulcan_ThatsASpicyMeatball.png/96px-Achievement_Combat_Vulcan_ThatsASpicyMeatball.png?version=9533c60e8f2cf932134b13f629c3f0f8", "description": "As Vulcan kill an opponent with Backfire while they're knocked up in the air from Magma Bomb."}
+{
+	"id": 353,
+	"name": "That's A Spicy Meatball",
+	"category": "Combat",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/f/f5/Achievement_Combat_Vulcan_ThatsASpicyMeatball.png/96px-Achievement_Combat_Vulcan_ThatsASpicyMeatball.png?version=9533c60e8f2cf932134b13f629c3f0f8",
+	"description": "As Vulcan kill an opponent with Backfire while they're knocked up in the air from Magma Bomb."
+}

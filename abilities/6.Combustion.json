@@ -1,0 +1,15 @@
+{
+	"id": 6,
+	"name": "Combustion",
+	"slot": "Passive",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/1/12/Icons_Agni_Passive.png",
+	"ability_type": "Passive",
+	"description": "After hitting with 4 Basic Attacks, Agni will gain a Buff. On the next cast of Flame Wave or Rain Fire, all enemies hit by those abilities will be additionally set ablaze, taking damage every .5s for 3s.",
+	"stats": [
+		"Damage per Tick: 5 (+10% of your magical power)"
+	],
+	"god": {
+		"name": "Agni",
+		"url": "https://smiteapi.adammackle.com/gods/2"
+	}
+}

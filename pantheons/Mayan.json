@@ -7,39 +7,39 @@
 	"gods": [
 		{
 			"name": "Ah Muzen Cab",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/3"
 		},
 		{
 			"name": "Ah Puch",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/4"
 		},
 		{
 			"name": "Awilix",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/16"
 		},
 		{
 			"name": "Cabrakan",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/22"
 		},
 		{
 			"name": "Camazotz",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/23"
 		},
 		{
 			"name": "Chaac",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/26"
 		},
 		{
 			"name": "Hun Batz",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/51"
 		},
 		{
 			"name": "Kukulkan",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/60"
 		},
 		{
 			"name": "Xbalanque",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/103"
 		}
 	]
 }

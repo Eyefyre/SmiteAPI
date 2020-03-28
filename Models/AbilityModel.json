@@ -1,0 +1,15 @@
+{
+    "id":1,
+    "name":"",
+    "slot":"",
+    "ability_type":"",
+    "description:":"",
+    "stats":[
+        "",
+        ""
+    ],
+    "god":{
+        "name":"",
+        "url":"https://smiteapi.adammackle.com/gods/"
+    }
+}

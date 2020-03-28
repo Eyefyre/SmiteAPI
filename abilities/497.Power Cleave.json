@@ -1,0 +1,19 @@
+{
+	"id": 497,
+	"name": "Power Cleave",
+	"slot": "2nd Ability",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/b/b4/Icons_Tyr_A02.png",
+	"ability_type": "Cone",
+	"description": "Tyr makes a massive melee attack, hitting all enemies within a 180 degree cone.\nAssault Stance: Enemies that are knocked up in the air are knocked away.\nGuard Stance: Tyr heals himself for each enemy hit (max 3).",
+	"stats": [
+		"Damage: 80/115/150/185/220 (+65% of your physical power)",
+		"Healing: 20/45/70/95/120 (+20% of your physical power)",
+		"Cone: 180",
+		"Cooldown: 12/11/10/9/8 seconds",
+		"Cost: 50 mana"
+	],
+	"god": {
+		"name": "Tyr",
+		"url": "https://smiteapi.adammackle.com/gods/99"
+	}
+}

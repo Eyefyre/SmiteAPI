@@ -7,19 +7,19 @@
 	"gods": [
 		{
 			"name": "Artio",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/14"
 		},
 		{
 			"name": "Cernunnos",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/25"
 		},
 		{
 			"name": "Cu Chulainn",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/31"
 		},
 		{
 			"name": "The Morrigan",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/96"
 		}
 	]
 }

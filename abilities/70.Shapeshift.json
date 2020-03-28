@@ -1,0 +1,18 @@
+{
+	"id": 70,
+	"name": "Shapeshift",
+	"slot": "Ultimate",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/1/17/Icons_Artio_A04.png",
+	"ability_type": "Stance-switch",
+	"description": "Active: Artio Shapeshifts between her Druid stance and Bear stance. Passive: Every time Artio hits at least 1 enemy with an ability she gains 1 stack of Invigoration. Invigoration stacks increase her Movement Speed and MP5. Stacks last 4s, and stack up to 8 times.",
+	"stats": [
+		"Movement Speed Per Stack: 1/1/2/2/3%",
+		"MP5 Per Stack: 2/4/6/8/10",
+		"Cooldown: 1 second",
+		"Cost: 0 mana"
+	],
+	"god": {
+		"name": "Artio",
+		"url": "https://smiteapi.adammackle.com/gods/14"
+	}
+}

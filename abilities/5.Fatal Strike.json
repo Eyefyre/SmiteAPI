@@ -1,0 +1,20 @@
+{
+	"id": 5,
+	"name": "Fatal Strike",
+	"slot": "Ultimate",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/9/9c/Icons_Achilles_A04.png",
+	"ability_type": "Dash",
+	"description": "Achilles dashes forward and attacks. While dashing, Achilles will pass through minions, stop and hit the first enemy god he encounters, dealing damage to all he hits and executing gods below 30% Health. If Achilles successfully Executes a god with this ability, he can use it again, up to 5 times.As Achilles successfully Executes his enemies, he becomes more reckless in combat and leaves his heel exposed. Achilles will become more susceptible to damage, stacking up to 5 times.",
+	"stats": [
+		"Damage: 180/270/360/450/540 (+100% of your physical power)",
+		"Execute Threshold: 30%",
+		"Damage Taken Increase: 10%",
+		"Range: 35",
+		"Cooldown: 90 seconds",
+		"Cost: 80/85/90/95/100 mana"
+	],
+	"god": {
+		"name": "Achilles",
+		"url": "https://smiteapi.adammackle.com/gods/1"
+	}
+}

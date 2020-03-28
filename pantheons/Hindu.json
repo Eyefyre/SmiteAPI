@@ -7,35 +7,35 @@
 	"gods": [
 		{
 			"name": "Agni",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/2"
 		},
 		{
 			"name": "Bakasura",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/18"
 		},
 		{
 			"name": "Ganesha",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/39"
 		},
 		{
 			"name": "Kali",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/57"
 		},
 		{
 			"name": "Kumbhakarna",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/61"
 		},
 		{
 			"name": "Rama",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/82"
 		},
 		{
 			"name": "Ravana",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/84"
 		},
 		{
 			"name": "Vamana",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/101"
 		}
 	]
 }

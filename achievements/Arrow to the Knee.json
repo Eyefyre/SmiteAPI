@@ -1,1 +1,7 @@
-{"id": 172, "name": "Arrow to the Knee", "category": "Combat", "icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/e/e2/Achievement_Combat_Neith_ArrowtotheKnee.png/96px-Achievement_Combat_Neith_ArrowtotheKnee.png?version=5472bebf8fdabb6910e19054ca5aba06", "description": "As Neith, root three or more enemy gods with one Spirit Arrow."}
+{
+	"id": 172,
+	"name": "Arrow To The Knee",
+	"category": "Combat",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/e/e2/Achievement_Combat_Neith_ArrowtotheKnee.png/96px-Achievement_Combat_Neith_ArrowtotheKnee.png?version=5472bebf8fdabb6910e19054ca5aba06",
+	"description": "As Neith, root three or more enemy gods with one Spirit Arrow."
+}

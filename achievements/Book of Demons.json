@@ -1,1 +1,7 @@
-{"id": 183, "name": "Book of Demons", "category": "Combat", "icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/b/b3/Achievement_Combat_ZhongKui_BookofDemons.png/96px-Achievement_Combat_ZhongKui_BookofDemons.png?version=ec673dd17e22743704d7df7565cd20c6", "description": "As Zhong Kui stun three or more enemy gods with Book of Demons."}
+{
+	"id": 183,
+	"name": "Book Of Demons",
+	"category": "Combat",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/thumb/b/b3/Achievement_Combat_ZhongKui_BookofDemons.png/96px-Achievement_Combat_ZhongKui_BookofDemons.png?version=ec673dd17e22743704d7df7565cd20c6",
+	"description": "As Zhong Kui stun three or more enemy gods with Book of Demons."
+}

@@ -7,31 +7,27 @@
 	"gods": [
 		{
 			"name": "Amaterasu",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/5"
 		},
 		{
 			"name": "Hachiman",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/42"
 		},
 		{
 			"name": "Izanami",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/53"
 		},
 		{
 			"name": "Kuzenbo",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/62"
 		},
 		{
 			"name": "Raijin",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/81"
 		},
 		{
 			"name": "Susano",
-			"url": "placeholder"
-		},
-		{
-			"name": "Tsukuyomi",
-			"url": "placeholder"
+			"url": "https://smiteapi.adammackle.com/gods/92"
 		}
 	]
 }

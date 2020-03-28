@@ -1,0 +1,17 @@
+{
+	"id": 66,
+	"name": "Decompose",
+	"slot": "Passive",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/4/47/Icons_Artio_Passive.png",
+	"ability_type": "Passive",
+	"description": "Enemy gods hit by Artio's Druid or Bear damaging abilities will begin to decompose. This effect decreases their Physical and Magical Protections. This effect stacks.",
+	"stats": [
+		"Protections Debuff Per Stack: 2%",
+		"Max Stacks: 8",
+		"Duration: 4s"
+	],
+	"god": {
+		"name": "Artio",
+		"url": "https://smiteapi.adammackle.com/gods/14"
+	}
+}

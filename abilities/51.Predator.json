@@ -1,0 +1,13 @@
+{
+	"id": 51,
+	"name": "Predator",
+	"slot": "Passive",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/9/9a/Icons_Arachne_Passive.png",
+	"ability_type": "Passive",
+	"description": "Arachne's Basic Attacks gain 1.5% Physical damage for every 5% of a target's missing Health.",
+	"stats": [],
+	"god": {
+		"name": "Arachne",
+		"url": "https://smiteapi.adammackle.com/gods/11"
+	}
+}

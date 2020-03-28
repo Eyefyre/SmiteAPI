@@ -1,0 +1,22 @@
+{
+	"id": 234,
+	"name": "Divine Shroud",
+	"slot": "3rd Ability",
+	"icon": "https://gamepedia.cursecdn.com/smite_gamepedia/f/f4/Icons_Hera_A03.png",
+	"ability_type": "Shield",
+	"description": "Hera shrouds herself in her divine power, granting her a shield from damage and temporary movement speed that lasts as long as the shield remains. If Argus is active, Argus shines with the same Divine power as Hera, causing him to deal radiant damage and move at an increased rate.",
+	"stats": [
+		"Shield Health: 50/100/150/200/250 +20 per Hera's Level",
+		"Shield Duration: 5s",
+		"Movement Speed: 15%",
+		"Argus Aura Damage: 7/11/15/19/23 (+7.5% of your magical power)",
+		"Argus Speed: 50%",
+		"Ability: Shield and Buff",
+		"Cooldown: 16 seconds",
+		"Cost: 45/50/55/60/65 mana"
+	],
+	"god": {
+		"name": "Hera",
+		"url": "https://smiteapi.adammackle.com/gods/47"
+	}
+}
